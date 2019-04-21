@@ -6,3 +6,11 @@ categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+tetete
+=======
+tetetehgmghmgm
+>>>>>>> 01493469d8e66059b99d1753466592ceebe3c8c5
+>>>>>>> 32e9447b8f42a4d9dada266638edd1db6bfbd0db
