@@ -6,4 +6,3 @@ categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
-tetetehgmghmgm
