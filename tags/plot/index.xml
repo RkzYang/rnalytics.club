@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>plot on R&#39;nalytics</title>
+    <title>Plot on R&#39;nalytics</title>
     <link>/tags/plot/</link>
-    <description>Recent content in plot on R&#39;nalytics</description>
+    <description>Recent content in Plot on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
@@ -17,19 +17,7 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/posts/hello-r-markdown/</guid>
-<<<<<<< HEAD
-      <description>tetete</description>
-=======
-<<<<<<< HEAD
-      <description></description>
-=======
-<<<<<<< HEAD
-      <description>tetete</description>
-=======
-      <description>tetetehgmghmgm</description>
->>>>>>> 01493469d8e66059b99d1753466592ceebe3c8c5
->>>>>>> 32e9447b8f42a4d9dada266638edd1db6bfbd0db
->>>>>>> 44788b85b9150cd0515746906f069d478b3b7659
+      <description>test</description>
     </item>
     
   </channel>
