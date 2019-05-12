@@ -8,13 +8,13 @@
   </url>
   
   <url>
-    <loc>/categories/bitcoin/</loc>
+    <loc>/tags/bitcoin/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/bitcoin/</loc>
+    <loc>/categories/bitcoin/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -25,13 +25,13 @@
   </url>
   
   <url>
-    <loc>/categories/blockchain/</loc>
+    <loc>/tags/blockchain/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/blockchain/</loc>
+    <loc>/categories/blockchain/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -63,13 +63,30 @@
   </url>
   
   <url>
-    <loc>/categories/internet-of-things/</loc>
+    <loc>/posts/game-of-thrones-live-concert-experience-announces-2019-north-american-tour-dates-lake-schatz/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/immersive-experience/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/immersive-experience/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/internet-of-things/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/internet-of-things/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -86,13 +103,13 @@
   </url>
   
   <url>
-    <loc>/categories/quantum-computing/</loc>
+    <loc>/tags/quantum-computing/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/quantum-computing/</loc>
+    <loc>/categories/quantum-computing/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -104,13 +121,13 @@
   </url>
   
   <url>
-    <loc>/categories/robotic-process-automation/</loc>
+    <loc>/tags/robotic-process-automation/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/robotic-process-automation/</loc>
+    <loc>/categories/robotic-process-automation/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
