@@ -1,0 +1,15 @@
+---
+title: PhD student 
+author: Alexander Raginsky
+date: 2019-05-11
+slug: PhD student-Alexander Raginsky
+categories: 
+  - NLP
+tags: 
+  - NLP
+isCJKLanguage: no 
+---
+
+
+PhD student [<a href="https://nlppeople.com/job/phd-student-6/" target="_blank>read more</a>] 
+- The goal of this PhD research is: – to establish the scientific summarisation components using Argumentative Zoning (AZ) – to create an enlarged test collection for AZ, using small existing test collection – to increase the test collection to include differen… [+682 chars] 

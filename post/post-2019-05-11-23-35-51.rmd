@@ -1,0 +1,16 @@
+---
+title: SAP Tech Night Melbourne #sitMEL 1906 – Thursday 6th June 
+author: Phil Cooley
+date: 2019-05-11
+slug: SAP Tech Night Melbourne #sitMEL 1906 – Thursday 6th June-Phil Cooley
+categories: 
+  - Robotic Process Automation
+tags: 
+  - Robotic Process Automation
+isCJKLanguage: no 
+---
+
+
+SAP Tech Night Melbourne #sitMEL 1906 – Thursday 6th June [<a href="https://blogs.sap.com/2019/05/10/sap-tech-night-melbourne-sitmel-1906-thursday-6th-june/" target="_blank>read more</a>] 
+- Welcome to the second SAP Tech Night Melbourne #sitMEL of 2019! This event will be held on Thursday June 6th from 5.15pm 7.15pm at Bourne Digital (SAP Apphaus), 9 Queen Street, Melbourne 3000 (basement). 
+We are extremely fortunate to have Dr Nic from SAP sh… [+2500 chars] 

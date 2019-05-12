@@ -1,0 +1,15 @@
+---
+title: Source code and private keys for Samsung’s SmartThings app were left on GitLab 
+author: Arol Wright
+date: 2019-05-11
+slug: Source code and private keys for Samsung’s SmartThings app were left on GitLab-Arol Wright
+categories: 
+  - Internet of Things
+tags: 
+  - Internet of Things
+isCJKLanguage: no 
+---
+
+
+Source code and private keys for Samsung’s SmartThings app were left on GitLab [<a href="https://www.xda-developers.com/source-code-private-keys-samsung-smartthings-gitlab/" target="_blank>read more</a>] 
+- Technology has advanced to such a point where smart homes, formerly something that seemed like a work of fiction, are something that has become quite common to see. Everything is connected to the internet, and you can easily control things such as lights and … [+1907 chars] 
