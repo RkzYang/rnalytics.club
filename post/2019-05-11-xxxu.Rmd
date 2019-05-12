@@ -1,0 +1,16 @@
+---
+title: xxx
+author: yyy
+date: '2019-05-11'
+slug: xxx
+categories:
+  - R
+tags:
+  - plot
+isCJKLanguage: no
+---
+
+
+<!-- IoT Can Give Your Retail Business a Competitive Edge. Here's What You Need to Know. [<href="https://www.entrepreneur.com/article/333340" target="_blank>read more</a>]  -->
+<!-- - Opinions expressed by Entrepreneur contributors are their own. -->
+<!-- Whether you’re an entrepreneur with a retail startup or the head of a traditional global corporation, you've likely seen first-hand the increased challenges of today’s brick-and-mortar retail env… [+6302 chars]  -->

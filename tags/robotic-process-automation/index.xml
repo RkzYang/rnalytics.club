@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotic Process Automation on R&#39;nalytics</title>
+    <link>/tags/robotic-process-automation/</link>
+    <description>Recent content in Robotic Process Automation on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/robotic-process-automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft pushes the intelligent edge forward at Build</title>
+      <link>/posts/microsoft-pushes-the-intelligent-edge-forward-at-build-james-kobielus/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/microsoft-pushes-the-intelligent-edge-forward-at-build-james-kobielus/</guid>
+      <description>Microsoft pushes the intelligent edge forward at Build [&amp;lt;href=“https://siliconangle.com/2019/05/06/microsoft-pushes-intelligent-edge-forward-build/” target=&amp;quot;_blank&amp;gt;read more] - Microsoft Corp. continues to rack up impressive momentum in the cloud arena, a trend that it shifted into high gear Monday at its annual Build developer conference. The tech giant launched an impressive range of innovations in platforms, tools, cloud service… [+10120 chars]</description>
+    </item>
+    
+  </channel>
+</rss>
