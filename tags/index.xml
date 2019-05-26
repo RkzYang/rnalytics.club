@@ -30,29 +30,11 @@
     </item>
     
     <item>
-      <title>Different</title>
-      <link>/tags/different/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/different/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fuzzy</title>
       <link>/tags/fuzzy/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/fuzzy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fuzzystring</title>
-      <link>/tags/fuzzystring/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fuzzystring/</guid>
       <description></description>
     </item>
     
@@ -71,15 +53,6 @@
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Men</title>
-      <link>/tags/men/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/men/</guid>
       <description></description>
     </item>
     
@@ -120,47 +93,11 @@
     </item>
     
     <item>
-      <title>Science</title>
-      <link>/tags/science/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Template_tag</title>
       <link>/tags/template_tag/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/template_tag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time</title>
-      <link>/tags/time/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>/tags/web/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Women</title>
-      <link>/tags/women/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/women/</guid>
       <description></description>
     </item>
     

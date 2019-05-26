@@ -30,29 +30,11 @@
     </item>
     
     <item>
-      <title>Different</title>
-      <link>/categories/different/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/different/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fuzzy</title>
       <link>/categories/fuzzy/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/fuzzy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fuzzystring</title>
-      <link>/categories/fuzzystring/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/fuzzystring/</guid>
       <description></description>
     </item>
     
@@ -75,15 +57,6 @@
     </item>
     
     <item>
-      <title>Men</title>
-      <link>/categories/men/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/men/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>/categories/python/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
@@ -102,47 +75,11 @@
     </item>
     
     <item>
-      <title>Science</title>
-      <link>/categories/science/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Template_category</title>
       <link>/categories/template_category/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/template_category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time</title>
-      <link>/categories/time/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>/categories/web/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Women</title>
-      <link>/categories/women/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/women/</guid>
       <description></description>
     </item>
     
