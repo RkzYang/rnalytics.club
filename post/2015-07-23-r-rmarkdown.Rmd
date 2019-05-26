@@ -6,3 +6,7 @@ categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
+<<<<<<< HEAD
+=======
+test
+>>>>>>> 4f5560471b145d557cbd637de5faf6019cf01c3f
