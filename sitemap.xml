@@ -3,28 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
-    <loc>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/post-2019-05-26-13-48-10/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-2019-05-26-14-30-42/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -36,20 +20,19 @@
   <url>
     <loc>/posts/test/</loc>
     <lastmod>2019-04-21T00:00:00+00:00</lastmod>
-=======
-    <loc>/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
   </url>
   
   <url>
-    <loc>/categories/artificial-intelligence/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/posts/cjk-demo/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
+    <loc>/posts/code-demo/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -68,25 +51,16 @@
   <url>
     <loc>/categories/ai/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-=======
-    <loc>/tags/artificial-intelligence/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-<<<<<<< HEAD
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/tags/datascience/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -174,22 +148,17 @@
     <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
-=======
-    <loc>/posts/2019-05-11-tom-taulli-contributor-tom-taulli-contributor-https/www.forbes.com/sites/tomtaulli/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-<<<<<<< HEAD
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,20 +171,22 @@
   <url>
     <loc>/categories/python/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -284,20 +255,6 @@
   <url>
     <loc>/categories/women/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-=======
-    <loc>/posts/cjk-demo/</loc>
-    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/code-demo/</loc>
-    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
     <priority>0</priority>
   </url>
   

@@ -6,54 +6,10 @@
     <description>Recent content in Posts on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-<<<<<<< HEAD
-    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
-=======
-    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
+    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-<<<<<<< HEAD
-      <title>Natural Language Processing for Fuzzy String Matching with Python</title>
-      <link>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</guid>
-      <description>- Natural Language Processing for Fuzzy String Matching with Python [ &amp;lt;a href=&amp;quot;https://medium.com/@actsusanli/natural-language-processing-for-fuzzy-string-matching-with-python-6632b7824c49&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;read more&amp;lt;/a&amp;gt; ] In computer science, fuzzy string matching is the technique of finding strings that match a pattern… 5 min read - JIT fast! Supercharge tensor processing in Python with JIT compilation [ &amp;lt;a href=&amp;quot;https://medium.com/@chrisvcsefalvay/jit-fast-supercharge-tensor-processing-in-python-with-jit-compilation-47598de6ee96&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;read more&amp;lt;/a&amp;gt; ] Numba can speed up tensor processing work in Python by an order of magnitude. Read on for one of the easiest… 11 min read - Machine Learning | Natural Language Preprocessing with Python [ &amp;lt;a href=&amp;quot;https://medium.</description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing for Fuzzy String Matching with Python</title>
-      <link>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</guid>
-      <description>- Natural Language Processing for Fuzzy String Matching with Python  [ read more ] In computer science, fuzzy string matching is the technique of finding strings that match a pattern… 5 min read
-- JIT fast! Supercharge tensor processing in Python with JIT compilation  [ read more ] Numba can speed up tensor processing work in Python by an order of magnitude. Read on for one of the easiest… 11 min read</description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing for Fuzzy String Matching with Python</title>
-      <link>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</guid>
-      <description>- Natural Language Processing for Fuzzy String Matching with Python  [ read more ] In computer science, fuzzy string matching is the technique of finding strings that match a pattern… 5 min read
-- JIT fast! Supercharge tensor processing in Python with JIT compilation  [ read more ] Numba can speed up tensor processing work in Python by an order of magnitude. Read on for one of the easiest… 11 min read</description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing for Fuzzy String Matching with Python</title>
-      <link>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</guid>
-      <description>- Natural Language Processing for Fuzzy String Matching with Python  [ read more ] In computer science, fuzzy string matching is the technique of finding strings that match a pattern… 5 min read
-- JIT fast! Supercharge tensor processing in Python with JIT compilation  [ read more ] Numba can speed up tensor processing work in Python by an order of magnitude. Read on for one of the easiest… 11 min read</description>
-    </item>
     
     <item>
       <title>template_title</title>
@@ -82,15 +38,6 @@ tags: [&amp;ldquo;R Markdown&amp;rdquo;, &amp;ldquo;plot&amp;rdquo;, &amp;ldquo;
       <guid>/posts/hello-r-markdown/</guid>
       <description> &amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD test &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 4f5560471b145d557cbd637de5faf6019cf01c3f
  </description>
-=======
-      <title>How To Reskill Your Workforce For AI (Artificial Intelligence)</title>
-      <link>/posts/2019-05-11-tom-taulli-contributor-tom-taulli-contributor-https/www.forbes.com/sites/tomtaulli/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2019-05-11-tom-taulli-contributor-tom-taulli-contributor-https/www.forbes.com/sites/tomtaulli/</guid>
-      <description> ‘How To Reskill Your Workforce For AI (Artificial Intelligence)’ [ read more ]
- Share to facebook Share to twitter Share to linkedin AI city Network Server Technology Getty AI is considered the most disruptive technology, according to Gartners 2019 CIO Survey (it includes over 3,000 CIOs from 89 countries). So yes, this is big reaso… [+8892 chars]  </description>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
     </item>
     
   </channel>

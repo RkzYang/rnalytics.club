@@ -6,28 +6,10 @@
     <description>Recent content in Plot on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>xxx</title>
-      <link>/posts/xxx/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/xxx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xxx</title>
-      <link>/posts/xxx/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/xxx/</guid>
-      <description> read more] -- </description>
-    </item>
     
     <item>
       <title>Hello R Markdown</title>
@@ -35,12 +17,8 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/posts/hello-r-markdown/</guid>
-<<<<<<< HEAD
       <description> &amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD test &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 4f5560471b145d557cbd637de5faf6019cf01c3f
  </description>
-=======
-      <description>test</description>
->>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
     </item>
     
   </channel>
