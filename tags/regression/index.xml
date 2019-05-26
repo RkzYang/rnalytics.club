@@ -17,8 +17,12 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/posts/hello-r-markdown/</guid>
+<<<<<<< HEAD
       <description> &amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD test &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 4f5560471b145d557cbd637de5faf6019cf01c3f
  </description>
+=======
+      <description>test</description>
+>>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5
     </item>
     
   </channel>

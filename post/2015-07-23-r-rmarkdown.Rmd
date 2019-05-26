@@ -7,6 +7,10 @@ tags: ["R Markdown", "plot", "regression"]
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 test
 >>>>>>> 4f5560471b145d557cbd637de5faf6019cf01c3f
+=======
+test
+>>>>>>> 98b61fb21b9eaa7ad01e3ca4c41e4d738dbe3dc5

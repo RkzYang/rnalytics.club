@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Computing on R&#39;nalytics</title>
+    <link>/tags/quantum-computing/</link>
+    <description>Recent content in Quantum Computing on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computing faster with quasi-particles</title>
+      <link>/posts/computing-faster-with-quasi-particles-science-x-staff/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/computing-faster-with-quasi-particles-science-x-staff/</guid>
+      <description>Computing faster with quasi-particles [&amp;lt;href=“https://phys.org/news/2019-05-faster-quasi-particles.html” target=&amp;quot;_blank&amp;gt;read more] - Majorana particles are very peculiar members of the family of elementary particles. First predicted in 1937 by the Italian physicist Ettore Majorana, these particles belong to the group of so-called fermions, a group that also includes electrons, neutrons and… [+4136 chars]</description>
+    </item>
+    
+    <item>
+      <title>Everything Microsoft announced at Build 2019</title>
+      <link>/posts/everything-microsoft-announced-at-build-2019-paul-sawers/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/everything-microsoft-announced-at-build-2019-paul-sawers/</guid>
+      <description>Everything Microsoft announced at Build 2019 [&amp;lt;href=“https://venturebeat.com/2019/05/07/everything-microsoft-announced-at-build-2019/” target=&amp;quot;_blank&amp;gt;read more] - While we had some idea of what to expect from Microsoft Build 2019, the annual conference heralded a number of notable announcements for developers, companies, and consumers alike, spanning artificial intelligence (AI), cloud computing, Kubernetes, and — yes … [+6373 chars]</description>
+    </item>
+    
+  </channel>
+</rss>

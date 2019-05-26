@@ -1,0 +1,15 @@
+---
+title: Everything Microsoft announced at Build 2019 
+author: Paul Sawers
+date: 2019-05-11
+slug: Everything Microsoft announced at Build 2019-Paul Sawers
+categories: 
+  - Quantum Computing
+tags: 
+  - Quantum Computing
+isCJKLanguage: no 
+---
+
+
+Everything Microsoft announced at Build 2019 [<href="https://venturebeat.com/2019/05/07/everything-microsoft-announced-at-build-2019/" target="_blank>read more</a>] 
+- While we had some idea of what to expect from Microsoft Build 2019, the annual conference heralded a number of notable announcements for developers, companies, and consumers alike, spanning artificial intelligence (AI), cloud computing, Kubernetes, and — yes … [+6373 chars] 
