@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/posts/post-2019-05-26-15-26-13/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/template-title/</loc>
     <lastmod>2019-05-03T00:00:00+00:00</lastmod>
   </url>
@@ -53,13 +58,13 @@
   </url>
   
   <url>
-    <loc>/categories/ai/</loc>
+    <loc>/tags/ai/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/ai/</loc>
+    <loc>/categories/ai/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -71,19 +76,13 @@
   </url>
   
   <url>
-    <loc>/categories/datascience/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/datascience/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/different/</loc>
+    <loc>/categories/datascience/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -95,7 +94,7 @@
   </url>
   
   <url>
-    <loc>/categories/fuzzy/</loc>
+    <loc>/categories/different/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -107,7 +106,7 @@
   </url>
   
   <url>
-    <loc>/categories/fuzzystring/</loc>
+    <loc>/categories/fuzzy/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -119,7 +118,7 @@
   </url>
   
   <url>
-    <loc>/categories/languageprocessing/</loc>
+    <loc>/categories/fuzzystring/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -131,7 +130,7 @@
   </url>
   
   <url>
-    <loc>/categories/media/</loc>
+    <loc>/categories/languageprocessing/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -143,13 +142,19 @@
   </url>
   
   <url>
-    <loc>/categories/men/</loc>
+    <loc>/categories/media/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/men/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/men/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -173,13 +178,13 @@
   </url>
   
   <url>
-    <loc>/categories/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/python/</loc>
+    <loc>/categories/python/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -203,13 +208,13 @@
   </url>
   
   <url>
-    <loc>/categories/science/</loc>
+    <loc>/tags/science/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/science/</loc>
+    <loc>/categories/science/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -233,19 +238,13 @@
   </url>
   
   <url>
-    <loc>/categories/time/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/time/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/web/</loc>
+    <loc>/categories/time/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -257,13 +256,19 @@
   </url>
   
   <url>
-    <loc>/categories/women/</loc>
+    <loc>/categories/web/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/women/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/women/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
