@@ -1,0 +1,19 @@
+---
+title: template_title
+author: template_author
+date: '2019-05-03'
+slug: template-title
+categories:
+  - template_category
+tags:
+  - template_tag
+isCJKLanguage: no
+---
+
+title 1 [<href="xxx" target="_blank>read more</a>]
+- description 1
+- description 2
+- description 3
+
+
+
