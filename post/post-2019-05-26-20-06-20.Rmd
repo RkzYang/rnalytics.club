@@ -48,9 +48,11 @@ isCJKLanguage: no
 
 
 
-## 'Microsoft and Sony collaborating on "cloud-based solutions for gaming experiences and content-streaming"' 
- [ <a href="https://www.eurogamer.net/articles/2019-05-16-microsoft-and-sony-collaborating-on-cloud-based-solutions-for-gaming-experiences-and-content-streaming" target="_blank">read more</a> ]
-Microsoft and Sony have announced a new partnership that will see the two companies working together to create "new innovations to enhance customer experiences", with a particular focus on gaming and content-streaming. 
-Part of the deal will see Sony explori… [+1600 chars] 
+## 'Adobe's mobile video editor Premiere Rush makes its debut on Android' 
+ [ <a href="https://www.androidcentral.com/adobes-mobile-video-editor-premiere-rush-makes-its-debut-android" target="_blank">read more</a> ]
+Adobe Premiere Rush is now available for Android devices.
+The video editor allows you to seamlessly transition between your mobile devices and computer for editing.
+There is a free trial but prices start at $9.99 per month.
+Video creators, get ready to rej… [+2538 chars] 
 
 

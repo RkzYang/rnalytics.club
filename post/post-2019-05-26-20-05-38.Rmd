@@ -48,9 +48,9 @@ isCJKLanguage: no
 
 
 
-## 'Even if You Predict the Future Perfectly You Still Won’t Capitalize On It' 
- [ <a href="https://www.innovationexcellence.com/blog/2019/05/22/even-if-you-predict-the-future-perfectly-you-still-wont-capitalize-on-it/" target="_blank">read more</a> ]
-by Tom KoulopoulosIn 1993 AT&amp;T predicted the future in one of the most successful and prescient ad campaigns ever. They still missed the boat. Here’s what you can learn from their mistake.
-Editor’s note: Portions of this post are excerpted from my latest… [+6380 chars] 
+## 'Quantum computing boost from vapour stabilising technique' 
+ [ <a href="https://www.eurekalert.org/pub_releases/2019-05/uob-qcb052319.php" target="_blank">read more</a> ]
+A technique to stabilise alkali metal vapour density using gold nanoparticles, so electrons can be accessed for applications including quantum computing, atom cooling and precision measurements, has been patented by scientists at the University of Bath. 
+Alk… [+4512 chars] 
 
 
