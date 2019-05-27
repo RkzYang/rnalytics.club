@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ai on R&#39;nalytics</title>
-    <link>/tags/ai/</link>
-    <description>Recent content in Ai on R&#39;nalytics</description>
+    <title>Textsummarization on R&#39;nalytics</title>
+    <link>/tags/textsummarization/</link>
+    <description>Recent content in Textsummarization on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
     <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/textsummarization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Why are developers still using Angular? [ read more ] especially when everyone seems to be wanting React 4 min read
  Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent… [ read more ] Have you ever been inside a well-maintained library? I’m always incredibly impressed with the way the… 10 min read
  Unsupervised Text Summarization using Sentence Embeddings [ read more ] I will describe the approach that I used to perform Text Summarization on a multi language dataset of… 13 min read</description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing for Fuzzy String Matching with Python</title>
-      <link>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</guid>
-      <description>Natural Language Processing for Fuzzy String Matching with Python [ read more ] In computer science, fuzzy string matching is the technique of finding strings that match a pattern… 5 min read
- JIT fast! Supercharge tensor processing in Python with JIT compilation [ read more ] Numba can speed up tensor processing work in Python by an order of magnitude. Read on for one of the easiest… 11 min read</description>
     </item>
     
   </channel>

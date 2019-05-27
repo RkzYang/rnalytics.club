@@ -6,7 +6,7 @@
     <description>Recent content in Categories on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Approach</title>
+      <link>/categories/approach/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -62,6 +71,24 @@
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>/categories/react/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textsummarization</title>
+      <link>/categories/textsummarization/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/textsummarization/</guid>
       <description></description>
     </item>
     
