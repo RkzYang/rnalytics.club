@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/6-reasons-microsoft-has-become-the-go-to-for-machine-learning/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -41,20 +46,26 @@
   </url>
   
   <url>
-    <loc>/categories/ai/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/approach/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <loc>/categories/ai/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/apis/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/apis/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,26 +76,26 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/approach/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/datascience/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/fuzzy/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <loc>/categories/datascience/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,8 +106,8 @@
   </url>
   
   <url>
-    <loc>/categories/human/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/fuzzy/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -107,8 +118,8 @@
   </url>
   
   <url>
-    <loc>/categories/languageprocessing/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <loc>/categories/human/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,20 +130,20 @@
   </url>
   
   <url>
-    <loc>/categories/learning/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/languageprocessing/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/learning/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/media/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <loc>/categories/learning/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,8 +154,8 @@
   </url>
   
   <url>
-    <loc>/categories/microsoft/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/media/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,7 +166,7 @@
   </url>
   
   <url>
-    <loc>/categories/model/</loc>
+    <loc>/categories/microsoft/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -167,8 +178,26 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/categories/model/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/organizations/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/organizations/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,20 +208,14 @@
   </url>
   
   <url>
-    <loc>/categories/python/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/python/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/react/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <loc>/categories/python/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,14 +226,14 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/react/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/textsummarization/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -221,13 +244,19 @@
   </url>
   
   <url>
-    <loc>/categories/tools/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/textsummarization/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/tools/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

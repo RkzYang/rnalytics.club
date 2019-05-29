@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning on R&#39;nalytics</title>
-    <link>/categories/learning/</link>
-    <description>Recent content in Learning on R&#39;nalytics</description>
+    <title>Organizations on R&#39;nalytics</title>
+    <link>/tags/organizations/</link>
+    <description>Recent content in Organizations on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
     <lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/organizations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <description>Differences Between AI and Machine Learning and Why it Matters [ read more ] Unfortunately, some tech organizations are deceiving customers by proclaiming using AI on their technologies… 13 min read
  Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
  Report on Text Classification using CNN, RNN &amp;amp; HAN [ read more ] Experimenting with various neural networks architectures.</description>
-    </item>
-    
-    <item>
-      <title>6 reasons Microsoft has become the go-to for machine learning</title>
-      <link>/posts/6-reasons-microsoft-has-become-the-go-to-for-machine-learning/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/6-reasons-microsoft-has-become-the-go-to-for-machine-learning/</guid>
-      <description>6 reasons Microsoft has become the go-to for machine learning [ read more ] Including the latest tools announced at Microsoft Build 2019 7 min read
- An Overview of Human Pose Estimation with Deep Learning [ read more ] An introduction to the techniques used in Human Pose Estimation based on Deep Learning. 9 min read
- Text Preprocessing in Python: Steps, Tools, and Examples [ read more ] by Olga Davydova, Data Monsters 7 min read</description>
     </item>
     
   </channel>
