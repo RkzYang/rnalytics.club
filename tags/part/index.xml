@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part on R&#39;nalytics</title>
+    <link>/tags/part/</link>
+    <description>Recent content in Part on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/part/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>36 Amazing Python Open Source Projects (v.2019)</title>
+      <link>/posts/36-amazing-python-open-source-projects-v.2019/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/36-amazing-python-open-source-projects-v.2019/</guid>
+      <description>36 Amazing Python Open Source Projects (v.2019) [ read more ] For the past year, we’ve compared nearly 5,000 open source Python projects and selected the top 36. 6 min read
+ NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields [ read more ] POS tagging is the process of marking up a word in a corpus to a corresponding part of speech tag, based on… 6 min read</description>
+    </item>
+    
+  </channel>
+</rss>

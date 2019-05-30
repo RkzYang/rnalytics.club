@@ -6,7 +6,7 @@
     <description>Recent content in Tags on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -71,6 +71,15 @@
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/languageprocessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Languages</title>
+      <link>/tags/languages/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/languages/</guid>
       <description></description>
     </item>
     
@@ -120,6 +129,15 @@
     </item>
     
     <item>
+      <title>Part</title>
+      <link>/tags/part/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/part/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>/tags/python/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
@@ -129,11 +147,38 @@
     </item>
     
     <item>
+      <title>Pythonopen</title>
+      <link>/tags/pythonopen/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pythonopen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pythonprojects</title>
+      <link>/tags/pythonprojects/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pythonprojects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>React</title>
       <link>/tags/react/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>/tags/speech/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/speech/</guid>
       <description></description>
     </item>
     
