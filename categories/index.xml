@@ -6,7 +6,7 @@
     <description>Recent content in Categories on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -39,9 +39,18 @@
     </item>
     
     <item>
+      <title>Bash</title>
+      <link>/categories/bash/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -62,6 +71,15 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>/categories/images/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/images/</guid>
       <description></description>
     </item>
     
@@ -116,6 +134,15 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuralnetworks</title>
+      <link>/categories/neuralnetworks/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/neuralnetworks/</guid>
       <description></description>
     </item>
     

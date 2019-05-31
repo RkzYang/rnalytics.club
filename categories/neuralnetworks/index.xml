@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuralnetworks on R&#39;nalytics</title>
+    <link>/categories/neuralnetworks/</link>
+    <description>Recent content in Neuralnetworks on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/neuralnetworks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A New Way to Build Tiny Neural Networks Could Create Powerful AI on Your Phone</title>
+      <link>/posts/a-new-way-to-build-tiny-neural-networks-could-create-powerful-ai-on-your-phone/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/a-new-way-to-build-tiny-neural-networks-could-create-powerful-ai-on-your-phone/</guid>
+      <description>A New Way to Build Tiny Neural Networks Could Create Powerful AI on Your Phone [ read more ] We’ve been wasting our processing power to train neural networks that are 10 times too big 6 min read
+ How to classify photos in 600 classes using nine million Open Images [ read more ] If you’re looking to train an image classifier for fun or profit and are in need of data to do it, look no… 8 min read</description>
+    </item>
+    
+  </channel>
+</rss>

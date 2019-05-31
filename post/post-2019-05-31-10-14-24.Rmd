@@ -1,0 +1,54 @@
+---
+title: A New Way to Build Tiny Neural Networks Could Create Powerful AI on Your Phone   
+author: 
+date: 2019-05-31
+slug: 
+categories: 
+- neuralnetworks
+- images
+- bash
+- datascience
+- AI
+tags: 
+- neuralnetworks
+- images
+- bash
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## A New Way to Build Tiny Neural Networks Could Create Powerful AI on Your Phone   
+[ <a href="https://medium.com/@MITTechReview/a-new-way-to-build-tiny-neural-networks-could-create-powerful-ai-on-your-phone-6a8d7f54874d" target="_blank">read more</a> ] 
+  We've been wasting our processing power to train neural networks that are 10 times too big 6 min read 
+
+
+
+
+## How to classify photos in 600 classes using nine million Open Images   
+[ <a href="https://medium.com/@aleksey.bilogur/how-to-classify-photos-in-600-classes-using-nine-million-open-images-65847da1a319" target="_blank">read more</a> ] 
+  If you're looking to train an image classifier for fun or profit and are in need of data to do it, look no… 8 min read 
+
+
+
+
+## Why you should stop using Git rebase   
+[ <a href="https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1" target="_blank">read more</a> ] 
+  You love rebasing, right? Rewriting history might be appealing, but there are good reasons not to. 7 min read 
+
+
+
+
+## Run bash or any command in a Docker container   
+[ <a href="https://medium.com/@ryanwhocodes/run-bash-or-any-command-in-a-docker-container-9a1e7f0ec204" target="_blank">read more</a> ] 
+  Once you've defined your images and Dockerfiles, you then may want to enter a container to run bash or other… 3 min read 
+
+
+
+
+## 'Can technology fix the NHS? Here are four ways it might' 
+ [ <a href="https://www.zdnet.com/article/can-technology-fix-the-nhs-here-are-four-ways-it-might/" target="_blank">read more</a> ]
+NHS watchers hoping for a single technology that can solve the many challenges facing the health service are likely to be disappointed.
+"It's quite tough I don't think there's any one specific technology," says Dr Sam Shah, director for digital development a… [+6706 chars] 
+
+

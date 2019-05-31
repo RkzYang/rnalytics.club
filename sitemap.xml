@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/a-new-way-to-build-tiny-neural-networks-could-create-powerful-ai-on-your-phone/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/36-amazing-python-open-source-projects-v.2019/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
   </url>
@@ -39,7 +44,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -52,13 +57,13 @@
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ai/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,20 +92,32 @@
   </url>
   
   <url>
+    <loc>/tags/bash/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/bash/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/datascience/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,6 +142,18 @@
   <url>
     <loc>/categories/human/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/images/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/images/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -201,6 +230,18 @@
   </url>
   
   <url>
+    <loc>/tags/neuralnetworks/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/neuralnetworks/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/organizations/</loc>
     <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -226,7 +267,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -298,7 +339,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
