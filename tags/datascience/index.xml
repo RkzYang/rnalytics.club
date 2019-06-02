@@ -6,10 +6,20 @@
     <description>Recent content in Datascience on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning Could Reveal Why the World Works the Way It Does</title>
+      <link>/posts/deep-learning-could-reveal-why-the-world-works-the-way-it-does/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/deep-learning-could-reveal-why-the-world-works-the-way-it-does/</guid>
+      <description>Deep Learning Could Reveal Why the World Works the Way It Does [ read more ] At a major AI research conference, one researcher laid out how existing AI techniques might be used to… 6 min read
+ Fei-Fei Li’s Stanford Team Is Crowdsourcing Robot Training [ read more ] Sorting a bunch of differently coloured toy trucks and action figures seems like child’s play, right… 4 min read</description>
+    </item>
     
     <item>
       <title>A New Way to Build Tiny Neural Networks Could Create Powerful AI on Your Phone</title>

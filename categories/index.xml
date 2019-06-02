@@ -6,7 +6,7 @@
     <description>Recent content in Categories on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -111,6 +111,15 @@
     </item>
     
     <item>
+      <title>Machinelearning</title>
+      <link>/categories/machinelearning/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/machinelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Media</title>
       <link>/categories/media/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
@@ -161,6 +170,15 @@
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/part/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Play</title>
+      <link>/categories/play/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/play/</guid>
       <description></description>
     </item>
     
