@@ -6,15 +6,24 @@
     <description>Recent content in Categories on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>A.i</title>
+      <link>/categories/a.i/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/a.i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -84,6 +93,15 @@
     </item>
     
     <item>
+      <title>Keras</title>
+      <link>/categories/keras/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Languageprocessing</title>
       <link>/categories/languageprocessing/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
@@ -104,7 +122,7 @@
     <item>
       <title>Learning</title>
       <link>/categories/learning/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/learning/</guid>
       <description></description>
@@ -206,6 +224,15 @@
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/pythonprojects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pytorch</title>
+      <link>/categories/pytorch/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/pytorch/</guid>
       <description></description>
     </item>
     

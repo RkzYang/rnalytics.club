@@ -1,0 +1,57 @@
+---
+title: This Is Why A.I. Has Yet to Reshape Most Businesses   
+author: 
+date: 2019-06-02
+slug: 
+categories: 
+- a.i
+- pytorch
+- ai
+- learning
+- keras
+- datascience
+- AI
+tags: 
+- a.i
+- pytorch
+- ai
+- learning
+- keras
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## This Is Why A.I. Has Yet to Reshape Most Businesses   
+[ <a href="https://medium.com/@MITTechReview/this-is-why-a-i-has-yet-to-reshape-most-businesses-2f029d83b8d5" target="_blank">read more</a> ] 
+  For many companies, deploying A.I. is slower and more expensive than it might seem 8 min read 
+
+
+
+
+## Facebook Says Developers Will Love PyTorch 1.0   
+[ <a href="https://medium.com/@Synced/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc" target="_blank">read more</a> ] 
+  At the first-ever PyTorch Developer Conference today in San Francisco, Facebook released a preview of PyTorch… 3 min read 
+
+
+
+
+## Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big…   
+[ <a href="https://medium.com/@kojouharov/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463" target="_blank">read more</a> ] 
+  The Most Complete List of Best AI Cheat Sheets 7 min read 
+
+
+
+
+## Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences   
+[ <a href="https://medium.com/@nils.ackermann/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf" target="_blank">read more</a> ] 
+  An explanatory walkthrough on how to construct a 1D CNN in Keras for time sequences of sensor data. 7 min read 
+
+
+
+
+## 'Microsoft and Brilliant collaborate to launch interactive course on quantum computing' 
+ [ <a href="https://www.neowin.net/news/microsoft-and-brilliant-collaborate-to-launch-interactive-course-on-quantum-computing/" target="_blank">read more</a> ]
+Nearing the end of 2017, Microsoft released the first public preview of its Quantum Development Kit (QDK) for Windows, later announcing support for Linux and macOS. Although the tech giant believes that getting the hang of quantum development is easy through … [+2424 chars] 
+
+
