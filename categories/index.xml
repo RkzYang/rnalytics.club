@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -57,9 +57,18 @@
     </item>
     
     <item>
+      <title>Data</title>
+      <link>/categories/data/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -71,6 +80,15 @@
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/fuzzy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historicalcasestudies</title>
+      <link>/categories/historicalcasestudies/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/historicalcasestudies/</guid>
       <description></description>
     </item>
     
@@ -125,6 +143,15 @@
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liability</title>
+      <link>/categories/liability/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/liability/</guid>
       <description></description>
     </item>
     

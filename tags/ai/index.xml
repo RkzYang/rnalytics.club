@@ -6,10 +6,21 @@
     <description>Recent content in Ai on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>When Algorithms Mess Up, the Nearest Human Gets the Blame</title>
+      <link>/posts/when-algorithms-mess-up-the-nearest-human-gets-the-blame/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/when-algorithms-mess-up-the-nearest-human-gets-the-blame/</guid>
+      <description>When Algorithms Mess Up, the Nearest Human Gets the Blame [ read more ] A look at historical case studies shows us how we handle the liability of automated systems 5 min read
+ Synchronized SGD Outdated? Yoshua Bengio on Hardware-Friendly DL [ read more ] DeepMind’s 2018 AlphaGo Zero requires 300,000 times more computing power than AlexNet did in 2013. With… 7 min read
+ A Leap into the Future: Generative Adversarial Networks [ read more ] Is December 12, 2018, a day the world changed forever?</description>
+    </item>
     
     <item>
       <title>This Is Why A.I. Has Yet to Reshape Most Businesses</title>

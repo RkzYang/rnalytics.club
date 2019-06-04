@@ -1,0 +1,53 @@
+---
+title: When Algorithms Mess Up, the Nearest Human Gets the Blame   
+author: 
+date: 2019-06-03
+slug: 
+categories: 
+- historicalcasestudies
+- data
+- liability
+- datascience
+- AI
+tags: 
+- historicalcasestudies
+- data
+- liability
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## When Algorithms Mess Up, the Nearest Human Gets the Blame   
+[ <a href="https://medium.com/@MITTechReview/when-algorithms-mess-up-the-nearest-human-gets-the-blame-194d87d60559" target="_blank">read more</a> ] 
+  A look at historical case studies shows us how we handle the liability of automated systems 5 min read 
+
+
+
+
+## Synchronized SGD Outdated? Yoshua Bengio on Hardware-Friendly DL   
+[ <a href="" target="_blank">read more</a> ] 
+  DeepMind's 2018 AlphaGo Zero requires 300,000 times more computing power than AlexNet did in 2013. With… 7 min read 
+
+
+
+
+## A Leap into the Future: Generative Adversarial Networks   
+[ <a href="https://medium.com/@matthergott/a-leap-into-the-future-generative-adversarial-networks-96a780ed8ee6" target="_blank">read more</a> ] 
+  Is December 12, 2018, a day the world changed forever? That Wednesday, a team of researchers at NVIDIA… 14 min read 
+
+
+
+
+## Understanding Unstructured Data With Language Models   
+[ <a href="https://medium.com/@ODSC/understanding-unstructured-data-with-language-models-26c8c6c46bde" target="_blank">read more</a> ] 
+  Much of our machine learning capabilities come from structured data, but the real payload lies in the messy… 5 min read 
+
+
+
+
+## 'Girls in Tech CEO Announces Largest Donation in History due to Pega's Fundraising Initiatives' 
+ [ <a href="https://www.prnewswire.com/news-releases/girls-in-tech-ceo-announces-largest-donation-in-history-due-to-pegas-fundraising-initiatives-300859991.html" target="_blank">read more</a> ]
+LAS VEGAS, June 3, 2019 /PRNewswire/ -- Pegasystems Inc. (NASDAQ: PEGA), the software company empowering digital transformation at the world's leading enterprises and Girls in Tech, a global non-profit organization focused on the engagement, education, and em… [+3843 chars] 
+
+
