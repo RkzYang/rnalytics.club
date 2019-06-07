@@ -1,0 +1,59 @@
+---
+title: 'Sentiment analysis: Machine-Learning approach'
+author: 
+date: 2019-06-04
+slug: 
+categories: 
+- ai
+- oneclick.ai
+- approach
+- intelligence
+- summarization
+- datascience
+- AI
+tags: 
+- ai
+- oneclick.ai
+- approach
+- intelligence
+- summarization
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Sentiment analysis: Machine-Learning approach   
+[ <a href="https://medium.com/@samuelpilcer/sentiment-analysis-machine-learning-approach-83e4ba38b57" target="_blank">read more</a> ] 
+  Second blog post published on my Data Science project for Reputation.com 8 min read 
+
+
+
+
+## Artificial Intelligence - The Revolution Hasn't Happened Yet   
+[ <a href="https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7" target="_blank">read more</a> ] 
+  Artificial Intelligence (AI) is the mantra of the current era. The phrase is intoned by technologists… 16 min read 
+
+
+
+
+## Unsupervised Text Summarization using Sentence Embeddings   
+[ <a href="https://medium.com/@kushalchauhan/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1" target="_blank">read more</a> ] 
+  I will describe the approach that I used to perform Text Summarization on a multi language dataset of… 13 min read 
+
+
+
+
+## Seattle's OneClick.ai - Bringing AI a Click Closer   
+[ <a href="https://medium.com/@Synced/seattles-oneclick-ai-bringing-ai-a-click-closer-90f957a10f54" target="_blank">read more</a> ] 
+  OneClick.ai, a startup founded by two former Microsoft engineers in Seattle, is on a mission to make AI more… 5 min read 
+
+
+
+
+## '3) What do you understand by blockchain technology? Evaluate its prospects and challenges.(250 words)' 
+ [ <a href="https://www.insightsonindia.com/2019/05/25/3-what-do-you-understand-by-blockchain-technology-evaluate-its-prospects-and-challenges-250-words/" target="_blank">read more</a> ]
+3) What do you understand by blockchain technology? Evaluate its prospects and challenges.(250 words)The hindubuisnessline
+Why this question:
+Blockchain technology has been in news for quite a time now. The technology is not only revolutionary but also foun… [+1108 chars] 
+
+

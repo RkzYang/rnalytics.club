@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Approach on R&#39;nalytics</title>
-    <link>/categories/approach/</link>
-    <description>Recent content in Approach on R&#39;nalytics</description>
+    <title>Intelligence on R&#39;nalytics</title>
+    <link>/categories/intelligence/</link>
+    <description>Recent content in Intelligence on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
     <lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/approach/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/intelligence/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/posts/sentiment-analysis-machine-learning-approach/</guid>
       <description>Sentiment analysis: Machine-Learning approach [ read more ] Second blog post published on my Data Science project for Reputation.com 8 min read
  Artificial Intelligence - The Revolution Hasn’t Happened Yet [ read more ] Artificial Intelligence (AI) is the mantra of the current era. The phrase is intoned by technologists… 16 min read
- Unsupervised Text Summarization using Sentence Embeddings [ read more ] I will describe the approach that I used to perform Text Summarization on a multi language dataset of… 13 min read</description>
-    </item>
-    
-    <item>
-      <title>Why are developers still using Angular?</title>
-      <link>/posts/why-are-developers-still-using-angular/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/why-are-developers-still-using-angular/</guid>
-      <description>Why are developers still using Angular? [ read more ] especially when everyone seems to be wanting React 4 min read
- Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent… [ read more ] Have you ever been inside a well-maintained library? I’m always incredibly impressed with the way the… 10 min read
  Unsupervised Text Summarization using Sentence Embeddings [ read more ] I will describe the approach that I used to perform Text Summarization on a multi language dataset of… 13 min read</description>
     </item>
     

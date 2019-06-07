@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Approach</title>
       <link>/categories/approach/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/approach/</guid>
       <description></description>
@@ -68,9 +68,18 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ever Widening</title>
+      <link>/categories/ever-widening/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ever-widening/</guid>
       <description></description>
     </item>
     
@@ -111,6 +120,15 @@
     </item>
     
     <item>
+      <title>Intelligence</title>
+      <link>/categories/intelligence/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Keras</title>
       <link>/categories/keras/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
@@ -140,7 +158,7 @@
     <item>
       <title>Learning</title>
       <link>/categories/learning/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/learning/</guid>
       <description></description>
@@ -197,6 +215,15 @@
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/neuralnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oneclick.ai</title>
+      <link>/categories/oneclick.ai/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/oneclick.ai/</guid>
       <description></description>
     </item>
     
@@ -282,6 +309,15 @@
     </item>
     
     <item>
+      <title>Summarization</title>
+      <link>/categories/summarization/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/summarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Textsummarization</title>
       <link>/categories/textsummarization/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
@@ -296,6 +332,15 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voiceinteractions</title>
+      <link>/categories/voiceinteractions/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/voiceinteractions/</guid>
       <description></description>
     </item>
     

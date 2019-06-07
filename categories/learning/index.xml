@@ -6,10 +6,21 @@
     <description>Recent content in Learning on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Signing With Alexa: A DIY Experiment in AI Accessibility</title>
+      <link>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</guid>
+      <description>Signing With Alexa: A DIY Experiment in AI Accessibility [ read more ] With its fluent voice interactions and ever-widening library of skills, Amazon’s virtual assistant Alexa… 4 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ What is the next big thing in AI and ML?</description>
+    </item>
     
     <item>
       <title>This Is Why A.I. Has Yet to Reshape Most Businesses</title>

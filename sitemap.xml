@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/sentiment-analysis-machine-learning-approach/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/when-algorithms-mess-up-the-nearest-human-gets-the-blame/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
@@ -59,7 +69,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,13 +94,13 @@
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ai/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,13 +118,13 @@
   
   <url>
     <loc>/tags/approach/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/approach/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,13 +160,25 @@
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/datascience/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ever-widening/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/ever-widening/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -209,6 +231,18 @@
   </url>
   
   <url>
+    <loc>/tags/intelligence/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/intelligence/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/keras/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -246,13 +280,13 @@
   
   <url>
     <loc>/tags/learning/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/learning/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -329,6 +363,18 @@
   </url>
   
   <url>
+    <loc>/tags/oneclick.ai/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/oneclick.ai/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/organizations/</loc>
     <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -366,7 +412,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -449,6 +495,18 @@
   </url>
   
   <url>
+    <loc>/tags/summarization/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/summarization/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -475,6 +533,18 @@
   <url>
     <loc>/categories/tools/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/voiceinteractions/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/voiceinteractions/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

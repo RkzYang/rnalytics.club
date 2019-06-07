@@ -6,10 +6,32 @@
     <description>Recent content on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Signing With Alexa: A DIY Experiment in AI Accessibility</title>
+      <link>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</guid>
+      <description>Signing With Alexa: A DIY Experiment in AI Accessibility [ read more ] With its fluent voice interactions and ever-widening library of skills, Amazon’s virtual assistant Alexa… 4 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ What is the next big thing in AI and ML?</description>
+    </item>
+    
+    <item>
+      <title>Sentiment analysis: Machine-Learning approach</title>
+      <link>/posts/sentiment-analysis-machine-learning-approach/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sentiment-analysis-machine-learning-approach/</guid>
+      <description>Sentiment analysis: Machine-Learning approach [ read more ] Second blog post published on my Data Science project for Reputation.com 8 min read
+ Artificial Intelligence - The Revolution Hasn’t Happened Yet [ read more ] Artificial Intelligence (AI) is the mantra of the current era. The phrase is intoned by technologists… 16 min read
+ Unsupervised Text Summarization using Sentence Embeddings [ read more ] I will describe the approach that I used to perform Text Summarization on a multi language dataset of… 13 min read</description>
+    </item>
     
     <item>
       <title>When Algorithms Mess Up, the Nearest Human Gets the Blame</title>
