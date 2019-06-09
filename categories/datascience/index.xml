@@ -6,10 +6,21 @@
     <description>Recent content in Datascience on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/datascience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Little-Known A.I. Method Can Train on Your Health Data Without Threatening…</title>
+      <link>/posts/a-little-known-a.i.-method-can-train-on-your-health-data-without-threatening/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/a-little-known-a.i.-method-can-train-on-your-health-data-without-threatening/</guid>
+      <description>A Little-Known A.I. Method Can Train on Your Health Data Without Threatening… [ read more ] Machine learning has great potential to transform disease diagnosis and detection, but it’s been held back by… 5 min read
+ Fei-Fei Li’s Stanford Team Is Crowdsourcing Robot Training [ read more ] Sorting a bunch of differently coloured toy trucks and action figures seems like child’s play, right… 4 min read
+ Explainable AI: From Prediction To Understanding [ read more ] It’s not enough to make predictions.</description>
+    </item>
     
     <item>
       <title>Signing With Alexa: A DIY Experiment in AI Accessibility</title>

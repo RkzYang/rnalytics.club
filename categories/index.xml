@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -68,9 +68,27 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deeplearning</title>
+      <link>/categories/deeplearning/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deeplearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepunderstanding</title>
+      <link>/categories/deepunderstanding/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deepunderstanding/</guid>
       <description></description>
     </item>
     
@@ -284,7 +302,7 @@
     <item>
       <title>Pytorch</title>
       <link>/categories/pytorch/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/pytorch/</guid>
       <description></description>

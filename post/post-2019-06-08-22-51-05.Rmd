@@ -1,0 +1,56 @@
+---
+title: A Little-Known A.I. Method Can Train on Your Health Data Without Threatening…   
+author: 
+date: 2019-06-08
+slug: 
+categories: 
+- deeplearning
+- deepunderstanding
+- pytorch
+- datascience
+- AI
+tags: 
+- deeplearning
+- deepunderstanding
+- pytorch
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## A Little-Known A.I. Method Can Train on Your Health Data Without Threatening…   
+[ <a href="https://medium.com/@MITTechReview/a-little-known-a-i-method-can-train-on-your-health-data-without-threatening-your-privacy-b61246d3212b" target="_blank">read more</a> ] 
+  Machine learning has great potential to transform disease diagnosis and detection, but it's been held back by… 5 min read 
+
+
+
+
+## Fei-Fei Li's Stanford Team Is Crowdsourcing Robot Training   
+[ <a href="https://medium.com/@Synced/fei-fei-lis-stanford-team-is-crowdsourcing-robot-training-ac045d97625b" target="_blank">read more</a> ] 
+  Sorting a bunch of differently coloured toy trucks and action figures seems like child's play, right… 4 min read 
+
+
+
+
+## Explainable AI: From Prediction To Understanding   
+[ <a href="https://medium.com/@ODSC/explainable-ai-from-prediction-to-understanding-38c81c11460" target="_blank">read more</a> ] 
+  It's not enough to make predictions. Sometimes, you need to generate a deep understanding. Just because you… 5 min read 
+
+
+
+
+## Logging in Tensorboard with PyTorch (or any other library)   
+[ <a href="https://medium.com/@branislav.hollander/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e" target="_blank">read more</a> ] 
+  Until recently, my API of choice for Deep Learning used to be TensorFlow. However, lately I've discovered… 4 min read 
+
+
+
+
+## '[CfP] ISWC 2019 - Natural Language Interfaces for the Web of Data workshop 2019' 
+ [ <a href="http://lists.w3.org/Archives/Public/semantic-web/2019May/0095.html" target="_blank">read more</a> ]
+From: Ricardo Usbeck &lt;ricardo.usbeck@iais.fraunhofer.de&gt;
+Date: Wed, 29 May 2019 16:44:48 +0200Message-Id: &lt;7E60362D-C5D3-483C-8956-7A41F69478BF@iais.fraunhofer.de&gt;
+To: semantic-web@w3.org
+5th International Workshop on Natural Language Interface… [+3563 chars] 
+
+
