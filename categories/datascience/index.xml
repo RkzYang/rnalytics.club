@@ -6,10 +6,21 @@
     <description>Recent content in Datascience on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/datascience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding Tensor Processing Units</title>
+      <link>/posts/understanding-tensor-processing-units/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/understanding-tensor-processing-units/</guid>
+      <description>Understanding Tensor Processing Units [ read more ] In 2017, Google announced a Tensor Processing Unit (TPU) - a custom application-specific integrated circuit… 8 min read
+ How to get started with Machine Learning in about 10 minutes [ read more ] With the rise of Machine Learning inside industries. The need of a tool that can help you iterate through the… 10 min read
+ Alibaba Open-Sources Mars to Complement NumPy [ read more ] “NumPy” is a beloved tool for the huge population of Python users who are mathematicians, engineers, etc.</description>
+    </item>
     
     <item>
       <title>A Little-Known A.I. Method Can Train on Your Health Data Without Threatening…</title>

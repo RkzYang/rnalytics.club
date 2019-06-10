@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -176,7 +176,7 @@
     <item>
       <title>Learning</title>
       <link>/categories/learning/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/learning/</guid>
       <description></description>
@@ -233,6 +233,15 @@
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/neuralnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numpy</title>
+      <link>/categories/numpy/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/numpy/</guid>
       <description></description>
     </item>
     
@@ -318,6 +327,15 @@
     </item>
     
     <item>
+      <title>Rise</title>
+      <link>/categories/rise/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speech</title>
       <link>/categories/speech/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
@@ -336,11 +354,29 @@
     </item>
     
     <item>
+      <title>Tensor</title>
+      <link>/categories/tensor/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Textsummarization</title>
       <link>/categories/textsummarization/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/textsummarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>/categories/tool/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tool/</guid>
       <description></description>
     </item>
     

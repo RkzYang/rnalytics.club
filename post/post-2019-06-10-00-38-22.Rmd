@@ -1,0 +1,58 @@
+---
+title: Understanding Tensor Processing Units   
+author: 
+date: 2019-06-10
+slug: 
+categories: 
+- learning
+- tensor
+- tool
+- numpy
+- rise
+- datascience
+- AI
+tags: 
+- learning
+- tensor
+- tool
+- numpy
+- rise
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Understanding Tensor Processing Units   
+[ <a href="https://medium.com/@sciforce/understanding-tensor-processing-units-10ff41f50e78" target="_blank">read more</a> ] 
+  In 2017, Google announced a Tensor Processing Unit (TPU) - a custom application-specific integrated circuit… 8 min read 
+
+
+
+
+## How to get started with Machine Learning in about 10 minutes   
+[ <a href="https://medium.com/@kuzuryu71/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23" target="_blank">read more</a> ] 
+  With the rise of Machine Learning inside industries. The need of a tool that can help you iterate through the… 10 min read 
+
+
+
+
+## Alibaba Open-Sources Mars to Complement NumPy   
+[ <a href="https://medium.com/@Synced/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f" target="_blank">read more</a> ] 
+  "NumPy" is a beloved tool for the huge population of Python users who are mathematicians, engineers, etc. and… 3 min read 
+
+
+
+
+## The Rise of Generative Adversarial Networks   
+[ <a href="https://medium.com/@kailashahirwar/the-rise-of-generative-adversarial-networks-be52d424e517" target="_blank">read more</a> ] 
+  5 years back, GANs or Generative Adversarial Networks started a revolution in deep learning. This revolution… 10 min read 
+
+
+
+
+## 'With molecular data storage, cat videos could outlast us all' 
+ [ <a href="https://news.harvard.edu/gazette/story/2019/06/with-molecular-data-storage-cat-videos-could-outlast-us-all/" target="_blank">read more</a> ]
+From books to floppy disks to magnetic memory, technologies to store information continue to improve. Yet threats as simple as water and as complex as cyberattacks can still corrupt our records.
+As the data boom continues, more and more information is being … [+5689 chars] 
+
+
