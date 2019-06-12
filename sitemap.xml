@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/multi-label-text-classification-using-bert-the-mighty-transformer/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/understanding-tensor-processing-units/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url>
@@ -79,7 +84,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -104,13 +109,13 @@
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ai/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -157,6 +162,18 @@
   </url>
   
   <url>
+    <loc>/tags/code/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/code/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/data/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -170,13 +187,13 @@
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/datascience/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,6 +230,18 @@
   <url>
     <loc>/categories/ever-widening/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/exciting/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/exciting/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -458,7 +487,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -583,6 +612,18 @@
   </url>
   
   <url>
+    <loc>/tags/tensorflow/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tensorflow/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/textsummarization/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -627,6 +668,18 @@
   <url>
     <loc>/categories/voiceinteractions/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/year/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/year/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

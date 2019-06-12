@@ -1,0 +1,57 @@
+---
+title: Multi-label Text Classification using BERT – The Mighty Transformer   
+author: 
+date: 2019-06-11
+slug: 
+categories: 
+- tensorflow
+- code
+- year
+- exciting
+- datascience
+- AI
+tags: 
+- tensorflow
+- code
+- year
+- exciting
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Multi-label Text Classification using BERT – The Mighty Transformer   
+[ <a href="https://medium.com/@kaushaltrivedi/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d" target="_blank">read more</a> ] 
+  The past year has ushered in an exciting age for Natural Language Processing using deep neural networks… 7 min read 
+
+
+
+
+## A Brief Introduction To GANs (and how to code them)   
+[ <a href="https://medium.com/@sarvasvkulpati/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30" target="_blank">read more</a> ] 
+  With explanations of the math and code 5 min read 
+
+
+
+
+## TensorFlow is dead, long live TensorFlow!   
+[ <a href="https://medium.com/@kozyrkov/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04" target="_blank">read more</a> ] 
+  If you're an AI enthusiast and you didn't see the big news this month, you might have just snoozed through an… 8 min read 
+
+
+
+
+## How to use Dataset and Iterators in Tensorflow with code samples   
+[ <a href="https://medium.com/@prasad.pai/how-to-use-dataset-and-iterators-in-tensorflow-with-code-samples-3bb98b6b74ab" target="_blank">read more</a> ] 
+  From the time I have started using Tensorflow, I have always been feeding the data to my graph during… 7 min read 
+
+
+
+
+## 'Training a single AI model can emit as much carbon as five cars in their lifetimes' 
+ [ <a href="https://blog.adafruit.com/2019/06/10/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/" target="_blank">read more</a> ]
+A new paper highlights the large energy cost of training AI. 
+Via MIT Technology Review:
+The artificial-intelligence industry is often compared to the oil industry: once mined and refined, data, like oil, can be a highly lucrative commodity. Now it seems th… [+2542 chars] 
+
+
