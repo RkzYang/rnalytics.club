@@ -1,0 +1,58 @@
+---
+title: 36 Amazing Python Open Source Projects (v.2019)   
+author: 
+date: 2019-05-30
+slug: 
+categories: 
+- pythonprojects
+- pythonopen
+- languages
+- speech
+- part
+- datascience
+- AI
+tags: 
+- pythonprojects
+- pythonopen
+- languages
+- speech
+- part
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## 36 Amazing Python Open Source Projects (v.2019)   
+[ <a href="https://medium.com/@Mybridge/36-amazing-python-open-source-projects-v-2019-2fe058d79450" target="_blank">read more</a> ] 
+  For the past year, we've compared nearly 5,000 open source Python projects and selected the top 36. 6 min read 
+
+
+
+
+## NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields   
+[ <a href="https://medium.com/@aiswaryar/pos-tagging-using-conditional-random-fields-92077e5eaa31" target="_blank">read more</a> ] 
+  POS tagging is the process of marking up a word in a corpus to a corresponding part of speech tag, based on… 6 min read 
+
+
+
+
+## Keras vs PyTorch: how to distinguish Aliens vs Predators with transfer learning   
+[ <a href="https://medium.com/@patryk.miziula/keras-vs-pytorch-alien-vs-predator-recognition-with-transfer-learning-c8b852c31f02" target="_blank">read more</a> ] 
+  This article was written by Piotr Migdał, Rafał Jakubanis and myself. In the previous post, they gave you an… 11 min read 
+
+
+
+
+## Top Programming Languages to Learn in 2019   
+[ <a href="https://medium.com/@treyhuffine/top-programming-languages-to-learn-in-2019-e1cad7ced3fb" target="_blank">read more</a> ] 
+  The most in-demand and important coding languages of 2019 that will help you grow your career and enable you… 10 min read 
+
+
+
+
+## 'Bitfury, Tech Firm Mphasis Plan Blockchain Disruption in Trade Finance - CoinDesk' 
+ [ <a href="https://www.coindesk.com/bitfury-tech-firm-mphasis-plan-blockchain-disruption-in-trade-finance" target="_blank">read more</a> ]
+IT firm Mphasis, which is owned by private equity multinational Blackstone, has partnered with blockchain tech firm Bitfury with the aim of disrupting trade finance.
+The firms say they will bring new transparency and efficiency to settlement, foreign exchang… [+1372 chars] 
+
+

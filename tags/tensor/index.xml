@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tensor on R&#39;nalytics</title>
+    <link>/tags/tensor/</link>
+    <description>Recent content in tensor on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tensor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding Tensor Processing Units</title>
+      <link>/posts/understanding-tensor-processing-units/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/understanding-tensor-processing-units/</guid>
+      <description>Understanding Tensor Processing Units [ read more ] In 2017, Google announced a Tensor Processing Unit (TPU) - a custom application-specific integrated circuit… 8 min read
+ How to get started with Machine Learning in about 10 minutes [ read more ] With the rise of Machine Learning inside industries. The need of a tool that can help you iterate through the… 10 min read
+ Alibaba Open-Sources Mars to Complement NumPy [ read more ] “NumPy” is a beloved tool for the huge population of Python users who are mathematicians, engineers, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

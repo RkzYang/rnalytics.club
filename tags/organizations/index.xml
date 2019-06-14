@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organizations on R&#39;nalytics</title>
+    <link>/tags/organizations/</link>
+    <description>Recent content in organizations on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/organizations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Differences Between AI and Machine Learning and Why it Matters</title>
+      <link>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</guid>
+      <description>Differences Between AI and Machine Learning and Why it Matters [ read more ] Unfortunately, some tech organizations are deceiving customers by proclaiming using AI on their technologies… 13 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ Report on Text Classification using CNN, RNN &amp;amp; HAN [ read more ] Experimenting with various neural networks architectures.</description>
+    </item>
+    
+  </channel>
+</rss>

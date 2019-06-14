@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on R&#39;nalytics</title>
+    <link>/tags/learning/</link>
+    <description>Recent content in learning on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding Tensor Processing Units</title>
+      <link>/posts/understanding-tensor-processing-units/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/understanding-tensor-processing-units/</guid>
+      <description>Understanding Tensor Processing Units [ read more ] In 2017, Google announced a Tensor Processing Unit (TPU) - a custom application-specific integrated circuit… 8 min read
+ How to get started with Machine Learning in about 10 minutes [ read more ] With the rise of Machine Learning inside industries. The need of a tool that can help you iterate through the… 10 min read
+ Alibaba Open-Sources Mars to Complement NumPy [ read more ] “NumPy” is a beloved tool for the huge population of Python users who are mathematicians, engineers, etc.</description>
+    </item>
+    
+    <item>
+      <title>Signing With Alexa: A DIY Experiment in AI Accessibility</title>
+      <link>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</guid>
+      <description>Signing With Alexa: A DIY Experiment in AI Accessibility [ read more ] With its fluent voice interactions and ever-widening library of skills, Amazon’s virtual assistant Alexa… 4 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ What is the next big thing in AI and ML?</description>
+    </item>
+    
+    <item>
+      <title>This Is Why A.I. Has Yet to Reshape Most Businesses</title>
+      <link>/posts/this-is-why-a.i.-has-yet-to-reshape-most-businesses/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/this-is-why-a.i.-has-yet-to-reshape-most-businesses/</guid>
+      <description>This Is Why A.I. Has Yet to Reshape Most Businesses [ read more ] For many companies, deploying A.I. is slower and more expensive than it might seem 8 min read
+ Facebook Says Developers Will Love PyTorch 1.0 [ read more ] At the first-ever PyTorch Developer Conference today in San Francisco, Facebook released a preview of PyTorch… 3 min read
+ Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp;amp; Big… [ read more ] The Most Complete List of Best AI Cheat Sheets 7 min read</description>
+    </item>
+    
+    <item>
+      <title>Differences Between AI and Machine Learning and Why it Matters</title>
+      <link>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</guid>
+      <description>Differences Between AI and Machine Learning and Why it Matters [ read more ] Unfortunately, some tech organizations are deceiving customers by proclaiming using AI on their technologies… 13 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ Report on Text Classification using CNN, RNN &amp;amp; HAN [ read more ] Experimenting with various neural networks architectures.</description>
+    </item>
+    
+    <item>
+      <title>6 reasons Microsoft has become the go-to for machine learning</title>
+      <link>/posts/6-reasons-microsoft-has-become-the-go-to-for-machine-learning/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/6-reasons-microsoft-has-become-the-go-to-for-machine-learning/</guid>
+      <description>6 reasons Microsoft has become the go-to for machine learning [ read more ] Including the latest tools announced at Microsoft Build 2019 7 min read
+ An Overview of Human Pose Estimation with Deep Learning [ read more ] An introduction to the techniques used in Human Pose Estimation based on Deep Learning. 9 min read
+ Text Preprocessing in Python: Steps, Tools, and Examples [ read more ] by Olga Davydova, Data Monsters 7 min read</description>
+    </item>
+    
+  </channel>
+</rss>

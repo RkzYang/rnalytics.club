@@ -1,0 +1,53 @@
+---
+title: Deep Learning Could Reveal Why the World Works the Way It Does   
+author: 
+date: 2019-06-01
+slug: 
+categories: 
+- machinelearning
+- ai
+- play
+- datascience
+- AI
+tags: 
+- machinelearning
+- ai
+- play
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Deep Learning Could Reveal Why the World Works the Way It Does   
+[ <a href="https://medium.com/@MITTechReview/deep-learning-could-reveal-why-the-world-works-the-way-it-does-9be8b5fbfe4f" target="_blank">read more</a> ] 
+  At a major AI research conference, one researcher laid out how existing AI techniques might be used to… 6 min read 
+
+
+
+
+## Fei-Fei Li's Stanford Team Is Crowdsourcing Robot Training   
+[ <a href="https://medium.com/@Synced/fei-fei-lis-stanford-team-is-crowdsourcing-robot-training-ac045d97625b" target="_blank">read more</a> ] 
+  Sorting a bunch of differently coloured toy trucks and action figures seems like child's play, right… 4 min read 
+
+
+
+
+## Explainable AI: From Prediction To Understanding   
+[ <a href="https://medium.com/@ODSC/explainable-ai-from-prediction-to-understanding-38c81c11460" target="_blank">read more</a> ] 
+  It's not enough to make predictions. Sometimes, you need to generate a deep understanding. Just because you… 5 min read 
+
+
+
+
+## How to get started with Machine Learning in about 10 minutes   
+[ <a href="https://medium.com/@kuzuryu71/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23" target="_blank">read more</a> ] 
+  With the rise of Machine Learning inside industries. The need of a tool that can help you iterate through the… 10 min read 
+
+
+
+
+## 'Second Uber Science Symposium: Showcasing Developments in Programming Systems and Tools' 
+ [ <a href="https://eng.uber.com/second-uber-science-symposium-programming-systems-and-tools/" target="_blank">read more</a> ]
+On May 3, 2019, Ubers Programming Systems Team hosted the Programming Systems and Tools Track of the companys Second Uber Science Symposium at our San Francisco office. The program featured a full day of talks by leading researchers and practitioners in the p… [+7094 chars] 
+
+

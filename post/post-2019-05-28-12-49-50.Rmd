@@ -1,0 +1,58 @@
+---
+title: 6 reasons Microsoft has become the go-to for machine learning   
+author: 
+date: 2019-05-28
+slug: 
+categories: 
+- model
+- tools
+- microsoft
+- learning
+- human
+- datascience
+- AI
+tags: 
+- model
+- tools
+- microsoft
+- learning
+- human
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## 6 reasons Microsoft has become the go-to for machine learning   
+[ <a href="https://medium.com/@alyse.sue/6-reasons-microsoft-has-become-the-go-to-for-machine-learning-e642864ef5f5" target="_blank">read more</a> ] 
+  Including the latest tools announced at Microsoft Build 2019 7 min read 
+
+
+
+
+## An Overview of Human Pose Estimation with Deep Learning   
+[ <a href="https://medium.com/@thatbrguy/an-overview-of-human-pose-estimation-with-deep-learning-d49eb656739b" target="_blank">read more</a> ] 
+  An introduction to the techniques used in Human Pose Estimation based on Deep Learning. 9 min read 
+
+
+
+
+## Text Preprocessing in Python: Steps, Tools, and Examples   
+[ <a href="https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908" target="_blank">read more</a> ] 
+  by Olga Davydova, Data Monsters 7 min read 
+
+
+
+
+## How to train Keras model x20 times faster with TPU for free   
+[ <a href="https://medium.com/@chengweizhang2012/how-to-train-keras-model-x20-times-faster-with-tpu-for-free-cac6cf5089cb" target="_blank">read more</a> ] 
+  For quite some while, I feel content training my model on a single GTX 1070 graphics card which is rated… 5 min read 
+
+
+
+
+## 'A Pink Playground Exploring the Female Climax [London]' 
+ [ <a href="https://trendland.com/a-pink-playground-exploring-the-female-climax-london/" target="_blank">read more</a> ]
+What does female pleasure look like? Smell like? Taste like? From Georgia OKeefe to Linder to Prince, its a subject that has long been a fascination for artists.
+Created to celebrate twenty years since Francois Nars launched the cult Orgasm blusher, the O by… [+1050 chars] 
+
+

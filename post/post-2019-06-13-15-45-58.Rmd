@@ -1,0 +1,54 @@
+---
+title: 'Predicting Movie Genres using NLP  ' 
+author: 
+date: 2019-06-13
+slug: 
+categories: 
+- language
+- architecture
+- introduction
+- datascience
+- AI
+tags: 
+- language
+- architecture
+- introduction
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Predicting Movie Genres using NLP   
+[ <a href="https://medium.com/@prateekjoshi565/predicting-movie-genres-using-nlp-46d70b97c67d" target="_blank">read more</a> ] 
+  An Awesome Introduction to Multi-Label Classification 12 min read 
+
+
+
+
+## How to think like a programmer - lessons in problem solving   
+[ <a href="https://medium.com/@richardreeze/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2" target="_blank">read more</a> ] 
+  If you're interested in programming, you may well have seen this quote before: 7 min read 
+
+
+
+
+## Natural Language Processing is Fun!   
+[ <a href="https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e" target="_blank">read more</a> ] 
+  How computers understand Human Language 16 min read 
+
+
+
+
+## Web Architecture 101   
+[ <a href="https://medium.com/@jonathan_fulton/web-architecture-101-a3224e126947" target="_blank">read more</a> ] 
+  The basic architecture concepts I wish I knew when I was getting started as a web developer 11 min read 
+
+
+
+
+## '6 digital payment trends to keep an eye on' 
+ [ <a href="https://www.getelastic.com/6-digital-payment-trends-to-keep-an-eye-on" target="_blank">read more</a> ]
+With advancements in technology, the adoption of cashless solutions has increased to a great extent. The upcoming trends in payments will shift how consumers pay in the future; making credit cards and cash (so-called todays rulers) a thing of the past. 
+The … [+5115 chars] 
+
+

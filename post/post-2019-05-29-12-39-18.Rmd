@@ -1,0 +1,55 @@
+---
+title: Differences Between AI and Machine Learning and Why it Matters   
+author: 
+date: 2019-05-29
+slug: 
+categories: 
+- learning
+- ai
+- apis
+- organizations
+- datascience
+- AI
+tags: 
+- learning
+- ai
+- apis
+- organizations
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Differences Between AI and Machine Learning and Why it Matters   
+[ <a href="https://medium.com/@robiriondo/differences-between-ai-and-machine-learning-and-why-it-matters-1255b182fc6" target="_blank">read more</a> ] 
+  Unfortunately, some tech organizations are deceiving customers by proclaiming using AI on their technologies… 13 min read 
+
+
+
+
+## Word2Vec - a baby step in Deep Learning but a giant leap towards Natural…   
+[ <a href="https://medium.com/@suvro.banerjee16/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba" target="_blank">read more</a> ] 
+  Let's demystify word2vec with reasoning, examples and mathematics 10 min read 
+
+
+
+
+## Report on Text Classification using CNN, RNN & HAN   
+[ <a href="https://medium.com/@aks3d76/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f" target="_blank">read more</a> ] 
+  Experimenting with various neural networks architectures. 8 min read 
+
+
+
+
+## Demystify the TensorFlow APIs   
+[ <a href="https://medium.com/@margaretmz/demystify-the-tensorflow-apis-57d2b0b8b6c0" target="_blank">read more</a> ] 
+  FAQs on tf.Keras, Estimators, Low level APIs and Eager Execution 5 min read 
+
+
+
+
+## 'Star Wars: Galaxy’s Edge Guests Will Never Hear John Williams’ Full Orchestral Theme Song in Disneyland' 
+ [ <a href="https://www.slashfilm.com/galaxys-edge-theme-song-disneyland/" target="_blank">read more</a> ]
+Earlier this month, Disney released John Williams‘ full orchestral version of his Star Wars: Galaxy’s Edge Symphonic Suite…but visitors will never actually hear that version of his theme song in the parks. (Well, I guess they technically could download the tr… [+2585 chars] 
+
+

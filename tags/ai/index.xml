@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on R&#39;nalytics</title>
+    <link>/tags/ai/</link>
+    <description>Recent content in AI on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Movie Genres using NLP  </title>
+      <link>/posts/predicting-movie-genres-using-nlp/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/predicting-movie-genres-using-nlp/</guid>
+      <description>Predicting Movie Genres using NLP [ read more ] An Awesome Introduction to Multi-Label Classification 12 min read
+ How to think like a programmer - lessons in problem solving [ read more ] If you’re interested in programming, you may well have seen this quote before: 7 min read
+ Natural Language Processing is Fun! [ read more ] How computers understand Human Language 16 min read
+ Web Architecture 101 [ read more ] The basic architecture concepts I wish I knew when I was getting started as a web developer 11 min read</description>
+    </item>
+    
+    <item>
+      <title>Multi-label Text Classification using BERT – The Mighty Transformer</title>
+      <link>/posts/multi-label-text-classification-using-bert-the-mighty-transformer/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/multi-label-text-classification-using-bert-the-mighty-transformer/</guid>
+      <description>Multi-label Text Classification using BERT – The Mighty Transformer [ read more ] The past year has ushered in an exciting age for Natural Language Processing using deep neural networks… 7 min read
+ A Brief Introduction To GANs (and how to code them) [ read more ] With explanations of the math and code 5 min read
+ TensorFlow is dead, long live TensorFlow! [ read more ] If you’re an AI enthusiast and you didn’t see the big news this month, you might have just snoozed through an… 8 min read</description>
+    </item>
+    
+    <item>
+      <title>Understanding Tensor Processing Units</title>
+      <link>/posts/understanding-tensor-processing-units/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/understanding-tensor-processing-units/</guid>
+      <description>Understanding Tensor Processing Units [ read more ] In 2017, Google announced a Tensor Processing Unit (TPU) - a custom application-specific integrated circuit… 8 min read
+ How to get started with Machine Learning in about 10 minutes [ read more ] With the rise of Machine Learning inside industries. The need of a tool that can help you iterate through the… 10 min read
+ Alibaba Open-Sources Mars to Complement NumPy [ read more ] “NumPy” is a beloved tool for the huge population of Python users who are mathematicians, engineers, etc.</description>
+    </item>
+    
+    <item>
+      <title>A Little-Known A.I. Method Can Train on Your Health Data Without Threatening…</title>
+      <link>/posts/a-little-known-a.i.-method-can-train-on-your-health-data-without-threatening/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/a-little-known-a.i.-method-can-train-on-your-health-data-without-threatening/</guid>
+      <description>A Little-Known A.I. Method Can Train on Your Health Data Without Threatening… [ read more ] Machine learning has great potential to transform disease diagnosis and detection, but it’s been held back by… 5 min read
+ Fei-Fei Li’s Stanford Team Is Crowdsourcing Robot Training [ read more ] Sorting a bunch of differently coloured toy trucks and action figures seems like child’s play, right… 4 min read
+ Explainable AI: From Prediction To Understanding [ read more ] It’s not enough to make predictions.</description>
+    </item>
+    
+    <item>
+      <title>Signing With Alexa: A DIY Experiment in AI Accessibility</title>
+      <link>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</guid>
+      <description>Signing With Alexa: A DIY Experiment in AI Accessibility [ read more ] With its fluent voice interactions and ever-widening library of skills, Amazon’s virtual assistant Alexa… 4 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ What is the next big thing in AI and ML?</description>
+    </item>
+    
+    <item>
+      <title>Signing With Alexa: A DIY Experiment in AI Accessibility</title>
+      <link>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/signing-with-alexa-a-diy-experiment-in-ai-accessibility/</guid>
+      <description>Signing With Alexa: A DIY Experiment in AI Accessibility [ read more ] With its fluent voice interactions and ever-widening library of skills, Amazon’s virtual assistant Alexa… 4 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ What is the next big thing in AI and ML?</description>
+    </item>
+    
+    <item>
+      <title>Sentiment analysis: Machine-Learning approach</title>
+      <link>/posts/sentiment-analysis-machine-learning-approach/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sentiment-analysis-machine-learning-approach/</guid>
+      <description>Sentiment analysis: Machine-Learning approach [ read more ] Second blog post published on my Data Science project for Reputation.com 8 min read
+ Artificial Intelligence - The Revolution Hasn’t Happened Yet [ read more ] Artificial Intelligence (AI) is the mantra of the current era. The phrase is intoned by technologists… 16 min read
+ Unsupervised Text Summarization using Sentence Embeddings [ read more ] I will describe the approach that I used to perform Text Summarization on a multi language dataset of… 13 min read</description>
+    </item>
+    
+    <item>
+      <title>Sentiment analysis: Machine-Learning approach</title>
+      <link>/posts/sentiment-analysis-machine-learning-approach/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sentiment-analysis-machine-learning-approach/</guid>
+      <description>Sentiment analysis: Machine-Learning approach [ read more ] Second blog post published on my Data Science project for Reputation.com 8 min read
+ Artificial Intelligence - The Revolution Hasn’t Happened Yet [ read more ] Artificial Intelligence (AI) is the mantra of the current era. The phrase is intoned by technologists… 16 min read
+ Unsupervised Text Summarization using Sentence Embeddings [ read more ] I will describe the approach that I used to perform Text Summarization on a multi language dataset of… 13 min read</description>
+    </item>
+    
+    <item>
+      <title>When Algorithms Mess Up, the Nearest Human Gets the Blame</title>
+      <link>/posts/when-algorithms-mess-up-the-nearest-human-gets-the-blame/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/when-algorithms-mess-up-the-nearest-human-gets-the-blame/</guid>
+      <description>When Algorithms Mess Up, the Nearest Human Gets the Blame [ read more ] A look at historical case studies shows us how we handle the liability of automated systems 5 min read
+ Synchronized SGD Outdated? Yoshua Bengio on Hardware-Friendly DL [ read more ] DeepMind’s 2018 AlphaGo Zero requires 300,000 times more computing power than AlexNet did in 2013. With… 7 min read
+ A Leap into the Future: Generative Adversarial Networks [ read more ] Is December 12, 2018, a day the world changed forever?</description>
+    </item>
+    
+    <item>
+      <title>This Is Why A.I. Has Yet to Reshape Most Businesses</title>
+      <link>/posts/this-is-why-a.i.-has-yet-to-reshape-most-businesses/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/this-is-why-a.i.-has-yet-to-reshape-most-businesses/</guid>
+      <description>This Is Why A.I. Has Yet to Reshape Most Businesses [ read more ] For many companies, deploying A.I. is slower and more expensive than it might seem 8 min read
+ Facebook Says Developers Will Love PyTorch 1.0 [ read more ] At the first-ever PyTorch Developer Conference today in San Francisco, Facebook released a preview of PyTorch… 3 min read
+ Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp;amp; Big… [ read more ] The Most Complete List of Best AI Cheat Sheets 7 min read</description>
+    </item>
+    
+    <item>
+      <title>This Is Why A.I. Has Yet to Reshape Most Businesses</title>
+      <link>/posts/this-is-why-a.i.-has-yet-to-reshape-most-businesses/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/this-is-why-a.i.-has-yet-to-reshape-most-businesses/</guid>
+      <description>This Is Why A.I. Has Yet to Reshape Most Businesses [ read more ] For many companies, deploying A.I. is slower and more expensive than it might seem 8 min read
+ Facebook Says Developers Will Love PyTorch 1.0 [ read more ] At the first-ever PyTorch Developer Conference today in San Francisco, Facebook released a preview of PyTorch… 3 min read
+ Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp;amp; Big… [ read more ] The Most Complete List of Best AI Cheat Sheets 7 min read</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Could Reveal Why the World Works the Way It Does</title>
+      <link>/posts/deep-learning-could-reveal-why-the-world-works-the-way-it-does/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/deep-learning-could-reveal-why-the-world-works-the-way-it-does/</guid>
+      <description>Deep Learning Could Reveal Why the World Works the Way It Does [ read more ] At a major AI research conference, one researcher laid out how existing AI techniques might be used to… 6 min read
+ Fei-Fei Li’s Stanford Team Is Crowdsourcing Robot Training [ read more ] Sorting a bunch of differently coloured toy trucks and action figures seems like child’s play, right… 4 min read</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Could Reveal Why the World Works the Way It Does</title>
+      <link>/posts/deep-learning-could-reveal-why-the-world-works-the-way-it-does/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/deep-learning-could-reveal-why-the-world-works-the-way-it-does/</guid>
+      <description>Deep Learning Could Reveal Why the World Works the Way It Does [ read more ] At a major AI research conference, one researcher laid out how existing AI techniques might be used to… 6 min read
+ Fei-Fei Li’s Stanford Team Is Crowdsourcing Robot Training [ read more ] Sorting a bunch of differently coloured toy trucks and action figures seems like child’s play, right… 4 min read</description>
+    </item>
+    
+    <item>
+      <title>A New Way to Build Tiny Neural Networks Could Create Powerful AI on Your Phone</title>
+      <link>/posts/a-new-way-to-build-tiny-neural-networks-could-create-powerful-ai-on-your-phone/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/a-new-way-to-build-tiny-neural-networks-could-create-powerful-ai-on-your-phone/</guid>
+      <description>A New Way to Build Tiny Neural Networks Could Create Powerful AI on Your Phone [ read more ] We’ve been wasting our processing power to train neural networks that are 10 times too big 6 min read
+ How to classify photos in 600 classes using nine million Open Images [ read more ] If you’re looking to train an image classifier for fun or profit and are in need of data to do it, look no… 8 min read</description>
+    </item>
+    
+    <item>
+      <title>36 Amazing Python Open Source Projects (v.2019)</title>
+      <link>/posts/36-amazing-python-open-source-projects-v.2019/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/36-amazing-python-open-source-projects-v.2019/</guid>
+      <description>36 Amazing Python Open Source Projects (v.2019) [ read more ] For the past year, we’ve compared nearly 5,000 open source Python projects and selected the top 36. 6 min read
+ NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields [ read more ] POS tagging is the process of marking up a word in a corpus to a corresponding part of speech tag, based on… 6 min read</description>
+    </item>
+    
+    <item>
+      <title>Differences Between AI and Machine Learning and Why it Matters</title>
+      <link>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</guid>
+      <description>Differences Between AI and Machine Learning and Why it Matters [ read more ] Unfortunately, some tech organizations are deceiving customers by proclaiming using AI on their technologies… 13 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ Report on Text Classification using CNN, RNN &amp;amp; HAN [ read more ] Experimenting with various neural networks architectures.</description>
+    </item>
+    
+    <item>
+      <title>Differences Between AI and Machine Learning and Why it Matters</title>
+      <link>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/differences-between-ai-and-machine-learning-and-why-it-matters/</guid>
+      <description>Differences Between AI and Machine Learning and Why it Matters [ read more ] Unfortunately, some tech organizations are deceiving customers by proclaiming using AI on their technologies… 13 min read
+ Word2Vec - a baby step in Deep Learning but a giant leap towards Natural… [ read more ] Let’s demystify word2vec with reasoning, examples and mathematics 10 min read
+ Report on Text Classification using CNN, RNN &amp;amp; HAN [ read more ] Experimenting with various neural networks architectures.</description>
+    </item>
+    
+    <item>
+      <title>6 reasons Microsoft has become the go-to for machine learning</title>
+      <link>/posts/6-reasons-microsoft-has-become-the-go-to-for-machine-learning/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/6-reasons-microsoft-has-become-the-go-to-for-machine-learning/</guid>
+      <description>6 reasons Microsoft has become the go-to for machine learning [ read more ] Including the latest tools announced at Microsoft Build 2019 7 min read
+ An Overview of Human Pose Estimation with Deep Learning [ read more ] An introduction to the techniques used in Human Pose Estimation based on Deep Learning. 9 min read
+ Text Preprocessing in Python: Steps, Tools, and Examples [ read more ] by Olga Davydova, Data Monsters 7 min read</description>
+    </item>
+    
+    <item>
+      <title>Why are developers still using Angular?</title>
+      <link>/posts/why-are-developers-still-using-angular/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/why-are-developers-still-using-angular/</guid>
+      <description>Why are developers still using Angular? [ read more ] especially when everyone seems to be wanting React 4 min read
+ Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent… [ read more ] Have you ever been inside a well-maintained library? I’m always incredibly impressed with the way the… 10 min read
+ Unsupervised Text Summarization using Sentence Embeddings [ read more ] I will describe the approach that I used to perform Text Summarization on a multi language dataset of… 13 min read</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing for Fuzzy String Matching with Python</title>
+      <link>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/natural-language-processing-for-fuzzy-string-matching-with-python/</guid>
+      <description>Natural Language Processing for Fuzzy String Matching with Python [ read more ] In computer science, fuzzy string matching is the technique of finding strings that match a pattern… 5 min read
+ JIT fast! Supercharge tensor processing in Python with JIT compilation [ read more ] Numba can speed up tensor processing work in Python by an order of magnitude. Read on for one of the easiest… 11 min read</description>
+    </item>
+    
+  </channel>
+</rss>
