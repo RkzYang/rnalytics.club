@@ -52,11 +52,7 @@ isCJKLanguage: no
 
 ## 'With molecular data storage, cat videos could outlast us all' 
  [ <a href="https://news.harvard.edu/gazette/story/2019/06/with-molecular-data-storage-cat-videos-could-outlast-us-all/" target="_blank">read more</a> ]
-<<<<<<< HEAD
 From books to floppy disks to magnetic memory, technologies to store information continue to improve. Yet threats as simple as water and as complex as cyberattacks can still corrupt our records.
-=======
-From books to floppy disks to magnetic memory, technologies to store information continue to improve. Yet threats as simple as water and as complex as cyberattacks can still corrupt our records.
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
 As the data boom continues, more and more information is being … [+5689 chars] 
 
 

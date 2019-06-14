@@ -6,85 +6,48 @@
     <description>Recent content in Categories on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-<<<<<<< HEAD
     <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
-=======
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
       <title>AI</title>
       <link>/categories/ai/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
-=======
-      <title>A.i</title>
-      <link>/categories/a.i/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/a.i/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>architecture</title>
       <link>/categories/architecture/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/architecture/</guid>
-=======
-      <title>Ai</title>
-      <link>/categories/ai/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/ai/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>datascience</title>
       <link>/categories/datascience/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
-=======
-      <title>Apis</title>
-      <link>/categories/apis/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/apis/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>introduction</title>
       <link>/categories/introduction/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/introduction/</guid>
-=======
-      <title>Approach</title>
-      <link>/categories/approach/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/approach/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>language</title>
       <link>/categories/language/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
@@ -99,345 +62,182 @@
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/code/</guid>
-=======
-      <title>Architecture</title>
-      <link>/categories/architecture/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/architecture/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>exciting</title>
       <link>/categories/exciting/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/exciting/</guid>
-=======
-      <title>Bash</title>
-      <link>/categories/bash/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/bash/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>tensorflow</title>
       <link>/categories/tensorflow/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/tensorflow/</guid>
-=======
-      <title>Code</title>
-      <link>/categories/code/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/code/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>year</title>
       <link>/categories/year/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/year/</guid>
-=======
-      <title>Data</title>
-      <link>/categories/data/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/data/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>learning</title>
       <link>/categories/learning/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/learning/</guid>
-=======
-      <title>Datascience</title>
-      <link>/categories/datascience/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/datascience/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>numpy</title>
       <link>/categories/numpy/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/numpy/</guid>
-=======
-      <title>Deeplearning</title>
-      <link>/categories/deeplearning/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deeplearning/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>rise</title>
       <link>/categories/rise/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/rise/</guid>
-=======
-      <title>Deepunderstanding</title>
-      <link>/categories/deepunderstanding/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deepunderstanding/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>tensor</title>
       <link>/categories/tensor/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/tensor/</guid>
-=======
-      <title>Ever Widening</title>
-      <link>/categories/ever-widening/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/ever-widening/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>tool</title>
       <link>/categories/tool/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/tool/</guid>
-=======
-      <title>Exciting</title>
-      <link>/categories/exciting/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/exciting/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>deeplearning</title>
       <link>/categories/deeplearning/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/deeplearning/</guid>
-=======
-      <title>Fuzzy</title>
-      <link>/categories/fuzzy/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/fuzzy/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>deepunderstanding</title>
       <link>/categories/deepunderstanding/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/deepunderstanding/</guid>
-=======
-      <title>Historicalcasestudies</title>
-      <link>/categories/historicalcasestudies/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/historicalcasestudies/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>pytorch</title>
       <link>/categories/pytorch/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/pytorch/</guid>
-=======
-      <title>Human</title>
-      <link>/categories/human/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/human/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>ever-widening</title>
       <link>/categories/ever-widening/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ever-widening/</guid>
-=======
-      <title>Images</title>
-      <link>/categories/images/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/images/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>voiceinteractions</title>
       <link>/categories/voiceinteractions/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/voiceinteractions/</guid>
-=======
-      <title>Intelligence</title>
-      <link>/categories/intelligence/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/intelligence/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>approach</title>
       <link>/categories/approach/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/approach/</guid>
-=======
-      <title>Introduction</title>
-      <link>/categories/introduction/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/introduction/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>intelligence</title>
       <link>/categories/intelligence/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/intelligence/</guid>
-=======
-      <title>Keras</title>
-      <link>/categories/keras/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/keras/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>oneclick.ai</title>
       <link>/categories/oneclick.ai/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/oneclick.ai/</guid>
-=======
-      <title>Language</title>
-      <link>/categories/language/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/language/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>summarization</title>
       <link>/categories/summarization/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/summarization/</guid>
-=======
-      <title>Languageprocessing</title>
-      <link>/categories/languageprocessing/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/languageprocessing/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>data</title>
       <link>/categories/data/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/data/</guid>
-=======
-      <title>Languages</title>
-      <link>/categories/languages/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/languages/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>historicalcasestudies</title>
       <link>/categories/historicalcasestudies/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/historicalcasestudies/</guid>
-=======
-      <title>Learning</title>
-      <link>/categories/learning/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/learning/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>liability</title>
-=======
-      <title>Liability</title>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <link>/categories/liability/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -446,147 +246,79 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>a.i</title>
       <link>/categories/a.i/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/a.i/</guid>
-=======
-      <title>Machinelearning</title>
-      <link>/categories/machinelearning/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/machinelearning/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>keras</title>
       <link>/categories/keras/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/keras/</guid>
-=======
-      <title>Media</title>
-      <link>/categories/media/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/media/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>machinelearning</title>
       <link>/categories/machinelearning/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/machinelearning/</guid>
-=======
-      <title>Microsoft</title>
-      <link>/categories/microsoft/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/microsoft/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>play</title>
       <link>/categories/play/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/play/</guid>
-=======
-      <title>Model</title>
-      <link>/categories/model/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/model/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>bash</title>
       <link>/categories/bash/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/bash/</guid>
-=======
-      <title>Neuralnetworks</title>
-      <link>/categories/neuralnetworks/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/neuralnetworks/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>images</title>
       <link>/categories/images/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/images/</guid>
-=======
-      <title>Numpy</title>
-      <link>/categories/numpy/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/numpy/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>neuralnetworks</title>
       <link>/categories/neuralnetworks/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/neuralnetworks/</guid>
-=======
-      <title>Oneclick.ai</title>
-      <link>/categories/oneclick.ai/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/oneclick.ai/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>languages</title>
       <link>/categories/languages/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/languages/</guid>
-=======
-      <title>Organizations</title>
-      <link>/categories/organizations/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/organizations/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>part</title>
-=======
-      <title>Part</title>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <link>/categories/part/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
@@ -595,190 +327,97 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>pythonopen</title>
       <link>/categories/pythonopen/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/pythonopen/</guid>
-=======
-      <title>Play</title>
-      <link>/categories/play/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/play/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>pythonprojects</title>
       <link>/categories/pythonprojects/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/pythonprojects/</guid>
-=======
-      <title>Python</title>
-      <link>/categories/python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pythonopen</title>
-      <link>/categories/pythonopen/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/pythonopen/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
-      <description></description>
-    </item>
-    
-    <item>
-<<<<<<< HEAD
       <title>speech</title>
       <link>/categories/speech/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/speech/</guid>
-=======
-      <title>Pythonprojects</title>
-      <link>/categories/pythonprojects/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/pythonprojects/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>apis</title>
       <link>/categories/apis/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/apis/</guid>
-=======
-      <title>Pytorch</title>
-      <link>/categories/pytorch/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/pytorch/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>organizations</title>
       <link>/categories/organizations/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/organizations/</guid>
-=======
-      <title>React</title>
-      <link>/categories/react/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/react/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>human</title>
       <link>/categories/human/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/human/</guid>
-=======
-      <title>Rise</title>
-      <link>/categories/rise/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/rise/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>microsoft</title>
       <link>/categories/microsoft/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/microsoft/</guid>
-=======
-      <title>Speech</title>
-      <link>/categories/speech/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/speech/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>model</title>
       <link>/categories/model/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/model/</guid>
-=======
-      <title>Summarization</title>
-      <link>/categories/summarization/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/summarization/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>tools</title>
       <link>/categories/tools/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/tools/</guid>
-=======
-      <title>Tensor</title>
-      <link>/categories/tensor/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tensor/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>react</title>
       <link>/categories/react/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/react/</guid>
-=======
-      <title>Tensorflow</title>
-      <link>/categories/tensorflow/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tensorflow/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>textsummarization</title>
-=======
-      <title>Textsummarization</title>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <link>/categories/textsummarization/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
@@ -787,70 +426,38 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>fuzzy</title>
       <link>/categories/fuzzy/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/fuzzy/</guid>
-=======
-      <title>Tool</title>
-      <link>/categories/tool/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tool/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>languageprocessing</title>
       <link>/categories/languageprocessing/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/languageprocessing/</guid>
-=======
-      <title>Tools</title>
-      <link>/categories/tools/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tools/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>media</title>
       <link>/categories/media/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/media/</guid>
-=======
-      <title>Voiceinteractions</title>
-      <link>/categories/voiceinteractions/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/voiceinteractions/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>python</title>
       <link>/categories/python/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/python/</guid>
-=======
-      <title>Year</title>
-      <link>/categories/year/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/year/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     

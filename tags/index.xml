@@ -6,85 +6,48 @@
     <description>Recent content in Tags on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-<<<<<<< HEAD
     <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
-=======
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
       <title>AI</title>
       <link>/tags/ai/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
-=======
-      <title>A.i</title>
-      <link>/tags/a.i/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/a.i/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>architecture</title>
       <link>/tags/architecture/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/architecture/</guid>
-=======
-      <title>Ai</title>
-      <link>/tags/ai/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ai/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>datascience</title>
       <link>/tags/datascience/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
-=======
-      <title>Apis</title>
-      <link>/tags/apis/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/apis/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>introduction</title>
       <link>/tags/introduction/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/introduction/</guid>
-=======
-      <title>Approach</title>
-      <link>/tags/approach/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/approach/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>language</title>
       <link>/tags/language/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
@@ -99,345 +62,182 @@
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/code/</guid>
-=======
-      <title>Architecture</title>
-      <link>/tags/architecture/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/architecture/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>exciting</title>
       <link>/tags/exciting/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/exciting/</guid>
-=======
-      <title>Bash</title>
-      <link>/tags/bash/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bash/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>tensorflow</title>
       <link>/tags/tensorflow/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tensorflow/</guid>
-=======
-      <title>Code</title>
-      <link>/tags/code/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/code/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>year</title>
       <link>/tags/year/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/year/</guid>
-=======
-      <title>Data</title>
-      <link>/tags/data/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/data/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>learning</title>
       <link>/tags/learning/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/learning/</guid>
-=======
-      <title>Datascience</title>
-      <link>/tags/datascience/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/datascience/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>numpy</title>
       <link>/tags/numpy/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/numpy/</guid>
-=======
-      <title>Deeplearning</title>
-      <link>/tags/deeplearning/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deeplearning/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>rise</title>
       <link>/tags/rise/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/rise/</guid>
-=======
-      <title>Deepunderstanding</title>
-      <link>/tags/deepunderstanding/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deepunderstanding/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>tensor</title>
       <link>/tags/tensor/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tensor/</guid>
-=======
-      <title>Ever Widening</title>
-      <link>/tags/ever-widening/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ever-widening/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>tool</title>
       <link>/tags/tool/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tool/</guid>
-=======
-      <title>Exciting</title>
-      <link>/tags/exciting/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/exciting/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>deeplearning</title>
       <link>/tags/deeplearning/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/deeplearning/</guid>
-=======
-      <title>Fuzzy</title>
-      <link>/tags/fuzzy/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fuzzy/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>deepunderstanding</title>
       <link>/tags/deepunderstanding/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/deepunderstanding/</guid>
-=======
-      <title>Historicalcasestudies</title>
-      <link>/tags/historicalcasestudies/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/historicalcasestudies/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>pytorch</title>
       <link>/tags/pytorch/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/pytorch/</guid>
-=======
-      <title>Human</title>
-      <link>/tags/human/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/human/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>ever-widening</title>
       <link>/tags/ever-widening/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ever-widening/</guid>
-=======
-      <title>Images</title>
-      <link>/tags/images/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/images/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>voiceinteractions</title>
       <link>/tags/voiceinteractions/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/voiceinteractions/</guid>
-=======
-      <title>Intelligence</title>
-      <link>/tags/intelligence/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/intelligence/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>approach</title>
       <link>/tags/approach/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/approach/</guid>
-=======
-      <title>Introduction</title>
-      <link>/tags/introduction/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/introduction/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>intelligence</title>
       <link>/tags/intelligence/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/intelligence/</guid>
-=======
-      <title>Keras</title>
-      <link>/tags/keras/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/keras/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>oneclick.ai</title>
       <link>/tags/oneclick.ai/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/oneclick.ai/</guid>
-=======
-      <title>Language</title>
-      <link>/tags/language/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/language/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>summarization</title>
       <link>/tags/summarization/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/summarization/</guid>
-=======
-      <title>Languageprocessing</title>
-      <link>/tags/languageprocessing/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/languageprocessing/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>data</title>
       <link>/tags/data/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/data/</guid>
-=======
-      <title>Languages</title>
-      <link>/tags/languages/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/languages/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>historicalcasestudies</title>
       <link>/tags/historicalcasestudies/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/historicalcasestudies/</guid>
-=======
-      <title>Learning</title>
-      <link>/tags/learning/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/learning/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>liability</title>
-=======
-      <title>Liability</title>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <link>/tags/liability/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -446,147 +246,79 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>a.i</title>
       <link>/tags/a.i/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/a.i/</guid>
-=======
-      <title>Machinelearning</title>
-      <link>/tags/machinelearning/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machinelearning/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>keras</title>
       <link>/tags/keras/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/keras/</guid>
-=======
-      <title>Media</title>
-      <link>/tags/media/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/media/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>machinelearning</title>
       <link>/tags/machinelearning/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/machinelearning/</guid>
-=======
-      <title>Microsoft</title>
-      <link>/tags/microsoft/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/microsoft/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>play</title>
       <link>/tags/play/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/play/</guid>
-=======
-      <title>Model</title>
-      <link>/tags/model/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/model/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>bash</title>
       <link>/tags/bash/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/bash/</guid>
-=======
-      <title>Neuralnetworks</title>
-      <link>/tags/neuralnetworks/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/neuralnetworks/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>images</title>
       <link>/tags/images/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/images/</guid>
-=======
-      <title>Numpy</title>
-      <link>/tags/numpy/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/numpy/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>neuralnetworks</title>
       <link>/tags/neuralnetworks/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/neuralnetworks/</guid>
-=======
-      <title>Oneclick.ai</title>
-      <link>/tags/oneclick.ai/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/oneclick.ai/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>languages</title>
       <link>/tags/languages/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/languages/</guid>
-=======
-      <title>Organizations</title>
-      <link>/tags/organizations/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/organizations/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>part</title>
-=======
-      <title>Part</title>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <link>/tags/part/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
@@ -595,190 +327,97 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>pythonopen</title>
       <link>/tags/pythonopen/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/pythonopen/</guid>
-=======
-      <title>Play</title>
-      <link>/tags/play/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/play/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>pythonprojects</title>
       <link>/tags/pythonprojects/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/pythonprojects/</guid>
-=======
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pythonopen</title>
-      <link>/tags/pythonopen/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pythonopen/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
-      <description></description>
-    </item>
-    
-    <item>
-<<<<<<< HEAD
       <title>speech</title>
       <link>/tags/speech/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/speech/</guid>
-=======
-      <title>Pythonprojects</title>
-      <link>/tags/pythonprojects/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pythonprojects/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>apis</title>
       <link>/tags/apis/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/apis/</guid>
-=======
-      <title>Pytorch</title>
-      <link>/tags/pytorch/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pytorch/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>organizations</title>
       <link>/tags/organizations/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/organizations/</guid>
-=======
-      <title>React</title>
-      <link>/tags/react/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/react/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>human</title>
       <link>/tags/human/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/human/</guid>
-=======
-      <title>Rise</title>
-      <link>/tags/rise/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rise/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>microsoft</title>
       <link>/tags/microsoft/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/microsoft/</guid>
-=======
-      <title>Speech</title>
-      <link>/tags/speech/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/speech/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>model</title>
       <link>/tags/model/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/model/</guid>
-=======
-      <title>Summarization</title>
-      <link>/tags/summarization/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/summarization/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>tools</title>
       <link>/tags/tools/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tools/</guid>
-=======
-      <title>Tensor</title>
-      <link>/tags/tensor/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tensor/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>react</title>
       <link>/tags/react/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/react/</guid>
-=======
-      <title>Tensorflow</title>
-      <link>/tags/tensorflow/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tensorflow/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>textsummarization</title>
-=======
-      <title>Textsummarization</title>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <link>/tags/textsummarization/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
@@ -787,70 +426,38 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>fuzzy</title>
       <link>/tags/fuzzy/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/fuzzy/</guid>
-=======
-      <title>Tool</title>
-      <link>/tags/tool/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tool/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>languageprocessing</title>
       <link>/tags/languageprocessing/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/languageprocessing/</guid>
-=======
-      <title>Tools</title>
-      <link>/tags/tools/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tools/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>media</title>
       <link>/tags/media/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/media/</guid>
-=======
-      <title>Voiceinteractions</title>
-      <link>/tags/voiceinteractions/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/voiceinteractions/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>python</title>
       <link>/tags/python/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/python/</guid>
-=======
-      <title>Year</title>
-      <link>/tags/year/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/year/</guid>
->>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
       <description></description>
     </item>
     
