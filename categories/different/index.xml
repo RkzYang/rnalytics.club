@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Different on R&#39;nalytics</title>
+    <link>/categories/different/</link>
+    <description>Recent content in Different on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/different/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Natural Language Processing for Fuzzy String Matching with Python</title>
+      <link>/posts/post-2019-05-26-13-48-10/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/post-2019-05-26-13-48-10/</guid>
+      <description>- Natural Language Processing for Fuzzy String Matching with Python  [ read more ] In computer science, fuzzy string matching is the technique of finding strings that match a pattern… 5 min read
+- JIT fast! Supercharge tensor processing in Python with JIT compilation  [ read more ] Numba can speed up tensor processing work in Python by an order of magnitude. Read on for one of the easiest… 11 min read</description>
+    </item>
+    
+  </channel>
+</rss>

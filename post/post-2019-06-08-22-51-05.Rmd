@@ -48,9 +48,15 @@ isCJKLanguage: no
 
 ## '[CfP] ISWC 2019 - Natural Language Interfaces for the Web of Data workshop 2019' 
  [ <a href="http://lists.w3.org/Archives/Public/semantic-web/2019May/0095.html" target="_blank">read more</a> ]
+<<<<<<< HEAD
 From: Ricardo Usbeck &lt;ricardo.usbeck@iais.fraunhofer.de&gt;
 Date: Wed, 29 May 2019 16:44:48 +0200Message-Id: &lt;7E60362D-C5D3-483C-8956-7A41F69478BF@iais.fraunhofer.de&gt;
 To: semantic-web@w3.org
+=======
+From: Ricardo Usbeck &lt;ricardo.usbeck@iais.fraunhofer.de&gt;
+Date: Wed, 29 May 2019 16:44:48 +0200Message-Id: &lt;7E60362D-C5D3-483C-8956-7A41F69478BF@iais.fraunhofer.de&gt;
+To: semantic-web@w3.org
+>>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
 5th International Workshop on Natural Language Interface… [+3563 chars] 
 
 

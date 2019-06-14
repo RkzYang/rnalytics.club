@@ -48,7 +48,11 @@ isCJKLanguage: no
 
 ## '6 digital payment trends to keep an eye on' 
  [ <a href="https://www.getelastic.com/6-digital-payment-trends-to-keep-an-eye-on" target="_blank">read more</a> ]
+<<<<<<< HEAD
 With advancements in technology, the adoption of cashless solutions has increased to a great extent. The upcoming trends in payments will shift how consumers pay in the future; making credit cards and cash (so-called todays rulers) a thing of the past. 
+=======
+With advancements in technology, the adoption of cashless solutions has increased to a great extent. The upcoming trends in payments will shift how consumers pay in the future; making credit cards and cash (so-called todays rulers) a thing of the past. 
+>>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
 The … [+5115 chars] 
 
 

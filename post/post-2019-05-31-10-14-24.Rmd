@@ -48,7 +48,11 @@ isCJKLanguage: no
 
 ## 'Can technology fix the NHS? Here are four ways it might' 
  [ <a href="https://www.zdnet.com/article/can-technology-fix-the-nhs-here-are-four-ways-it-might/" target="_blank">read more</a> ]
+<<<<<<< HEAD
 NHS watchers hoping for a single technology that can solve the many challenges facing the health service are likely to be disappointed.
+=======
+NHS watchers hoping for a single technology that can solve the many challenges facing the health service are likely to be disappointed.
+>>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
 "It's quite tough I don't think there's any one specific technology," says Dr Sam Shah, director for digital development a… [+6706 chars] 
 
 

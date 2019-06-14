@@ -50,8 +50,13 @@ isCJKLanguage: no
 
 ## 'Training a single AI model can emit as much carbon as five cars in their lifetimes' 
  [ <a href="https://blog.adafruit.com/2019/06/10/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/" target="_blank">read more</a> ]
+<<<<<<< HEAD
 A new paper highlights the large energy cost of training AI. 
 Via MIT Technology Review:
+=======
+A new paper highlights the large energy cost of training AI. 
+Via MIT Technology Review:
+>>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
 The artificial-intelligence industry is often compared to the oil industry: once mined and refined, data, like oil, can be a highly lucrative commodity. Now it seems th… [+2542 chars] 
 
 

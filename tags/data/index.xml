@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>data on R&#39;nalytics</title>
     <link>/tags/data/</link>
     <description>Recent content in data on R&#39;nalytics</description>
+=======
+    <title>Data on R&#39;nalytics</title>
+    <link>/tags/data/</link>
+    <description>Recent content in Data on R&#39;nalytics</description>
+>>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
     <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>

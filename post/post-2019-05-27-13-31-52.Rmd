@@ -48,7 +48,11 @@ isCJKLanguage: no
 
 ## 'Want to Know Your Wine Is Genuine? EY Has Built a Blockchain for That' 
  [ <a href="https://www.coindesk.com/want-to-know-your-wine-is-genuine-ey-has-built-a-blockchain-for-that" target="_blank">read more</a> ]
+<<<<<<< HEAD
 Big Four professional services firm EY has built a blockchain platform for a firm that will help consumers determine wines’ quality, provenance and authenticity.
+=======
+Big Four professional services firm EY has built a blockchain platform for a firm that will help consumers determine wines’ quality, provenance and authenticity.
+>>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
 The TATTOO Wine Platform has been developed for Blockchain Wine Pte. Ltd. using EYs OpsChain sol… [+1749 chars] 
 
 

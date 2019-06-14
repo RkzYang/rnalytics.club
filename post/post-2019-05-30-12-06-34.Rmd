@@ -52,7 +52,11 @@ isCJKLanguage: no
 
 ## 'Bitfury, Tech Firm Mphasis Plan Blockchain Disruption in Trade Finance - CoinDesk' 
  [ <a href="https://www.coindesk.com/bitfury-tech-firm-mphasis-plan-blockchain-disruption-in-trade-finance" target="_blank">read more</a> ]
+<<<<<<< HEAD
 IT firm Mphasis, which is owned by private equity multinational Blackstone, has partnered with blockchain tech firm Bitfury with the aim of disrupting trade finance.
+=======
+IT firm Mphasis, which is owned by private equity multinational Blackstone, has partnered with blockchain tech firm Bitfury with the aim of disrupting trade finance.
+>>>>>>> 7084833e721a31d5acb4bf79dba912831ece6b8c
 The firms say they will bring new transparency and efficiency to settlement, foreign exchang… [+1372 chars] 
 
 
