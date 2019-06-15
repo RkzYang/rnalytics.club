@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on R&#39;nalytics</title>
+    <link>/categories/google/</link>
+    <description>Recent content in Google on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Threat of Google DeepMind</title>
+      <link>/posts/the-threat-of-google-deepmind/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-threat-of-google-deepmind/</guid>
+      <description>The Threat of Google’s DeepMind [ read more ] If you consider Google is the leader globally in artificial intelligence, DeepMind is their crown jewel. 5 min read
+ What is the next big thing in AI and ML? [ read more ] And is there one? 16 min read
+ Aspect-Based Opinion Mining (NLP with Python) [ read more ] If you’ve heard of Uber or Amazon, you may be one of 40 million (Uber) or over 310 million (Amazon) active… 9 min read</description>
+    </item>
+    
+    <item>
+      <title>The Threat of Google DeepMind</title>
+      <link>/posts/the-threat-of-google-deepmind/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-threat-of-google-deepmind/</guid>
+      <description>The Threat of Google’s DeepMind [ read more ] If you consider Google is the leader globally in artificial intelligence, DeepMind is their crown jewel. 5 min read
+ What is the next big thing in AI and ML? [ read more ] And is there one? 16 min read
+ Aspect-Based Opinion Mining (NLP with Python) [ read more ] If you’ve heard of Uber or Amazon, you may be one of 40 million (Uber) or over 310 million (Amazon) active… 9 min read</description>
+    </item>
+    
+  </channel>
+</rss>

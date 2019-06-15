@@ -1,0 +1,57 @@
+---
+title: 'The Threat of Google DeepMind' 
+author: 
+date: 2019-06-14
+slug: 
+categories: 
+- deepmind
+- ai
+- google
+- exciting
+- datascience
+- AI
+tags: 
+- deepmind
+- ai
+- google
+- exciting
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## The Threat of Google's DeepMind   
+[ <a href="https://medium.com/@Michael_Spencer/the-threat-of-googles-deepmind-9fe9e556946a" target="_blank">read more</a> ] 
+  If you consider Google is the leader globally in artificial intelligence, DeepMind is their crown jewel. 5 min read 
+
+
+
+
+## What is the next big thing in AI and ML?   
+[ <a href="" target="_blank">read more</a> ] 
+  And is there one? 16 min read 
+
+
+
+
+## Aspect-Based Opinion Mining (NLP with Python)   
+[ <a href="https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800" target="_blank">read more</a> ] 
+  If you've heard of Uber or Amazon, you may be one of 40 million (Uber) or over 310 million (Amazon) active… 9 min read 
+
+
+
+
+## A Technical Look at How Criminals Use AI   
+[ <a href="https://medium.com/@ODSC/a-technical-look-at-how-criminals-use-ai-4080f2e325a9" target="_blank">read more</a> ] 
+  Machine learning is one of the most exciting new features used in technology today. However, it is… 6 min read 
+
+
+
+
+## 'What Apple's new AR bowling game taught us about the future - CNET' 
+ [ <a href="https://www.cnet.com/news/what-apples-new-ar-bowling-game-taught-us-about-the-future/" target="_blank">read more</a> ]
+A giant bowling game showed us the best features of ARKit 3.
+Screenshot by Chris Pavey/CNET
+I'm scrambling around a wooden floor, trying to fend off a giant virtual ball with my iPad Pro. It's a bowling alley, but it feels like a basketball court. A crowd c… [+4937 chars] 
+
+

@@ -1,0 +1,55 @@
+---
+title: 'The Threat of Google DeepMind' 
+author: 
+date: 2019-06-14
+slug: 
+categories: 
+- deepmind
+- ai
+- google
+- learning
+- datascience
+- AI
+tags: 
+- deepmind
+- ai
+- google
+- learning
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## The Threat of Google's DeepMind   
+[ <a href="https://medium.com/@Michael_Spencer/the-threat-of-googles-deepmind-9fe9e556946a" target="_blank">read more</a> ] 
+  If you consider Google is the leader globally in artificial intelligence, DeepMind is their crown jewel. 5 min read 
+
+
+
+
+## What is the next big thing in AI and ML?   
+[ <a href="" target="_blank">read more</a> ] 
+  And is there one? 16 min read 
+
+
+
+
+## Aspect-Based Opinion Mining (NLP with Python)   
+[ <a href="https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800" target="_blank">read more</a> ] 
+  If you've heard of Uber or Amazon, you may be one of 40 million (Uber) or over 310 million (Amazon) active… 9 min read 
+
+
+
+
+## A Technical Look at How Criminals Use AI   
+[ <a href="https://medium.com/@ODSC/a-technical-look-at-how-criminals-use-ai-4080f2e325a9" target="_blank">read more</a> ] 
+  Machine learning is one of the most exciting new features used in technology today. However, it is… 6 min read 
+
+
+
+
+## 'Netflix is launching two Stranger Things games' 
+ [ <a href="https://thenextweb.com/?p=1212405" target="_blank">read more</a> ]
+After dominating the streaming video arena, Netflix is set to dip its toes into gaming. At E3 last night, the company announced its going to make video games based on its popular original shows, starting with its hit 80s-themed horror series, Stranger Things.… [+864 chars] 
+
+

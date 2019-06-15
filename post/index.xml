@@ -6,10 +6,32 @@
     <description>Recent content in Posts on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Threat of Google DeepMind</title>
+      <link>/posts/the-threat-of-google-deepmind/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-threat-of-google-deepmind/</guid>
+      <description>The Threat of Google’s DeepMind [ read more ] If you consider Google is the leader globally in artificial intelligence, DeepMind is their crown jewel. 5 min read
+ What is the next big thing in AI and ML? [ read more ] And is there one? 16 min read
+ Aspect-Based Opinion Mining (NLP with Python) [ read more ] If you’ve heard of Uber or Amazon, you may be one of 40 million (Uber) or over 310 million (Amazon) active… 9 min read</description>
+    </item>
+    
+    <item>
+      <title>The Threat of Google DeepMind</title>
+      <link>/posts/the-threat-of-google-deepmind/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-threat-of-google-deepmind/</guid>
+      <description>The Threat of Google’s DeepMind [ read more ] If you consider Google is the leader globally in artificial intelligence, DeepMind is their crown jewel. 5 min read
+ What is the next big thing in AI and ML? [ read more ] And is there one? 16 min read
+ Aspect-Based Opinion Mining (NLP with Python) [ read more ] If you’ve heard of Uber or Amazon, you may be one of 40 million (Uber) or over 310 million (Amazon) active… 9 min read</description>
+    </item>
     
     <item>
       <title>Predicting Movie Genres using NLP  </title>
