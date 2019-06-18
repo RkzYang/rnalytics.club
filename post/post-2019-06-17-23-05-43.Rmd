@@ -1,0 +1,55 @@
+---
+title: 'A Basic NLP Tutorial for News Multiclass Categorization  ' 
+author: 
+date: 2019-06-17
+slug: 
+categories: 
+- machinelearning
+- nlp
+- bert
+- datascience
+- AI
+tags: 
+- machinelearning
+- nlp
+- bert
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## A Basic NLP Tutorial for News Multiclass Categorization   
+[ <a href="https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5" target="_blank">read more</a> ] 
+  Natural Language Processing, Support Vector Machine, TF- IDF, deep learning, Spacy, Attention LSTM 6 min read 
+
+
+
+
+## Dissecting BERT Part 1: The Encoder   
+[ <a href="https://medium.com/@mromerocalvo/dissecting-bert-part-1-the-encoder-d3c3d495cdb3" target="_blank">read more</a> ] 
+  This is Part 1/2 of Understanding BERT written jointly by Miguel Romero and Francisco Ingham. If you already… 12 min read 
+
+
+
+
+## Machine Learning is Fun!   
+[ <a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank">read more</a> ] 
+  The world's easiest introduction to Machine Learning 15 min read 
+
+
+
+
+## How to solve 90% of NLP problems: a step-by-step guide   
+[ <a href="https://medium.com/@emmanuelameisen/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e" target="_blank">read more</a> ] 
+  Using Machine Learning to understand and leverage text. 13 min read 
+
+
+
+
+## 'Google Integrates Cryptocurrency Project With New Blockchain Oracle' 
+ [ <a href="https://www.forbes.com/sites/hanktucker/2019/06/13/google-integrates-cryptocurrency-project-with-new-blockchain-oracle/" target="_blank">read more</a> ]
+Google is integrating its BigQuery service with a blockchain oracle called Chainlink that runs smart contracts.
+Getty
+Google announced in a blog post Thursday that ethereum app builders using Google software will be able to integrate data from sources outsi… [+5231 chars] 
+
+

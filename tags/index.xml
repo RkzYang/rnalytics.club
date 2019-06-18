@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Bert</title>
+      <link>/tags/bert/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Code</title>
       <link>/tags/code/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
@@ -86,7 +95,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -257,7 +266,7 @@
     <item>
       <title>Machinelearning</title>
       <link>/tags/machinelearning/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/machinelearning/</guid>
       <description></description>
@@ -296,6 +305,15 @@
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/neuralnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlp</title>
+      <link>/tags/nlp/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nlp/</guid>
       <description></description>
     </item>
     
