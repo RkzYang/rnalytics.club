@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/the-mistakes-i-made-as-a-beginner-programmer/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/a-basic-nlp-tutorial-for-news-multiclass-categorization/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -99,7 +104,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -124,13 +129,13 @@
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ai/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -226,13 +231,13 @@
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/datascience/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -321,6 +326,18 @@
   </url>
   
   <url>
+    <loc>/tags/habits/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/habits/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/historicalcasestudies/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -370,13 +387,13 @@
   
   <url>
     <loc>/tags/introduction/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/introduction/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -586,13 +603,25 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/principles/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/principles/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -653,6 +682,18 @@
   <url>
     <loc>/categories/react/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reinforcement/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/reinforcement/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -165,6 +165,15 @@
     </item>
     
     <item>
+      <title>Habits</title>
+      <link>/tags/habits/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Historicalcasestudies</title>
       <link>/tags/historicalcasestudies/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
@@ -203,7 +212,7 @@
     <item>
       <title>Introduction</title>
       <link>/tags/introduction/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/introduction/</guid>
       <description></description>
@@ -363,6 +372,15 @@
     </item>
     
     <item>
+      <title>Principles</title>
+      <link>/tags/principles/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>/tags/python/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
@@ -404,6 +422,15 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement</title>
+      <link>/tags/reinforcement/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reinforcement/</guid>
       <description></description>
     </item>
     

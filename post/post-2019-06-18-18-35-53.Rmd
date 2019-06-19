@@ -1,0 +1,58 @@
+---
+title: 'The Mistakes I Made As a Beginner Programmer  ' 
+author: 
+date: 2019-06-18
+slug: 
+categories: 
+- introduction
+- reinforcement
+- principles
+- habits
+- datascience
+- AI
+tags: 
+- introduction
+- reinforcement
+- principles
+- habits
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## The Mistakes I Made As a Beginner Programmer   
+[ <a href="https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312" target="_blank">read more</a> ] 
+  Learn to identify them, make habits to avoid them 29 min read 
+
+
+
+
+## How I planned my meals with Reinforcement Learning on a budget   
+[ <a href="https://medium.com/@sterlingosborne/how-i-planned-my-meals-with-reinforcement-learning-on-a-budget-a82aac906ada" target="_blank">read more</a> ] 
+  Following my recent article on applying Reinforcement Learning to real life problems, I decided to… 16 min read 
+
+
+
+
+## SOLID Principles every Developer Should Know   
+[ <a href="https://medium.com/@kurtwanger40/solid-principles-every-developer-should-know-b3bfa96bb688" target="_blank">read more</a> ] 
+  A short yet detailed introduction to understanding SOLID design principles. 11 min read 
+
+
+
+
+## An Introduction to Recurrent Neural Networks   
+[ <a href="https://medium.com/@suvro.banerjee16/an-introduction-to-recurrent-neural-networks-72c97bf0912" target="_blank">read more</a> ] 
+  A way to teach Machines how to comprehend Natural Languages. 8 min read 
+
+
+
+
+## 'Voices in AI – Episode 89: A Conversation with Doug Lenat' 
+ [ <a href="https://gigaom.com/2019/06/13/voices-in-ai-episode-89-a-conversation-with-doug-lenat/" target="_blank">read more</a> ]
+Today's leading minds talk AI with host Byron Reese
+About this Episode
+Episode 89 of Voices in AI features Byron speaking with Cycorp CEO Douglas Lenat on developing AI and the very nature of intelligence.
+Listen to this episode or read the full transcript… [+16451 chars] 
+
+
