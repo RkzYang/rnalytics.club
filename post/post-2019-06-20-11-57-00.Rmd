@@ -1,0 +1,53 @@
+---
+title: "Introduction to StanfordNLP: An NLP Library for 53 Languages (with Python code)  " 
+author: 
+date: 2019-06-20
+slug: 
+categories: 
+- nlplibrary
+- features
+- architecture
+- datascience
+- AI
+tags: 
+- nlplibrary
+- features
+- architecture
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Introduction to StanfordNLP: An NLP Library for 53 Languages (with Python code)   
+[ <a href="https://medium.com/@mohdsanadzakirizvi/introduction-to-stanfordnlp-an-nlp-library-for-53-languages-with-python-code-d7c3efdca118" target="_blank">read more</a> ] 
+  A tutorial on Stanford's latest library - StanfordNLP. I showcase an implementation on basic NLP tasks in… 8 min read 
+
+
+
+
+## Web Architecture 101   
+[ <a href="https://medium.com/@jonathan_fulton/web-architecture-101-a3224e126947" target="_blank">read more</a> ] 
+  The basic architecture concepts I wish I knew when I was getting started as a web developer 11 min read 
+
+
+
+
+## Natural Language Processing is Fun!   
+[ <a href="https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e" target="_blank">read more</a> ] 
+  How computers understand Human Language 16 min read 
+
+
+
+
+## An introduction to Bag of Words and how to code it in Python for NLP   
+[ <a href="https://medium.com/@edubey/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04" target="_blank">read more</a> ] 
+  Bag of Words (BOW) is a method to extract features from text documents. These features can be used for… 6 min read 
+
+
+
+
+## 'Enso OS Makes Xfce Elementary' 
+ [ <a href="https://www.linuxinsider.com/story/86077.html?rss=1" target="_blank">read more</a> ]
+Scale Your Business with Freshservice® ITSMSet up an efficient IT team and bridge the gap between IT and other business functions with Freshservice. With features like powerful ticketing, asset management, service catalog, workflow automator and more, Freshse… [+11643 chars] 
+
+

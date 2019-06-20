@@ -6,10 +6,21 @@
     <description>Recent content in Architecture on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to StanfordNLP: An NLP Library for 53 Languages (with Python code)  </title>
+      <link>/posts/introduction-to-stanfordnlp-an-nlp-library-for-53-languages-with-python-code/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/introduction-to-stanfordnlp-an-nlp-library-for-53-languages-with-python-code/</guid>
+      <description>Introduction to StanfordNLP: An NLP Library for 53 Languages (with Python code) [ read more ] A tutorial on Stanford’s latest library - StanfordNLP. I showcase an implementation on basic NLP tasks in… 8 min read
+ Web Architecture 101 [ read more ] The basic architecture concepts I wish I knew when I was getting started as a web developer 11 min read
+ Natural Language Processing is Fun!</description>
+    </item>
     
     <item>
       <title>Predicting Movie Genres using NLP  </title>

@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Architecture</title>
       <link>/categories/architecture/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/architecture/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -143,6 +143,15 @@
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/exciting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>/categories/features/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/features/</guid>
       <description></description>
     </item>
     
@@ -323,6 +332,15 @@
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlplibrary</title>
+      <link>/categories/nlplibrary/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/nlplibrary/</guid>
       <description></description>
     </item>
     
