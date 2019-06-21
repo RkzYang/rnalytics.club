@@ -1,0 +1,56 @@
+---
+title: "19 Things You Need to Learn to Become an Effective Angular Developer  " 
+author: 
+date: 2019-06-21
+slug: 
+categories: 
+- guide
+- angular
+- bert
+- deep
+- datascience
+- AI
+tags: 
+- guide
+- angular
+- bert
+- deep
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## 19 Things You Need to Learn to Become an Effective Angular Developer   
+[ <a href="https://medium.com/@PurpleGreenLemon/19-things-you-need-to-learn-to-become-an-effective-angular-developer-c0ccfa51222a" target="_blank">read more</a> ] 
+  A comprehensive guide on how to become a pro at Angular 10 min read 
+
+
+
+
+## An introduction to Git merge and rebase: what they are, and how to use them   
+[ <a href="https://medium.com/@vali.shah/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f" target="_blank">read more</a> ] 
+  As a Developer, many of us have to choose between Merge & Rebase. With all the references we get from the… 6 min read 
+
+
+
+
+## A Simple Guide On Using BERT for Text Classification.   
+[ <a href="https://medium.com/@chaturangarajapakshe/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04" target="_blank">read more</a> ] 
+  The A-to-Z of how you can use Google's BERT for binary text classification tasks with Python and PyTorch. 10 min read 
+
+
+
+
+## What is Geometric Deep Learning?   
+[ <a href="" target="_blank">read more</a> ] 
+  Deep Learning 🤖 on graphs and in 3D 9 min read 
+
+
+
+
+## 'Doctor Evidence is Empowering Researchers with an Intuitive AI Solution for Rapid Literature Review and Surveillance - Updates to a User-Friendly Interface in DOC Search' 
+ [ <a href="https://www.prnewswire.com/news-releases/doctor-evidence-is-empowering-researchers-with-an-intuitive-ai-solution-for-rapid-literature-review-and-surveillance--updates-to-a-user-friendly-interface-in-doc-search-300871638.html" target="_blank">read more</a> ]
+SANTA MONICA, Calif., June 19, 2019 /PRNewswire/ -- Doctor Evidence, a global health technology and consulting company in biomedical research, releases new updates and an interactive user interface for the DOC Search platform on June 24th.
+DOC Search was des… [+4228 chars] 
+
+

@@ -23,9 +23,18 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>/categories/angular/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/angular/</guid>
       <description></description>
     </item>
     
@@ -68,7 +77,7 @@
     <item>
       <title>Bert</title>
       <link>/categories/bert/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/bert/</guid>
       <description></description>
@@ -95,9 +104,18 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep</title>
+      <link>/categories/deep/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep/</guid>
       <description></description>
     </item>
     
@@ -170,6 +188,15 @@
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>/categories/guide/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/guide/</guid>
       <description></description>
     </item>
     

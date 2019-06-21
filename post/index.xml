@@ -6,10 +6,20 @@
     <description>Recent content in Posts on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 Things You Need to Learn to Become an Effective Angular Developer  </title>
+      <link>/posts/19-things-you-need-to-learn-to-become-an-effective-angular-developer/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/19-things-you-need-to-learn-to-become-an-effective-angular-developer/</guid>
+      <description>19 Things You Need to Learn to Become an Effective Angular Developer [ read more ] A comprehensive guide on how to become a pro at Angular 10 min read
+ An introduction to Git merge and rebase: what they are, and how to use them [ read more ] As a Developer, many of us have to choose between Merge &amp;amp; Rebase. With all the references we get from the… 6 min read</description>
+    </item>
     
     <item>
       <title>Introduction to StanfordNLP: An NLP Library for 53 Languages (with Python code)  </title>

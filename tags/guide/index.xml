@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bert on R&#39;nalytics</title>
-    <link>/categories/bert/</link>
-    <description>Recent content in Bert on R&#39;nalytics</description>
+    <title>Guide on R&#39;nalytics</title>
+    <link>/tags/guide/</link>
+    <description>Recent content in Guide on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
     <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/bert/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/posts/19-things-you-need-to-learn-to-become-an-effective-angular-developer/</guid>
       <description>19 Things You Need to Learn to Become an Effective Angular Developer [ read more ] A comprehensive guide on how to become a pro at Angular 10 min read
  An introduction to Git merge and rebase: what they are, and how to use them [ read more ] As a Developer, many of us have to choose between Merge &amp;amp; Rebase. With all the references we get from the… 6 min read</description>
-    </item>
-    
-    <item>
-      <title>A Basic NLP Tutorial for News Multiclass Categorization  </title>
-      <link>/posts/a-basic-nlp-tutorial-for-news-multiclass-categorization/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/a-basic-nlp-tutorial-for-news-multiclass-categorization/</guid>
-      <description>A Basic NLP Tutorial for News Multiclass Categorization [ read more ] Natural Language Processing, Support Vector Machine, TF- IDF, deep learning, Spacy, Attention LSTM 6 min read
- Dissecting BERT Part 1: The Encoder [ read more ] This is Part 1/2 of Understanding BERT written jointly by Miguel Romero and Francisco Ingham. If you already… 12 min read
- Machine Learning is Fun! [ read more ] The world’s easiest introduction to Machine Learning 15 min read</description>
     </item>
     
   </channel>
