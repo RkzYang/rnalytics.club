@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -336,6 +336,15 @@
     </item>
     
     <item>
+      <title>Mllib</title>
+      <link>/categories/mllib/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mllib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Model</title>
       <link>/categories/model/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -399,6 +408,15 @@
     </item>
     
     <item>
+      <title>Overfitting</title>
+      <link>/categories/overfitting/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/overfitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Part</title>
       <link>/categories/part/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
@@ -422,6 +440,15 @@
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyspark</title>
+      <link>/categories/pyspark/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/pyspark/</guid>
       <description></description>
     </item>
     
@@ -471,6 +498,15 @@
     </item>
     
     <item>
+      <title>Readthe</title>
+      <link>/categories/readthe/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/readthe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reinforcement</title>
       <link>/categories/reinforcement/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
@@ -485,6 +521,15 @@
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short</title>
+      <link>/categories/short/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/short/</guid>
       <description></description>
     </item>
     

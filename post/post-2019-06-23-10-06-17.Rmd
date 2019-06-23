@@ -1,0 +1,57 @@
+---
+title: "The Problem Of Overfitting And How To Resolve It  " 
+author: 
+date: 2019-06-23
+slug: 
+categories: 
+- overfitting
+- readthe
+- mllib
+- short
+- pyspark
+- datascience
+- AI
+tags: 
+- overfitting
+- readthe
+- mllib
+- short
+- pyspark
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## The Problem Of Overfitting And How To Resolve It   
+[ <a href="https://medium.com/@farhadmalik84/the-problem-of-overfitting-and-how-to-resolve-it-1eb9456b1dfd" target="_blank">read more</a> ] 
+  Explaining How To Fix The Curse Of Overfitting In Python 6 min read 
+
+
+
+
+## A Technical Look at How Criminals Use AI   
+[ <a href="https://medium.com/@ODSC/a-technical-look-at-how-criminals-use-ai-4080f2e325a9" target="_blank">read more</a> ] 
+  Machine learning is one of the most exciting new features used in technology today. However, it is… 6 min read 
+
+
+
+
+## The amazing power of long/short term memory networks (LSTMs)   
+[ <a href="https://medium.com/@mdfarragher/the-amazing-power-of-long-short-term-memory-networks-lstms-b6f2c80d50ee" target="_blank">read more</a> ] 
+  Long short term memory networks have both long- and short term memory, and this makes them ideal for… 3 min read 
+
+
+
+
+## Multi-Class Text Classification Using PySpark, MLlib & Doc2Vec   
+[ <a href="https://medium.com/@avisheknag17/multi-class-text-classification-using-pyspark-mllib-doc2vec-dbfcee5b39f2" target="_blank">read more</a> ] 
+  How to use Apache Spark MLlib with PySpark for NLP problems and how to simulate Doc2Vec in Spark MLlib 6 min read 
+
+
+
+
+## 'What net neutrality? FCC head Ajit Pai would rather regulate Facebook' 
+ [ <a href="https://www.digitaltrends.com/news/ajit-pai-net-neutrality-silicon-valley-regulation/" target="_blank">read more</a> ]
+Federal Communications Commission Chairman Ajit Pai said Wednesday that he believes The greatest threat to a free and open internet has been the unregulated Silicon Valley tech giants that do, in fact, today decide what you see and what you dont, Pai said. Th… [+4994 chars] 
+
+
