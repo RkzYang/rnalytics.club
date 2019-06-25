@@ -1,0 +1,53 @@
+---
+title: "Write a Simple Summarizer in Python  " 
+author: 
+date: 2019-06-25
+slug: 
+categories: 
+- language
+- ai
+- introduction
+- datascience
+- AI
+tags: 
+- language
+- ai
+- introduction
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Write a Simple Summarizer in Python   
+[ <a href="https://medium.com/@jodylecompte/write-a-simple-summarizer-in-python-e9ca6138a08e" target="_blank">read more</a> ] 
+  A Gentle Introduction to Natural Language Processing 8 min read 
+
+
+
+
+## Why you should totally switch to Kotlin   
+[ <a href="https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5" target="_blank">read more</a> ] 
+  It's time to start using a modern programming language 7 min read 
+
+
+
+
+## How to think like a programmer - lessons in problem solving   
+[ <a href="https://medium.com/@richardreeze/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2" target="_blank">read more</a> ] 
+  If you're interested in programming, you may well have seen this quote before: 7 min read 
+
+
+
+
+## Shanghai Spawns a New Generation of AI Startups   
+[ <a href="https://medium.com/@Synced/shanghai-spawns-a-new-generation-of-ai-startups-890b65bdd62f" target="_blank">read more</a> ] 
+  A typical JD motorcycle deliveryman in Shanghai delivers 100 packages per day, racing along the city's… 8 min read 
+
+
+
+
+## 'internship in Machine Translation' 
+ [ <a href="https://nlppeople.com/job/internship-in-machine-translation/" target="_blank">read more</a> ]
+GEC is the task of automatically correcting grammatical errors in text. MT-based approaches to GEC – where MT systems carry out a monolingual translation from a text containing errors into a text that is free of errors – have produced very competitive results… [+1636 chars] 
+
+

@@ -6,10 +6,21 @@
     <description>Recent content in Datascience on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Write a Simple Summarizer in Python  </title>
+      <link>/posts/write-a-simple-summarizer-in-python/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/write-a-simple-summarizer-in-python/</guid>
+      <description>Write a Simple Summarizer in Python [ read more ] A Gentle Introduction to Natural Language Processing 8 min read
+ Why you should totally switch to Kotlin [ read more ] It’s time to start using a modern programming language 7 min read
+ How to think like a programmer - lessons in problem solving [ read more ] If you’re interested in programming, you may well have seen this quote before: 7 min read</description>
+    </item>
     
     <item>
       <title>The Problem Of Overfitting And How To Resolve It  </title>
