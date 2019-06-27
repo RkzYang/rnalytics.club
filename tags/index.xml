@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -293,7 +293,7 @@
     <item>
       <title>Learning</title>
       <link>/tags/learning/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/learning/</guid>
       <description></description>
@@ -444,6 +444,15 @@
     </item>
     
     <item>
+      <title>Product</title>
+      <link>/tags/product/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pyspark</title>
       <link>/tags/pyspark/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
@@ -534,6 +543,15 @@
     </item>
     
     <item>
+      <title>Similar</title>
+      <link>/tags/similar/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/similar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speech</title>
       <link>/tags/speech/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
@@ -602,6 +620,15 @@
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/voiceinteractions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week</title>
+      <link>/tags/week/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/week/</guid>
       <description></description>
     </item>
     

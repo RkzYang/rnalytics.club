@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -293,7 +293,7 @@
     <item>
       <title>Learning</title>
       <link>/categories/learning/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/learning/</guid>
       <description></description>
@@ -444,6 +444,15 @@
     </item>
     
     <item>
+      <title>Product</title>
+      <link>/categories/product/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pyspark</title>
       <link>/categories/pyspark/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
@@ -534,6 +543,15 @@
     </item>
     
     <item>
+      <title>Similar</title>
+      <link>/categories/similar/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/similar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speech</title>
       <link>/categories/speech/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
@@ -602,6 +620,15 @@
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/voiceinteractions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week</title>
+      <link>/categories/week/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/week/</guid>
       <description></description>
     </item>
     

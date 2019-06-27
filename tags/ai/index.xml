@@ -6,10 +6,19 @@
     <description>Recent content in Ai on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finding Similar Quora Questions with Word2Vec and Xgboost  </title>
+      <link>/posts/finding-similar-quora-questions-with-word2vec-and-xgboost/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/finding-similar-quora-questions-with-word2vec-and-xgboost/</guid>
+      <description>--- title: &#34;Finding Similar Quora Questions with Word2Vec and Xgboost &#34; author: date: 2019-06-27 slug: categories: - similar - product - learning - week - datascience - AI tags: - similar - product - learning - week - datascience - AI isCJKLanguage: no --- Finding Similar Quora Questions with Word2Vec and Xgboost [ read more ] Last week, we explored different techniques for de-duplication for identifying similar documents using BOW… 5 min read</description>
+    </item>
     
     <item>
       <title>Write a Simple Summarizer in Python  </title>

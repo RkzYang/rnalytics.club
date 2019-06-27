@@ -1,0 +1,55 @@
+---
+title: "Finding Similar Quora Questions with Word2Vec and Xgboost  " 
+author: 
+date: 2019-06-27
+slug: 
+categories: 
+- similar
+- product
+- learning
+- week
+- datascience
+- AI
+tags: 
+- similar
+- product
+- learning
+- week
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Finding Similar Quora Questions with Word2Vec and Xgboost   
+[ <a href="https://medium.com/@actsusanli/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d" target="_blank">read more</a> ] 
+  Last week, we explored different techniques for de-duplication for identifying similar documents using BOW… 5 min read 
+
+
+
+
+## AI's Growing Role in Musical Composition   
+[ <a href="https://medium.com/@Synced/ais-growing-role-in-musical-composition-ec105417899" target="_blank">read more</a> ] 
+  As artificial intelligence matures so does its potential in the creative industries - one of which happens to… 5 min read 
+
+
+
+
+## How to make your own sentiment analyzer using Python and Google's Natural…   
+[ <a href="https://medium.com/@dzakyputra/how-to-make-your-own-sentiment-analyzer-using-python-and-googles-natural-language-api-9e91e1c493e" target="_blank">read more</a> ] 
+  Imagine you are a product owner who wants to know what people are saying about your product in social media… 10 min read 
+
+
+
+
+## What is a Transformer?   
+[ <a href="" target="_blank">read more</a> ] 
+  An Introduction to Transformers and Sequence-to-Sequence Learning for Machine Learning 13 min read 
+
+
+
+
+## 'Florida city agrees to pay hackers $600,000 in bitcoin to get its computer files back' 
+ [ <a href="https://bgr.com/2019/06/20/florida-ransomware-attack-payment-riviera-beach/" target="_blank">read more</a> ]
+Everyone knows that crime doesn’t pay, or at least that’s what we’re all led to believe. For hackers who broke into the computer systems of a Florida city a few weeks back, crime seems to be paying rather well, and the local government has agreed to pay the h… [+1674 chars] 
+
+
