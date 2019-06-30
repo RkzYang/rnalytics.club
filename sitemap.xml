@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/what-is-xlnet-and-why-it-outperforms-bert/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/finding-similar-quora-questions-with-word2vec-and-xgboost/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
@@ -134,7 +139,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -159,13 +164,25 @@
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ai/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/aifailures/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/aifailures/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -231,13 +248,13 @@
   
   <url>
     <loc>/tags/bert/</loc>
-    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/bert/</loc>
-    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -273,13 +290,13 @@
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/datascience/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -621,13 +638,13 @@
   
   <url>
     <loc>/tags/nlp/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/nlp/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -717,7 +734,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -994,6 +1011,18 @@
   <url>
     <loc>/categories/week/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/xlnet/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/xlnet/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

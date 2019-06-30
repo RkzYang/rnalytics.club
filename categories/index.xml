@@ -23,9 +23,18 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aifailures</title>
+      <link>/categories/aifailures/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/aifailures/</guid>
       <description></description>
     </item>
     
@@ -77,7 +86,7 @@
     <item>
       <title>Bert</title>
       <link>/categories/bert/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/bert/</guid>
       <description></description>
@@ -104,7 +113,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -365,7 +374,7 @@
     <item>
       <title>Nlp</title>
       <link>/categories/nlp/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/nlp/</guid>
       <description></description>
@@ -629,6 +638,15 @@
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/week/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xlnet</title>
+      <link>/categories/xlnet/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/xlnet/</guid>
       <description></description>
     </item>
     

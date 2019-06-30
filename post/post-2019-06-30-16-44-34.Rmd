@@ -1,0 +1,55 @@
+---
+title: "What Is XLNet and Why It Outperforms BERT  " 
+author: 
+date: 2019-06-30
+slug: 
+categories: 
+- aifailures
+- bert
+- xlnet
+- nlp
+- datascience
+- AI
+tags: 
+- aifailures
+- bert
+- xlnet
+- nlp
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## What Is XLNet and Why It Outperforms BERT   
+[ <a href="https://medium.com/@bramblexu/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335" target="_blank">read more</a> ] 
+  Basic knowledge of XLNet to understand the difference between XLNet and BERT intuitively 4 min read 
+
+
+
+
+## Building a Simple Chatbot from Scratch in Python (using NLTK)   
+[ <a href="https://medium.com/@parulnith/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e" target="_blank">read more</a> ] 
+  Gartner estimates that by 2020, chatbots will be handling 85 percent of customer-service interactions; they… 11 min read 
+
+
+
+
+## Adapters: A Compact and Extensible Transfer Learning Method for NLP   
+[ <a href="https://medium.com/@ibelmopan/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62" target="_blank">read more</a> ] 
+  Adapters obtain comparable results to BERT on several NLP tasks while achieving parameter efficiency. 5 min read 
+
+
+
+
+## 2018 in Review: 10 AI Failures   
+[ <a href="https://medium.com/@Synced/2018-in-review-10-ai-failures-c18faadf5983" target="_blank">read more</a> ] 
+  Last December Synced compiled its first "Artificial Intelligence Failures" recap of AI gaffes from the… 7 min read 
+
+
+
+
+## 'The Best Features of iOS 13: Maps, Photos, Privacy, Health' 
+ [ <a href="https://www.wired.com/story/ios-13-top-features/" target="_blank">read more</a> ]
+On Monday of this week, Apple released the iOS 13 public beta, which, as its name suggests, is prerelease software that the general public can now download and test on their iPhones. The new software should do all of the things that an upgrade typically does … [+8709 chars] 
+
+
