@@ -6,10 +6,20 @@
     <description>Recent content in Datascience on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/datascience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Text Classification with State of the Art NLP Library  -  Flair  </title>
+      <link>/posts/text-classification-with-state-of-the-art-nlp-library-flair/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/text-classification-with-state-of-the-art-nlp-library-flair/</guid>
+      <description>Text Classification with State of the Art NLP Library - Flair [ read more ] Exciting news! A new version of Flair - state-of-the-art NLP library has just been released. Learn how to use… 6 min read
+ Machine Learning with Python: NLP and Text Recognition [ read more ] In this article I apply a series of natural language processing techniques on a dataset containing reviews… 6 min read</description>
+    </item>
     
     <item>
       <title>What Is XLNet and Why It Outperforms BERT  </title>

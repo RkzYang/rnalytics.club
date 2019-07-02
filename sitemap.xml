@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/text-classification-with-state-of-the-art-nlp-library-flair/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/what-is-xlnet-and-why-it-outperforms-bert/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
@@ -139,7 +144,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -164,13 +169,13 @@
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ai/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -290,13 +295,13 @@
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/datascience/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -381,6 +386,18 @@
   <url>
     <loc>/categories/features/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/flair/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/flair/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -489,6 +506,18 @@
   <url>
     <loc>/categories/introduction/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/japaneseanime/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/japaneseanime/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -650,13 +679,13 @@
   
   <url>
     <loc>/tags/nlplibrary/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/nlplibrary/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -734,7 +763,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

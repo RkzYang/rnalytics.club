@@ -1,0 +1,55 @@
+---
+title: "Text Classification with State of the Art NLP Library  -  Flair  " 
+author: 
+date: 2019-07-02
+slug: 
+categories: 
+- nlplibrary
+- japaneseanime
+- flair
+- datascience
+- AI
+tags: 
+- nlplibrary
+- japaneseanime
+- flair
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Text Classification with State of the Art NLP Library  -  Flair   
+[ <a href="https://medium.com/@tadejmagajna/text-classification-with-state-of-the-art-nlp-library-flair-b541d7add21f" target="_blank">read more</a> ] 
+  Exciting news! A new version of Flair - state-of-the-art NLP library has just been released. Learn how to use… 6 min read 
+
+
+
+
+## Machine Learning with Python: NLP and Text Recognition   
+[ <a href="https://medium.com/@roberto.sannazzaro/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef" target="_blank">read more</a> ] 
+  In this article I apply a series of natural language processing techniques on a dataset containing reviews… 6 min read 
+
+
+
+
+## Reproducing Japanese Anime Styles With CartoonGAN AI   
+[ <a href="https://medium.com/@Synced/reproducing-japanese-anime-styles-with-cartoongan-ai-cf30d583736e" target="_blank">read more</a> ] 
+  From Hayao Miyazaki's Spirited Away to Satoshi Kon's Paprika, Japanese anime has made it okay for adults… 4 min read 
+
+
+
+
+## Things You Learn After 1 Year of Day Trading for a Living   
+[ <a href="https://medium.com/@kreimer.andrew/things-you-learn-after-1-year-of-day-trading-for-a-living-a97bbc8d19fa" target="_blank">read more</a> ] 
+  I've made 20% ROI in 6 months and lost it all in a single month. Then I lost 30% in 10 trades the following… 19 min read 
+
+
+
+
+## 'From Starbucks to Facebook, these are the top 25 US companies for career growth' 
+ [ <a href="https://www.businessinsider.com.au/comparably-ranking-of-the-top-us-companies-for-professional-development-2019-6" target="_blank">read more</a> ]
+<ul><li>Comparably, a website that rates companies across numerous categories, released its 2019 Best Professional Development list.
+ </li><li>
+ This list represents the highest-rated companies for professional development and career growth, as indicated by… [+8808 chars] 
+
+
