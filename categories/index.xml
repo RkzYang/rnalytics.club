@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -113,7 +113,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -354,6 +354,15 @@
     </item>
     
     <item>
+      <title>Men</title>
+      <link>/categories/men/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/men/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Microsoft</title>
       <link>/categories/microsoft/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -536,7 +545,7 @@
     <item>
       <title>Readthe</title>
       <link>/categories/readthe/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/readthe/</guid>
       <description></description>
@@ -584,6 +593,15 @@
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Started</title>
+      <link>/categories/started/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/started/</guid>
       <description></description>
     </item>
     

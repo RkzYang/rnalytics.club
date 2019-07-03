@@ -1,0 +1,53 @@
+---
+title: "The Marks of a True Senior Developer  " 
+author: 
+date: 2019-07-03
+slug: 
+categories: 
+- men
+- readthe
+- started
+- datascience
+- AI
+tags: 
+- men
+- readthe
+- started
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## The Marks of a True Senior Developer   
+[ <a href="https://medium.com/@PurpleGreenLemon/the-marks-of-a-true-senior-developer-d5f3b11c3375" target="_blank">read more</a> ] 
+  And how to spot them in the wild 5 min read 
+
+
+
+
+## No, Machine Learning is not just glorified Statistics   
+[ <a href="https://medium.com/@josephdavison/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3" target="_blank">read more</a> ] 
+  This meme has been all over social media lately, producing appreciative chuckles across the internet as the… 10 min read 
+
+
+
+
+## Why Don't "Good Men" Believe Women?   
+[ <a href="" target="_blank">read more</a> ] 
+  MeToo's next step isn't about Bad Men, but about masculinity 9 min read 
+
+
+
+
+## How to get started debugging TensorFlow   
+[ <a href="https://medium.com/@createdd/debugging-tensorflow-a-starter-e6668ce72617" target="_blank">read more</a> ] 
+  Table of Contents 6 min read 
+
+
+
+
+## 'The Best Hotels In Nashville' 
+ [ <a href="https://www.forbes.com/sites/emilyprice/2019/06/22/best-hotels-in-nashville-2019/" target="_blank">read more</a> ]
+This story was written in collaboration with&amp;nbsp;Forbes Finds. Forbes Finds&amp;nbsp;covers products and experiences we think youll love. Featured products are independently selected and linked to for your convenience. If you buy something using a link o… [+7019 chars] 
+
+

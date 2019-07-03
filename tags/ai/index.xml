@@ -6,10 +6,21 @@
     <description>Recent content in Ai on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Marks of a True Senior Developer  </title>
+      <link>/posts/the-marks-of-a-true-senior-developer/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-marks-of-a-true-senior-developer/</guid>
+      <description>The Marks of a True Senior Developer [ read more ] And how to spot them in the wild 5 min read
+ No, Machine Learning is not just glorified Statistics [ read more ] This meme has been all over social media lately, producing appreciative chuckles across the internet as the… 10 min read
+ Why Don’t “Good Men” Believe Women? [ read more ] MeToo’s next step isn’t about Bad Men, but about masculinity 9 min read</description>
+    </item>
     
     <item>
       <title>Text Classification with State of the Art NLP Library  -  Flair  </title>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/the-marks-of-a-true-senior-developer/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/text-classification-with-state-of-the-art-nlp-library-flair/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url>
@@ -144,7 +149,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -169,13 +174,13 @@
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ai/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -295,13 +300,13 @@
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/datascience/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -618,6 +623,18 @@
   </url>
   
   <url>
+    <loc>/tags/men/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/men/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/microsoft/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -763,7 +780,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -871,13 +888,13 @@
   
   <url>
     <loc>/tags/readthe/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/readthe/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -938,6 +955,18 @@
   <url>
     <loc>/categories/speech/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/started/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/started/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
