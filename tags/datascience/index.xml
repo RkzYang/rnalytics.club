@@ -6,10 +6,21 @@
     <description>Recent content in Datascience on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi Label Text Classification with Scikit-Learn  </title>
+      <link>/posts/multi-label-text-classification-with-scikit-learn/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/multi-label-text-classification-with-scikit-learn/</guid>
+      <description>Multi Label Text Classification with Scikit-Learn [ read more ] Multi-class classification means a classification task with more than two classes; each label are mutually… 6 min read
+ Fully Utilizing Your Deep Learning GPUs [ read more ] There are a lot of articles having to do with deep learning and deep learning frameworks, and there is a lot… 16 min read
+ 50+ Data Structure and Algorithms Interview Questions for Programmers [ read more ] There are a lot of computer science graduates and programmers applying for programming, coding, and software… 11 min read</description>
+    </item>
     
     <item>
       <title>The Marks of a True Senior Developer  </title>

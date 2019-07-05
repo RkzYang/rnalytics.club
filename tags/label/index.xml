@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep on R&#39;nalytics</title>
-    <link>/categories/deep/</link>
-    <description>Recent content in Deep on R&#39;nalytics</description>
+    <title>Label on R&#39;nalytics</title>
+    <link>/tags/label/</link>
+    <description>Recent content in Label on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
     <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/deep/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/label/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Multi Label Text Classification with Scikit-Learn [ read more ] Multi-class classification means a classification task with more than two classes; each label are mutually… 6 min read
  Fully Utilizing Your Deep Learning GPUs [ read more ] There are a lot of articles having to do with deep learning and deep learning frameworks, and there is a lot… 16 min read
  50+ Data Structure and Algorithms Interview Questions for Programmers [ read more ] There are a lot of computer science graduates and programmers applying for programming, coding, and software… 11 min read</description>
-    </item>
-    
-    <item>
-      <title>19 Things You Need to Learn to Become an Effective Angular Developer  </title>
-      <link>/posts/19-things-you-need-to-learn-to-become-an-effective-angular-developer/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/19-things-you-need-to-learn-to-become-an-effective-angular-developer/</guid>
-      <description>19 Things You Need to Learn to Become an Effective Angular Developer [ read more ] A comprehensive guide on how to become a pro at Angular 10 min read
- An introduction to Git merge and rebase: what they are, and how to use them [ read more ] As a Developer, many of us have to choose between Merge &amp;amp; Rebase. With all the references we get from the… 6 min read</description>
     </item>
     
   </channel>

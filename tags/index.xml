@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -93,6 +93,15 @@
     </item>
     
     <item>
+      <title>Classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Code</title>
       <link>/tags/code/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
@@ -113,7 +122,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -122,7 +131,7 @@
     <item>
       <title>Deep</title>
       <link>/tags/deep/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep/</guid>
       <description></description>
@@ -291,6 +300,15 @@
     </item>
     
     <item>
+      <title>Label</title>
+      <link>/tags/label/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/label/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Language</title>
       <link>/tags/language/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
@@ -332,6 +350,15 @@
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/liability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lot</title>
+      <link>/tags/lot/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lot/</guid>
       <description></description>
     </item>
     
@@ -485,6 +512,15 @@
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmers</title>
+      <link>/tags/programmers/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/programmers/</guid>
       <description></description>
     </item>
     

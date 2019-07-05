@@ -1,0 +1,57 @@
+---
+title: "Multi Label Text Classification with Scikit-Learn  " 
+author: 
+date: 2019-07-04
+slug: 
+categories: 
+- classification
+- programmers
+- lot
+- label
+- deep
+- datascience
+- AI
+tags: 
+- classification
+- programmers
+- lot
+- label
+- deep
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Multi Label Text Classification with Scikit-Learn   
+[ <a href="https://medium.com/@actsusanli/multi-label-text-classification-with-scikit-learn-30714b7819c5" target="_blank">read more</a> ] 
+  Multi-class classification means a classification task with more than two classes; each label are mutually… 6 min read 
+
+
+
+
+## Fully Utilizing Your Deep Learning GPUs   
+[ <a href="https://medium.com/@colinshaw_36798/fully-utilizing-your-deep-learning-gpus-61ee7acd3e57" target="_blank">read more</a> ] 
+  There are a lot of articles having to do with deep learning and deep learning frameworks, and there is a lot… 16 min read 
+
+
+
+
+## 50+ Data Structure and Algorithms Interview Questions for Programmers   
+[ <a href="https://medium.com/@javinpaul/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0" target="_blank">read more</a> ] 
+  There are a lot of computer science graduates and programmers applying for programming, coding, and software… 11 min read 
+
+
+
+
+## Latent Dirichlet Allocation for Beginners: A high level intuition   
+[ <a href="https://medium.com/@pratikbarhate/latent-dirichlet-allocation-for-beginners-a-high-level-intuition-23f8a5cbad71" target="_blank">read more</a> ] 
+  As the title suggests, unlike other machine learning posts, this one is not going to be a complicated… 6 min read 
+
+
+
+
+## 'How To Build Ethical Artificial Intelligence' 
+ [ <a href="https://www.psychologytoday.com/ca/blog/hot-thought/201906/how-build-ethical-artificial-intelligence" target="_blank">read more</a> ]
+The field of artificial intelligence is exploding with projects such as IBM Watson, DeepMinds AlphaZero, and voice recognition used in virtual assistants including Amazon's Alexa, Apples Siri, and Google's Home Assistant. Because of the increasing impact of A… [+5362 chars] 
+
+
