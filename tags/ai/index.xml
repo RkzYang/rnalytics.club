@@ -6,10 +6,21 @@
     <description>Recent content in Ai on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adapters: A Compact and Extensible Transfer Learning Method for NLP  </title>
+      <link>/posts/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp/</guid>
+      <description>Adapters: A Compact and Extensible Transfer Learning Method for NLP [ read more ] Adapters obtain comparable results to BERT on several NLP tasks while achieving parameter efficiency. 5 min read
+ Multi-Class Text Classification with Scikit-Learn [ read more ] There are lots of applications of text classification in the commercial world. For example, news stories are… 11 min read
+ Building a Simple Chatbot from Scratch in Python (using NLTK) [ read more ] Gartner estimates that by 2020, chatbots will be handling 85 percent of customer-service interactions; they… 11 min read</description>
+    </item>
     
     <item>
       <title>Multi Label Text Classification with Scikit-Learn  </title>

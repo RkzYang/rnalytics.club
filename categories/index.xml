@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -93,6 +93,15 @@
     </item>
     
     <item>
+      <title>Blockchain</title>
+      <link>/categories/blockchain/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classification</title>
       <link>/categories/classification/</link>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
@@ -111,6 +120,15 @@
     </item>
     
     <item>
+      <title>Comparable</title>
+      <link>/categories/comparable/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/comparable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data</title>
       <link>/categories/data/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
@@ -122,7 +140,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -428,7 +446,7 @@
     <item>
       <title>Nlp</title>
       <link>/categories/nlp/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/nlp/</guid>
       <description></description>
@@ -665,6 +683,15 @@
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textclassification</title>
+      <link>/categories/textclassification/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/textclassification/</guid>
       <description></description>
     </item>
     

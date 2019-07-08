@@ -1,0 +1,56 @@
+---
+title: "Adapters: A Compact and Extensible Transfer Learning Method for NLP  " 
+author: 
+date: 2019-07-08
+slug: 
+categories: 
+- textclassification
+- nlp
+- blockchain
+- comparable
+- datascience
+- AI
+tags: 
+- textclassification
+- nlp
+- blockchain
+- comparable
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Adapters: A Compact and Extensible Transfer Learning Method for NLP   
+[ <a href="https://medium.com/@ibelmopan/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62" target="_blank">read more</a> ] 
+  Adapters obtain comparable results to BERT on several NLP tasks while achieving parameter efficiency. 5 min read 
+
+
+
+
+## Multi-Class Text Classification with Scikit-Learn   
+[ <a href="https://medium.com/@actsusanli/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f" target="_blank">read more</a> ] 
+  There are lots of applications of text classification in the commercial world. For example, news stories are… 11 min read 
+
+
+
+
+## Building a Simple Chatbot from Scratch in Python (using NLTK)   
+[ <a href="https://medium.com/@parulnith/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e" target="_blank">read more</a> ] 
+  Gartner estimates that by 2020, chatbots will be handling 85 percent of customer-service interactions; they… 11 min read 
+
+
+
+
+## WTF is The Blockchain?   
+[ <a href="" target="_blank">read more</a> ] 
+  The ultimate 3500-word guide in plain English to understand Blockchain. 16 min read 
+
+
+
+
+## 'Rethinking a Dominican Republic vacation? Airlines waive change fees after tourist deaths' 
+ [ <a href="https://news.yahoo.com/rethinking-dominican-republic-vacation-airlines-123958536.html" target="_blank">read more</a> ]
+Delta Air Lines and JetBlue Airways are waiving change fees for travelers who don't want to fly to the Dominican Republic following a string of high-profile tourist deaths.
+Travelers with upcoming flights to the popular Caribbean vacation destination can cha… [+2244 chars] 
+
+

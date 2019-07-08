@@ -23,7 +23,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -93,6 +93,15 @@
     </item>
     
     <item>
+      <title>Blockchain</title>
+      <link>/tags/blockchain/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classification</title>
       <link>/tags/classification/</link>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
@@ -111,6 +120,15 @@
     </item>
     
     <item>
+      <title>Comparable</title>
+      <link>/tags/comparable/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/comparable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data</title>
       <link>/tags/data/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
@@ -122,7 +140,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -428,7 +446,7 @@
     <item>
       <title>Nlp</title>
       <link>/tags/nlp/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/nlp/</guid>
       <description></description>
@@ -665,6 +683,15 @@
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textclassification</title>
+      <link>/tags/textclassification/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/textclassification/</guid>
       <description></description>
     </item>
     
