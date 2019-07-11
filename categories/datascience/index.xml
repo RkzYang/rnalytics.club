@@ -6,10 +6,21 @@
     <description>Recent content in Datascience on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/datascience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Comprehensive Guide to Natural Language Generation  </title>
+      <link>/posts/a-comprehensive-guide-to-natural-language-generation/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/a-comprehensive-guide-to-natural-language-generation/</guid>
+      <description>A Comprehensive Guide to Natural Language Generation [ read more ] As long as Artificial Intelligence helps us to get more out of the natural language, we see more tasks and… 9 min read
+ The 2018 DevOps RoadMap [ read more ] An illustrated guide to becoming a Frontend or Backend Developer with links to courses 10 min read
+ face-api.js - JavaScript API for Face Recognition in the Browser with… [ read more ] A JavaScript API for Face Detection, Face Recognition and Face Landmark Detection 9 min read</description>
+    </item>
     
     <item>
       <title>Adapters: A Compact and Extensible Transfer Learning Method for NLP  </title>

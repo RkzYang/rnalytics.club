@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guide on R&#39;nalytics</title>
-    <link>/categories/guide/</link>
-    <description>Recent content in Guide on R&#39;nalytics</description>
+    <title>Active on R&#39;nalytics</title>
+    <link>/tags/active/</link>
+    <description>Recent content in Active on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
     <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/guide/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/active/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>A Comprehensive Guide to Natural Language Generation [ read more ] As long as Artificial Intelligence helps us to get more out of the natural language, we see more tasks and… 9 min read
  The 2018 DevOps RoadMap [ read more ] An illustrated guide to becoming a Frontend or Backend Developer with links to courses 10 min read
  face-api.js - JavaScript API for Face Recognition in the Browser with… [ read more ] A JavaScript API for Face Detection, Face Recognition and Face Landmark Detection 9 min read</description>
-    </item>
-    
-    <item>
-      <title>19 Things You Need to Learn to Become an Effective Angular Developer  </title>
-      <link>/posts/19-things-you-need-to-learn-to-become-an-effective-angular-developer/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/19-things-you-need-to-learn-to-become-an-effective-angular-developer/</guid>
-      <description>19 Things You Need to Learn to Become an Effective Angular Developer [ read more ] A comprehensive guide on how to become a pro at Angular 10 min read
- An introduction to Git merge and rebase: what they are, and how to use them [ read more ] As a Developer, many of us have to choose between Merge &amp;amp; Rebase. With all the references we get from the… 6 min read</description>
     </item>
     
   </channel>

@@ -21,9 +21,18 @@
     </item>
     
     <item>
+      <title>Active</title>
+      <link>/tags/active/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -140,7 +149,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -201,6 +210,15 @@
     </item>
     
     <item>
+      <title>Face</title>
+      <link>/tags/face/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Features</title>
       <link>/tags/features/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
@@ -239,7 +257,7 @@
     <item>
       <title>Guide</title>
       <link>/tags/guide/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/guide/</guid>
       <description></description>
@@ -431,6 +449,15 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturallanguage</title>
+      <link>/tags/naturallanguage/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/naturallanguage/</guid>
       <description></description>
     </item>
     

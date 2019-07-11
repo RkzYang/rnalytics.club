@@ -1,0 +1,56 @@
+---
+title: "A Comprehensive Guide to Natural Language Generation  " 
+author: 
+date: 2019-07-11
+slug: 
+categories: 
+- naturallanguage
+- guide
+- face
+- active
+- datascience
+- AI
+tags: 
+- naturallanguage
+- guide
+- face
+- active
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## A Comprehensive Guide to Natural Language Generation   
+[ <a href="https://medium.com/@sciforce/a-comprehensive-guide-to-natural-language-generation-dd63a4b6e548" target="_blank">read more</a> ] 
+  As long as Artificial Intelligence helps us to get more out of the natural language, we see more tasks and… 9 min read 
+
+
+
+
+## The 2018 DevOps RoadMap   
+[ <a href="https://medium.com/@javinpaul/the-2018-devops-roadmap-31588d8670cb" target="_blank">read more</a> ] 
+  An illustrated guide to becoming a Frontend or Backend Developer with links to courses 10 min read 
+
+
+
+
+## face-api.js - JavaScript API for Face Recognition in the Browser with…   
+[ <a href="https://medium.com/@muehler.v/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07" target="_blank">read more</a> ] 
+  A JavaScript API for Face Detection, Face Recognition and Face Landmark Detection 9 min read 
+
+
+
+
+## Tutorial on Active Inference   
+[ <a href="https://medium.com/@solopchuk/tutorial-on-active-inference-30edcf50f5dc" target="_blank">read more</a> ] 
+  Active inference is the Free Energy principle of the brain applied to action. It is supported by lots of… 18 min read 
+
+
+
+
+## 'Longenesis Brings South Korean Medical Records to the Blockchain' 
+ [ <a href="https://www.coindesk.com/longenesis-brings-south-korean-medical-records-to-the-blockchain" target="_blank">read more</a> ]
+Longenesis has concluded two new partnerships in South Korea.
+According to the Riga, Latvia-based, Hong Kong-incorporated company, it will be providing its medical-consent platform-as-a-service to Hanshin Medipia Medical Center and Infinity Care. That brings… [+3388 chars] 
+
+
