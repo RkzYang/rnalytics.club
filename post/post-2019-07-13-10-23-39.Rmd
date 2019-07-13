@@ -1,0 +1,55 @@
+---
+title: "How to Center Things With Style in CSS  " 
+author: 
+date: 2019-07-13
+slug: 
+categories: 
+- css
+- palo
+- things
+- alternative
+- datascience
+- AI
+tags: 
+- css
+- palo
+- things
+- alternative
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## How to Center Things With Style in CSS   
+[ <a href="https://medium.com/@stephen_sun/how-to-center-things-with-style-in-css-dc87b7542689" target="_blank">read more</a> ] 
+  We've all found ourselves frustrated with centering things in CSS 5 min read 
+
+
+
+
+## Introducing npx: an npm package runner   
+[ <a href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b" target="_blank">read more</a> ] 
+  [You can also read this post in Russian.] 7 min read 
+
+
+
+
+## JSON - The Python Way   
+[ <a href="https://medium.com/@mc_alila/json-the-python-way-91aac95d4041" target="_blank">read more</a> ] 
+  What is JSON ? - The Fat-Free Alternative to XML. 7 min read 
+
+
+
+
+## Sex, Beer, and Coding: Inside Facebook's Wild Early Days in Palo Alto   
+[ <a href="https://medium.com/@WIRED/sex-beer-and-coding-inside-facebooks-wild-early-days-in-palo-alto-7b447c143d52" target="_blank">read more</a> ] 
+  When the young Mark Zuckerberg moved to Palo Alto in 2004, he and his buddies built a corporate proto-culture… 37 min read 
+
+
+
+
+## 'Facebook and CMU's poker AI beat fives pros at once' 
+ [ <a href="https://www.engadget.com/2019/07/11/facebook-and-cmus-poker-ai-beat-fives-pros-at-once/" target="_blank">read more</a> ]
+In the likes of chess and Go, everything is laid out in the open. But in poker, there's hidden information, namely the cards your opponents have. That brings different, complex strategies to poker not seen in other games, including bluffing. As such, AI bots … [+2475 chars] 
+
+

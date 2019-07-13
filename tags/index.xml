@@ -32,7 +32,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -44,6 +44,15 @@
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/aifailures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative</title>
+      <link>/tags/alternative/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/alternative/</guid>
       <description></description>
     </item>
     
@@ -138,6 +147,15 @@
     </item>
     
     <item>
+      <title>Css</title>
+      <link>/tags/css/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data</title>
       <link>/tags/data/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
@@ -149,7 +167,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -525,6 +543,15 @@
     </item>
     
     <item>
+      <title>Palo</title>
+      <link>/tags/palo/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/palo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Part</title>
       <link>/tags/part/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
@@ -728,6 +755,15 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/textsummarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Things</title>
+      <link>/tags/things/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/things/</guid>
       <description></description>
     </item>
     

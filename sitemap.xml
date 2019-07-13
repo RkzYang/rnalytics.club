@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/how-to-center-things-with-style-in-css/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/a-comprehensive-guide-to-natural-language-generation/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
   </url>
@@ -164,7 +169,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -176,20 +181,14 @@
   </url>
   
   <url>
-    <loc>/categories/a.i/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/a.i/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/active/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <loc>/categories/a.i/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -200,20 +199,20 @@
   </url>
   
   <url>
-    <loc>/categories/ai/</loc>
+    <loc>/categories/active/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/aifailures/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <loc>/categories/ai/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -224,8 +223,20 @@
   </url>
   
   <url>
-    <loc>/categories/angular/</loc>
-    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+    <loc>/categories/aifailures/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/alternative/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/alternative/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -236,8 +247,8 @@
   </url>
   
   <url>
-    <loc>/categories/apis/</loc>
-    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+    <loc>/categories/angular/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -248,8 +259,8 @@
   </url>
   
   <url>
-    <loc>/categories/approach/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <loc>/categories/apis/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -260,8 +271,8 @@
   </url>
   
   <url>
-    <loc>/categories/architecture/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <loc>/categories/approach/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -272,8 +283,8 @@
   </url>
   
   <url>
-    <loc>/categories/bash/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <loc>/categories/architecture/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -284,8 +295,8 @@
   </url>
   
   <url>
-    <loc>/categories/bert/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <loc>/categories/bash/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -296,13 +307,19 @@
   </url>
   
   <url>
-    <loc>/categories/blockchain/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <loc>/categories/bert/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/blockchain/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/blockchain/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -314,20 +331,14 @@
   </url>
   
   <url>
-    <loc>/categories/classification/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/classification/</loc>
     <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/code/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <loc>/categories/classification/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -338,8 +349,8 @@
   </url>
   
   <url>
-    <loc>/categories/comparable/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <loc>/categories/code/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -350,8 +361,20 @@
   </url>
   
   <url>
-    <loc>/categories/data/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <loc>/categories/comparable/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/css/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/css/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -362,20 +385,20 @@
   </url>
   
   <url>
-    <loc>/categories/datascience/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <loc>/categories/data/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/deep/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <loc>/categories/datascience/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -386,8 +409,8 @@
   </url>
   
   <url>
-    <loc>/categories/deeplearning/</loc>
-    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <loc>/categories/deep/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -398,8 +421,8 @@
   </url>
   
   <url>
-    <loc>/categories/deepmind/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <loc>/categories/deeplearning/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -410,8 +433,8 @@
   </url>
   
   <url>
-    <loc>/categories/deepunderstanding/</loc>
-    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <loc>/categories/deepmind/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -422,8 +445,8 @@
   </url>
   
   <url>
-    <loc>/categories/ever-widening/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <loc>/categories/deepunderstanding/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -434,8 +457,8 @@
   </url>
   
   <url>
-    <loc>/categories/exciting/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <loc>/categories/ever-widening/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -446,8 +469,8 @@
   </url>
   
   <url>
-    <loc>/categories/face/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <loc>/categories/exciting/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -458,8 +481,8 @@
   </url>
   
   <url>
-    <loc>/categories/features/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <loc>/categories/face/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -470,8 +493,8 @@
   </url>
   
   <url>
-    <loc>/categories/flair/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <loc>/categories/features/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -482,8 +505,8 @@
   </url>
   
   <url>
-    <loc>/categories/fuzzy/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <loc>/categories/flair/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -494,8 +517,8 @@
   </url>
   
   <url>
-    <loc>/categories/google/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <loc>/categories/fuzzy/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -506,8 +529,8 @@
   </url>
   
   <url>
-    <loc>/categories/guide/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <loc>/categories/google/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -518,8 +541,8 @@
   </url>
   
   <url>
-    <loc>/categories/habits/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <loc>/categories/guide/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -530,8 +553,8 @@
   </url>
   
   <url>
-    <loc>/categories/historicalcasestudies/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <loc>/categories/habits/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -542,8 +565,8 @@
   </url>
   
   <url>
-    <loc>/categories/human/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/historicalcasestudies/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -554,8 +577,8 @@
   </url>
   
   <url>
-    <loc>/categories/images/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <loc>/categories/human/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -566,8 +589,8 @@
   </url>
   
   <url>
-    <loc>/categories/intelligence/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <loc>/categories/images/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -578,8 +601,8 @@
   </url>
   
   <url>
-    <loc>/categories/introduction/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <loc>/categories/intelligence/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -590,8 +613,8 @@
   </url>
   
   <url>
-    <loc>/categories/japaneseanime/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <loc>/categories/introduction/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -602,8 +625,8 @@
   </url>
   
   <url>
-    <loc>/categories/keras/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <loc>/categories/japaneseanime/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -614,8 +637,8 @@
   </url>
   
   <url>
-    <loc>/categories/label/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <loc>/categories/keras/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -626,8 +649,8 @@
   </url>
   
   <url>
-    <loc>/categories/language/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <loc>/categories/label/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -638,8 +661,8 @@
   </url>
   
   <url>
-    <loc>/categories/languageprocessing/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <loc>/categories/language/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -650,8 +673,8 @@
   </url>
   
   <url>
-    <loc>/categories/languages/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <loc>/categories/languageprocessing/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -662,8 +685,8 @@
   </url>
   
   <url>
-    <loc>/categories/learning/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <loc>/categories/languages/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -674,8 +697,8 @@
   </url>
   
   <url>
-    <loc>/categories/liability/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <loc>/categories/learning/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -686,8 +709,8 @@
   </url>
   
   <url>
-    <loc>/categories/lot/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <loc>/categories/liability/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -698,8 +721,8 @@
   </url>
   
   <url>
-    <loc>/categories/machinelearning/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+    <loc>/categories/lot/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -710,8 +733,8 @@
   </url>
   
   <url>
-    <loc>/categories/media/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <loc>/categories/machinelearning/</loc>
+    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -722,8 +745,8 @@
   </url>
   
   <url>
-    <loc>/categories/men/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>/categories/media/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -734,8 +757,8 @@
   </url>
   
   <url>
-    <loc>/categories/microsoft/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/men/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -746,8 +769,8 @@
   </url>
   
   <url>
-    <loc>/categories/mllib/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <loc>/categories/microsoft/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -758,8 +781,8 @@
   </url>
   
   <url>
-    <loc>/categories/model/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/mllib/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -770,8 +793,8 @@
   </url>
   
   <url>
-    <loc>/categories/naturallanguage/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <loc>/categories/model/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -782,8 +805,8 @@
   </url>
   
   <url>
-    <loc>/categories/neuralnetworks/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <loc>/categories/naturallanguage/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -794,8 +817,8 @@
   </url>
   
   <url>
-    <loc>/categories/nlp/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <loc>/categories/neuralnetworks/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -806,8 +829,8 @@
   </url>
   
   <url>
-    <loc>/categories/nlplibrary/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <loc>/categories/nlp/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -818,8 +841,8 @@
   </url>
   
   <url>
-    <loc>/categories/numpy/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <loc>/categories/nlplibrary/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -830,8 +853,8 @@
   </url>
   
   <url>
-    <loc>/categories/oneclick.ai/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <loc>/categories/numpy/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -842,8 +865,8 @@
   </url>
   
   <url>
-    <loc>/categories/organizations/</loc>
-    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+    <loc>/categories/oneclick.ai/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -854,8 +877,8 @@
   </url>
   
   <url>
-    <loc>/categories/overfitting/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <loc>/categories/organizations/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -866,8 +889,20 @@
   </url>
   
   <url>
-    <loc>/categories/part/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <loc>/categories/overfitting/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/palo/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/palo/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -878,8 +913,8 @@
   </url>
   
   <url>
-    <loc>/categories/play/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <loc>/categories/part/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -890,8 +925,14 @@
   </url>
   
   <url>
+    <loc>/categories/play/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -902,20 +943,14 @@
   </url>
   
   <url>
-    <loc>/categories/principles/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/principles/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/product/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <loc>/categories/principles/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -926,8 +961,8 @@
   </url>
   
   <url>
-    <loc>/categories/programmers/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <loc>/categories/product/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -938,8 +973,8 @@
   </url>
   
   <url>
-    <loc>/categories/pyspark/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <loc>/categories/programmers/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -950,8 +985,8 @@
   </url>
   
   <url>
-    <loc>/categories/python/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <loc>/categories/pyspark/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -962,8 +997,8 @@
   </url>
   
   <url>
-    <loc>/categories/pythonopen/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <loc>/categories/python/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -974,7 +1009,7 @@
   </url>
   
   <url>
-    <loc>/categories/pythonprojects/</loc>
+    <loc>/categories/pythonopen/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -986,8 +1021,8 @@
   </url>
   
   <url>
-    <loc>/categories/pytorch/</loc>
-    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <loc>/categories/pythonprojects/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -998,8 +1033,8 @@
   </url>
   
   <url>
-    <loc>/categories/react/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <loc>/categories/pytorch/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1010,8 +1045,8 @@
   </url>
   
   <url>
-    <loc>/categories/readthe/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>/categories/react/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1022,8 +1057,8 @@
   </url>
   
   <url>
-    <loc>/categories/reinforcement/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <loc>/categories/readthe/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1034,8 +1069,8 @@
   </url>
   
   <url>
-    <loc>/categories/rise/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <loc>/categories/reinforcement/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1046,8 +1081,8 @@
   </url>
   
   <url>
-    <loc>/categories/short/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <loc>/categories/rise/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1058,8 +1093,8 @@
   </url>
   
   <url>
-    <loc>/categories/similar/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <loc>/categories/short/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1070,8 +1105,8 @@
   </url>
   
   <url>
-    <loc>/categories/speech/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <loc>/categories/similar/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1082,8 +1117,8 @@
   </url>
   
   <url>
-    <loc>/categories/started/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>/categories/speech/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1094,13 +1129,19 @@
   </url>
   
   <url>
-    <loc>/categories/summarization/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <loc>/categories/started/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/summarization/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/summarization/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1112,20 +1153,14 @@
   </url>
   
   <url>
-    <loc>/categories/tensor/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/tensor/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/tensorflow/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <loc>/categories/tensor/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1136,8 +1171,8 @@
   </url>
   
   <url>
-    <loc>/categories/textclassification/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <loc>/categories/tensorflow/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1148,8 +1183,8 @@
   </url>
   
   <url>
-    <loc>/categories/textsummarization/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <loc>/categories/textclassification/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1160,8 +1195,20 @@
   </url>
   
   <url>
-    <loc>/categories/tool/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <loc>/categories/textsummarization/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/things/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/things/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1172,8 +1219,8 @@
   </url>
   
   <url>
-    <loc>/categories/tools/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/categories/tool/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1184,8 +1231,8 @@
   </url>
   
   <url>
-    <loc>/categories/voiceinteractions/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <loc>/categories/tools/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1196,8 +1243,8 @@
   </url>
   
   <url>
-    <loc>/categories/week/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <loc>/categories/voiceinteractions/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1208,8 +1255,8 @@
   </url>
   
   <url>
-    <loc>/categories/xlnet/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <loc>/categories/week/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1220,13 +1267,19 @@
   </url>
   
   <url>
-    <loc>/categories/year/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <loc>/categories/xlnet/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/year/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/year/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
