@@ -1,0 +1,54 @@
+---
+title: 'Demystifying KL Divergence  '
+author: "null"
+date: '2019-08-06'
+isCJKLanguage: no
+slug: null
+tags:
+- seriespost
+- bayesiannetworks
+- colab
+- datascience
+- AI
+categories:
+- seriespost
+- bayesiannetworks
+- colab
+- datascience
+- AI
+---
+
+## Demystifying KL Divergence   
+[ <a href="https://medium.com/@naokishibuya/demystifying-kl-divergence-7ebe4317ee68" target="_blank">read more</a> ] 
+  What does KL stand for? Is it a distance measure? What does it mean to measure the similarity of two… 6 min read 
+
+
+
+
+## Bayesian Neural Network Series Post 1: Need for Bayesian Networks   
+[ <a href="https://medium.com/@shridhar743/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2" target="_blank">read more</a> ] 
+  This post is the first post in an eight-post series of Bayesian Convolutional Networks. The posts will be… 6 min read 
+
+
+
+
+## A Simple Neural Network from Scratch with PyTorch and Google Colab   
+[ <a href="https://medium.com/@ibelmopan/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0" target="_blank">read more</a> ] 
+  In this tutorial we will implement a simple neural network from scratch using PyTorch and Google Colab. The… 6 min read 
+
+
+
+
+## An introduction to Q-Learning: reinforcement learning   
+[ <a href="https://medium.com/@iamadl/an-introduction-to-q-learning-reinforcement-learning-14ac0b4493cc" target="_blank">read more</a> ] 
+  This article is the second part of my "Deep reinforcement learning" series. The complete series shall be… 6 min read 
+
+
+
+
+## 'SinoPedia—A Linked Data Services platform for decentralized knowledge base' 
+ [ <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219992" target="_blank">read more</a> ]
+Abstract
+Knowledge bases are largely developed and utilized in academic and industrial fields, such as DBPedia, VIAF, LoC, Getty, and which are published in the Linked Data format. However, if you want to view different resources on these knowledge bases, yo… [+27487 chars] 
+
+
