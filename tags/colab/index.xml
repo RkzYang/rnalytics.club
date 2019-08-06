@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colab on R&#39;nalytics</title>
+    <link>/tags/colab/</link>
+    <description>Recent content in Colab on R&#39;nalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hant</language>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/colab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demystifying KL Divergence  </title>
+      <link>/posts/demystifying-kl-divergence/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/demystifying-kl-divergence/</guid>
+      <description>Demystifying KL Divergence [ read more ] What does KL stand for? Is it a distance measure? What does it mean to measure the similarity of two… 6 min read
+ Bayesian Neural Network Series Post 1: Need for Bayesian Networks [ read more ] This post is the first post in an eight-post series of Bayesian Convolutional Networks. The posts will be… 6 min read
+ A Simple Neural Network from Scratch with PyTorch and Google Colab [ read more ] In this tutorial we will implement a simple neural network from scratch using PyTorch and Google Colab.</description>
+    </item>
+    
+  </channel>
+</rss>

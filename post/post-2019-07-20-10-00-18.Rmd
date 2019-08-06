@@ -1,0 +1,56 @@
+---
+title: "Why and How To Use Docker for Development  " 
+author: 
+date: 2019-07-20
+slug: 
+categories: 
+- ai
+- tweets
+- tensorflow
+- development
+- datascience
+- AI
+tags: 
+- ai
+- tweets
+- tensorflow
+- development
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Why and How To Use Docker for Development   
+[ <a href="https://medium.com/@treeder/why-and-how-to-use-docker-for-development-a156c1de3b24" target="_blank">read more</a> ] 
+  Docker is not just for deployment, it's great for development too 5 min read 
+
+
+
+
+## Deep Reinforcement Learning with TensorFlow 2.0   
+[ <a href="https://medium.com/@Inoryy/deep-reinforcement-learning-with-tensorflow-2-0-d8e62102680d" target="_blank">read more</a> ] 
+  In this tutorial I will showcase the upcoming TensorFlow 2.0 features through the lense of deep reinforcement… 10 min read 
+
+
+
+
+## FastText sentiment analysis for tweets: A straightforward guide.   
+[ <a href="https://medium.com/@media_73863/fasttext-sentiment-analysis-for-tweets-a-straightforward-guide-9a8c070449a2" target="_blank">read more</a> ] 
+  The essential about fastText architecture, cleaning, upsampling and tweets classification. 10 min read 
+
+
+
+
+## How AI is Learning to Play Dota 2 - and Win   
+[ <a href="https://medium.com/@ODSC/how-ai-is-learning-to-play-dota-2-and-win-a23e3fc703b" target="_blank">read more</a> ] 
+  In August, a team of bots developed by California-based AI company OpenAI competed against some of the… 5 min read 
+
+
+
+
+## 'UCI Issues Call For Presentations: Machine Intelligence And The Changing Nature Of Tax Practice' 
+ [ <a href="https://taxprof.typepad.com/taxprof_blog/2019/07/uci-issues-call-for-presentations-machine-intelligence-and-the-changing-nature-of-tax-practice-.html" target="_blank">read more</a> ]
+The UC-Irvine Graduate Tax Program has issued a call for presentations at its second annual UCI/Lavar Taylor Tax Symposium on Machine Intelligence and the Changing Nature of Tax Practice on February 24, 2020:
+The purposes of this full-day symposium is to lau… [+2377 chars] 
+
+

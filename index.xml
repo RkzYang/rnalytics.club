@@ -6,10 +6,65 @@
     <description>Recent content on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Demystifying KL Divergence  </title>
+      <link>/posts/demystifying-kl-divergence/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/demystifying-kl-divergence/</guid>
+      <description>Demystifying KL Divergence [ read more ] What does KL stand for? Is it a distance measure? What does it mean to measure the similarity of two… 6 min read
+ Bayesian Neural Network Series Post 1: Need for Bayesian Networks [ read more ] This post is the first post in an eight-post series of Bayesian Convolutional Networks. The posts will be… 6 min read
+ A Simple Neural Network from Scratch with PyTorch and Google Colab [ read more ] In this tutorial we will implement a simple neural network from scratch using PyTorch and Google Colab.</description>
+    </item>
+    
+    <item>
+      <title>Why and How To Use Docker for Development  </title>
+      <link>/posts/why-and-how-to-use-docker-for-development/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/why-and-how-to-use-docker-for-development/</guid>
+      <description>Why and How To Use Docker for Development [ read more ] Docker is not just for deployment, it’s great for development too 5 min read
+ Deep Reinforcement Learning with TensorFlow 2.0 [ read more ] In this tutorial I will showcase the upcoming TensorFlow 2.0 features through the lense of deep reinforcement… 10 min read
+ FastText sentiment analysis for tweets: A straightforward guide. [ read more ] The essential about fastText architecture, cleaning, upsampling and tweets classification.</description>
+    </item>
+    
+    <item>
+      <title>How to Configure Your iPhone to Work for You, Not Against You  </title>
+      <link>/posts/how-to-configure-your-iphone-to-work-for-you-not-against-you/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-configure-your-iphone-to-work-for-you-not-against-you/</guid>
+      <description>How to Configure Your iPhone to Work for You, Not Against You [ read more ] The very, very complete guide to productivity, focus, and your own longevity 75 min read
+ WTF is The Blockchain? [ read more ] The ultimate 3500-word guide in plain English to understand Blockchain. 16 min read
+ Simplify your JavaScript – Use .map(), .reduce(), and .filter() [ read more ] If you haven’t heard of .</description>
+    </item>
+    
+    <item>
+      <title>How to Configure Your iPhone to Work for You, Not Against You  </title>
+      <link>/posts/how-to-configure-your-iphone-to-work-for-you-not-against-you/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-configure-your-iphone-to-work-for-you-not-against-you/</guid>
+      <description>How to Configure Your iPhone to Work for You, Not Against You [ read more ] The very, very complete guide to productivity, focus, and your own longevity 75 min read
+ WTF is The Blockchain? [ read more ] The ultimate 3500-word guide in plain English to understand Blockchain. 16 min read
+ Simplify your JavaScript – Use .map(), .reduce(), and .filter() [ read more ] If you haven’t heard of .</description>
+    </item>
+    
+    <item>
+      <title>How to Configure Your iPhone to Work for You, Not Against You  </title>
+      <link>/posts/how-to-configure-your-iphone-to-work-for-you-not-against-you/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-configure-your-iphone-to-work-for-you-not-against-you/</guid>
+      <description>How to Configure Your iPhone to Work for You, Not Against You [ read more ] The very, very complete guide to productivity, focus, and your own longevity 75 min read
+ WTF is The Blockchain? [ read more ] The ultimate 3500-word guide in plain English to understand Blockchain. 16 min read
+ Simplify your JavaScript – Use .map(), .reduce(), and .filter() [ read more ] If you haven’t heard of .</description>
+    </item>
     
     <item>
       <title>How to Center Things With Style in CSS  </title>

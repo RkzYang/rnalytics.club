@@ -1,0 +1,55 @@
+---
+title: "How to Configure Your iPhone to Work for You, Not Against You  " 
+author: 
+date: 2019-07-16
+slug: 
+categories: 
+- guide
+- blockchain
+- .map
+- .filter
+- datascience
+- AI
+tags: 
+- guide
+- blockchain
+- .map
+- .filter
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## How to Configure Your iPhone to Work for You, Not Against You   
+[ <a href="https://medium.com/@coachtony/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8" target="_blank">read more</a> ] 
+  The very, very complete guide to productivity, focus, and your own longevity 75 min read 
+
+
+
+
+## WTF is The Blockchain?   
+[ <a href="" target="_blank">read more</a> ] 
+  The ultimate 3500-word guide in plain English to understand Blockchain. 16 min read 
+
+
+
+
+## Simplify your JavaScript – Use .map(), .reduce(), and .filter()   
+[ <a href="https://medium.com/@etiennetalbot/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d" target="_blank">read more</a> ] 
+  If you haven't heard of .map(), .reduce(), and .filter() in JavaScript, you might want to learn to use it! 6 min read 
+
+
+
+
+## Install Tensorflow 1.13 on Ubuntu 18.04 with GPU support   
+[ <a href="https://medium.com/@Oysiyl/install-tensorflow-1-13-on-ubuntu-18-04-with-gpu-support-239b36d29070" target="_blank">read more</a> ] 
+  Note: This article is not for building from source because 1.13 already support the CUDA 10.0 and CuDNN 7.5… 5 min read 
+
+
+
+
+## 'Free-to-start mobile game Dr. Mario World arrives early on iOS and Android' 
+ [ <a href="https://www.digitaltrends.com/gaming/dr-mario-world-microtransactions-hearts-diamonds-free-to-start/" target="_blank">read more</a> ]
+Nintendo made its first major attempt at mobile gaming on smart devices with Super Mario Run at the end of 2016. Today, our multitalented hero is being tapped for another one of his professions in the Japanese game company’s latest mobile release. Dr. Mario W… [+2295 chars] 
+
+

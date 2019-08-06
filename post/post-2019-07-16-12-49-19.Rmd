@@ -1,0 +1,57 @@
+---
+title: "How to Configure Your iPhone to Work for You, Not Against You  " 
+author: 
+date: 2019-07-16
+slug: 
+categories: 
+- guide
+- blockchain
+- .map
+- .filter
+- datascience
+- AI
+tags: 
+- guide
+- blockchain
+- .map
+- .filter
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## How to Configure Your iPhone to Work for You, Not Against You   
+[ <a href="https://medium.com/@coachtony/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8" target="_blank">read more</a> ] 
+  The very, very complete guide to productivity, focus, and your own longevity 75 min read 
+
+
+
+
+## WTF is The Blockchain?   
+[ <a href="" target="_blank">read more</a> ] 
+  The ultimate 3500-word guide in plain English to understand Blockchain. 16 min read 
+
+
+
+
+## Simplify your JavaScript – Use .map(), .reduce(), and .filter()   
+[ <a href="https://medium.com/@etiennetalbot/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d" target="_blank">read more</a> ] 
+  If you haven't heard of .map(), .reduce(), and .filter() in JavaScript, you might want to learn to use it! 6 min read 
+
+
+
+
+## Install Tensorflow 1.13 on Ubuntu 18.04 with GPU support   
+[ <a href="https://medium.com/@Oysiyl/install-tensorflow-1-13-on-ubuntu-18-04-with-gpu-support-239b36d29070" target="_blank">read more</a> ] 
+  Note: This article is not for building from source because 1.13 already support the CUDA 10.0 and CuDNN 7.5… 5 min read 
+
+
+
+
+## 'No, 5G isn't going to make your 4G LTE phone obsolete - CNET' 
+ [ <a href="https://www.cnet.com/news/no-5g-isnt-going-to-make-your-4g-lte-phone-obsolete/" target="_blank">read more</a> ]
+5G is here, but 4G isn't going away anytime soon. 
+Joshua Goldman/CNET
+5G buzz is everywhere. Billboards display the latest, fastest gadgets like Samsung's Galaxy S10 5G, TV ads tout the benefits of the fast speeds and carriers are jockeying for title of be… [+11598 chars] 
+
+

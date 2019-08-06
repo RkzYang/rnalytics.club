@@ -1,0 +1,56 @@
+---
+title: "How to Configure Your iPhone to Work for You, Not Against You  " 
+author: 
+date: 2019-07-16
+slug: 
+categories: 
+- guide
+- blockchain
+- .map
+- .filter
+- datascience
+- AI
+tags: 
+- guide
+- blockchain
+- .map
+- .filter
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## How to Configure Your iPhone to Work for You, Not Against You   
+[ <a href="https://medium.com/@coachtony/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8" target="_blank">read more</a> ] 
+  The very, very complete guide to productivity, focus, and your own longevity 75 min read 
+
+
+
+
+## WTF is The Blockchain?   
+[ <a href="" target="_blank">read more</a> ] 
+  The ultimate 3500-word guide in plain English to understand Blockchain. 16 min read 
+
+
+
+
+## Simplify your JavaScript – Use .map(), .reduce(), and .filter()   
+[ <a href="https://medium.com/@etiennetalbot/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d" target="_blank">read more</a> ] 
+  If you haven't heard of .map(), .reduce(), and .filter() in JavaScript, you might want to learn to use it! 6 min read 
+
+
+
+
+## Install Tensorflow 1.13 on Ubuntu 18.04 with GPU support   
+[ <a href="https://medium.com/@Oysiyl/install-tensorflow-1-13-on-ubuntu-18-04-with-gpu-support-239b36d29070" target="_blank">read more</a> ] 
+  Note: This article is not for building from source because 1.13 already support the CUDA 10.0 and CuDNN 7.5… 5 min read 
+
+
+
+
+## 'Is every company really an AI company?' 
+ [ <a href="https://adage.com/article/industry-insights/every-company-really-ai-company/2182756" target="_blank">read more</a> ]
+Are you confused about whats real and whats hype when it comes to artificial intelligence (AI) and marketing? Well, join the club.
+In 2017, Gartner revealed that more than 1,000 vendors claim to either sell AI or add it to their products. In the 2018 Marketi… [+4882 chars] 
+
+
