@@ -1,0 +1,55 @@
+---
+title: "Introduction to Model Trees from scratch  " 
+author: 
+date: 2019-08-07
+slug: 
+categories: 
+- machinelearning
+- reinforcementlearningrl
+- reinforcementlearningreinforcementlearning
+- reinforcementlearning
+- datascience
+- AI
+tags: 
+- machinelearning
+- reinforcementlearningrl
+- reinforcementlearningreinforcementlearning
+- reinforcementlearning
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Introduction to Model Trees from scratch   
+[ <a href="https://medium.com/@ankonzoid/introduction-to-model-trees-6e396259379a" target="_blank">read more</a> ] 
+  A Decision Tree is a powerful supervised learning tool in Machine Learning for splitting up your data into… 4 min read 
+
+
+
+
+## RL - Model-based Reinforcement Learning   
+[ <a href="https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323" target="_blank">read more</a> ] 
+  In reinforcement learning RL, we maximize the rewards for our actions. By simply looking at the equation… 12 min read 
+
+
+
+
+## A brief introduction to reinforcement learning   
+[ <a href="https://medium.com/@iamadl/a-brief-introduction-to-reinforcement-learning-7799af5840db" target="_blank">read more</a> ] 
+  Reinforcement Learning is an aspect of Machine learning where an agent learns to behave in an environment, by… 10 min read 
+
+
+
+
+## On "solving" Montezuma's Revenge   
+[ <a href="https://medium.com/@awjuliani/on-solving-montezumas-revenge-2146d83f0bc3" target="_blank">read more</a> ] 
+  Looking beyond the hype of recent Deep RL successes 10 min read 
+
+
+
+
+## 'Why your company should turn services into experiences' 
+ [ <a href="https://www.fastcompany.com/90378283/why-your-company-should-turn-services-into-experiences?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcocreate%2Ffeed+%28Co.Create%29" target="_blank">read more</a> ]
+When Airbnb launched Airbnb Experiences, in 2016, the move was an acknowledgment that modern travelers want more than a place to sleep. Many want quirky journeys, tours, and classes hosted by local experts. They want memories. Airbnb’s core product—easy-to-na… [+1643 chars] 
+
+

@@ -50,7 +50,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -203,7 +203,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -464,7 +464,7 @@
     <item>
       <title>Machinelearning</title>
       <link>/tags/machinelearning/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/machinelearning/</guid>
       <description></description>
@@ -710,6 +710,33 @@
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/reinforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcementlearning</title>
+      <link>/tags/reinforcementlearning/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reinforcementlearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcementlearningreinforcementlearning</title>
+      <link>/tags/reinforcementlearningreinforcementlearning/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reinforcementlearningreinforcementlearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcementlearningrl</title>
+      <link>/tags/reinforcementlearningrl/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reinforcementlearningrl/</guid>
       <description></description>
     </item>
     

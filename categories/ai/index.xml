@@ -6,10 +6,21 @@
     <description>Recent content in Ai on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to Model Trees from scratch  </title>
+      <link>/posts/introduction-to-model-trees-from-scratch/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/introduction-to-model-trees-from-scratch/</guid>
+      <description>Introduction to Model Trees from scratch [ read more ] A Decision Tree is a powerful supervised learning tool in Machine Learning for splitting up your data into… 4 min read
+ RL - Model-based Reinforcement Learning [ read more ] In reinforcement learning RL, we maximize the rewards for our actions. By simply looking at the equation… 12 min read
+ A brief introduction to reinforcement learning [ read more ] Reinforcement Learning is an aspect of Machine learning where an agent learns to behave in an environment, by… 10 min read</description>
+    </item>
     
     <item>
       <title>Demystifying KL Divergence  </title>
