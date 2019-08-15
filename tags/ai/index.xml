@@ -6,10 +6,21 @@
     <description>Recent content in Ai on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What are Eigenvalues and Eigenvectors?  </title>
+      <link>/posts/what-are-eigenvalues-and-eigenvectors/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-are-eigenvalues-and-eigenvectors/</guid>
+      <description>What are Eigenvalues and Eigenvectors? [ read more ] A must-know concept for Machine Learning 9 min read
+ Why Data Normalization is necessary for Machine Learning models [ read more ] Normalization is a technique often applied as part of data preparation for machine learning. The goal of… 4 min read
+ Remember the $86 million license plate scanner I replicated? I caught someone… [ read more ] A few weeks ago, I published what I thought at the time was a fairly innocuous article: How I replicated an… 11 min read</description>
+    </item>
     
     <item>
       <title>Introduction to Model Trees from scratch  </title>

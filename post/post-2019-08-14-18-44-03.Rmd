@@ -1,0 +1,54 @@
+---
+title: "What are Eigenvalues and Eigenvectors?  " 
+author: 
+date: 2019-08-14
+slug: 
+categories: 
+- datanormalization
+- learning
+- concept
+- datascience
+- AI
+tags: 
+- datanormalization
+- learning
+- concept
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## What are Eigenvalues and Eigenvectors?   
+[ <a href="" target="_blank">read more</a> ] 
+  A must-know concept for Machine Learning 9 min read 
+
+
+
+
+## Why Data Normalization is necessary for Machine Learning models   
+[ <a href="https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029" target="_blank">read more</a> ] 
+  Normalization is a technique often applied as part of data preparation for machine learning. The goal of… 4 min read 
+
+
+
+
+## Remember the $86 million license plate scanner I replicated? I caught someone…   
+[ <a href="" target="_blank">read more</a> ] 
+  A few weeks ago, I published what I thought at the time was a fairly innocuous article: How I replicated an… 11 min read 
+
+
+
+
+## RL - Value Learning   
+[ <a href="https://medium.com/@jonathan_hui/rl-value-learning-24f52b49c36d" target="_blank">read more</a> ] 
+  Value learning is a fundamental concept in reinforcement learning. It is as basic as the fully connected… 10 min read 
+
+
+
+
+## 'Money 20 20 examines the alchemy of fintech (Felix Kronabetter)' 
+ [ <a href="https://www.finextra.com/blogposting/17721/money-20-20-examines-the-alchemy-of-fintech?utm_medium=rssfinextra&utm_source=finextrablogs" target="_blank">read more</a> ]
+Returning to Amsterdams RAI for the second time, Money 20/20 Europe 2019 brought together over 350 industry leaders who provided 70 hours of content to the 6,000 attendees from 2,000 companies hailing from 82 countries. The event covered the full spectrum
+ o… [+5608 chars] 
+
+

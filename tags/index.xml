@@ -50,7 +50,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -183,6 +183,15 @@
     </item>
     
     <item>
+      <title>Concept</title>
+      <link>/tags/concept/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Css</title>
       <link>/tags/css/</link>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
@@ -201,9 +210,18 @@
     </item>
     
     <item>
+      <title>Datanormalization</title>
+      <link>/tags/datanormalization/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/datanormalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -437,7 +455,7 @@
     <item>
       <title>Learning</title>
       <link>/tags/learning/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/learning/</guid>
       <description></description>
