@@ -50,7 +50,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -221,7 +221,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -392,7 +392,7 @@
     <item>
       <title>Introduction</title>
       <link>/tags/introduction/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/introduction/</guid>
       <description></description>
@@ -455,7 +455,7 @@
     <item>
       <title>Learning</title>
       <link>/tags/learning/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/learning/</guid>
       <description></description>
@@ -710,6 +710,15 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readpolicy</title>
+      <link>/tags/readpolicy/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/readpolicy/</guid>
       <description></description>
     </item>
     

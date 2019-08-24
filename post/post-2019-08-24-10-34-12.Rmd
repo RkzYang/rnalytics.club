@@ -1,0 +1,54 @@
+---
+title: "Building a Convolutional Neural Network (CNN) in Keras  " 
+author: 
+date: 2019-08-24
+slug: 
+categories: 
+- learning
+- readpolicy
+- introduction
+- datascience
+- AI
+tags: 
+- learning
+- readpolicy
+- introduction
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Building a Convolutional Neural Network (CNN) in Keras   
+[ <a href="https://medium.com/@eijaz/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5" target="_blank">read more</a> ] 
+  Deep Learning is becoming a very popular subset of machine learning due to its high level of performance… 7 min read 
+
+
+
+
+## Deep learning for recommender systems   
+[ <a href="https://medium.com/@marcel.kurovski/deep-learning-for-recommender-systems-48c786a20e1a" target="_blank">read more</a> ] 
+  How we improve vehicle recommendations at mobile.de 12 min read 
+
+
+
+
+## Recommendation System Algorithms   
+[ <a href="https://medium.com/@daniilkorbut/recommendation-system-algorithms-ba67f39ac9a3" target="_blank">read more</a> ] 
+  Main existing recommendation engines and how they work 6 min read 
+
+
+
+
+## Policy Gradients   
+[ <a href="https://medium.com/@amitpatel.gt/policy-gradients-1edbbbc8de6b" target="_blank">read more</a> ] 
+  Introduction 16 min read 
+
+
+
+
+## 'Spaceport America, police cat, Superdome plan: News from around our 50 states' 
+ [ <a href="https://www.usatoday.com/story/news/50-states/2019/08/16/spaceport-america-police-cat-superdome-plan-news-around-states/39968663/?utm_source=google&utm_medium=amp&utm_campaign=speakable" target="_blank">read more</a> ]
+Alabama
+Decatur: The city is looking for a new slogan, and it wont be A little different. The north Alabama community of 55,000 people is trying to come up with a new branding tagline, and a Birmingham-based consulting firm suggested it use A little differen… [+45219 chars] 
+
+
