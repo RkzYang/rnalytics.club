@@ -50,7 +50,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -221,7 +221,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -314,6 +314,15 @@
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/flair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask Restplus</title>
+      <link>/categories/flask-restplus/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/flask-restplus/</guid>
       <description></description>
     </item>
     
@@ -617,7 +626,7 @@
     <item>
       <title>Part</title>
       <link>/categories/part/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/part/</guid>
       <description></description>
@@ -671,7 +680,7 @@
     <item>
       <title>Python</title>
       <link>/categories/python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/python/</guid>
       <description></description>
@@ -899,6 +908,15 @@
       <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>/categories/visualization/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/visualization/</guid>
       <description></description>
     </item>
     

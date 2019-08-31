@@ -50,7 +50,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -221,7 +221,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -314,6 +314,15 @@
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/flair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask Restplus</title>
+      <link>/tags/flask-restplus/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/flask-restplus/</guid>
       <description></description>
     </item>
     
@@ -617,7 +626,7 @@
     <item>
       <title>Part</title>
       <link>/tags/part/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/part/</guid>
       <description></description>
@@ -671,7 +680,7 @@
     <item>
       <title>Python</title>
       <link>/tags/python/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/python/</guid>
       <description></description>
@@ -899,6 +908,15 @@
       <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visualization/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,55 @@
+---
+title: "Strings, Unicode, and Bytes in Python 3: Everything You Always Wanted to Know  " 
+author: 
+date: 2019-08-31
+slug: 
+categories: 
+- part
+- python
+- flask-restplus
+- visualization
+- datascience
+- AI
+tags: 
+- part
+- python
+- flask-restplus
+- visualization
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Strings, Unicode, and Bytes in Python 3: Everything You Always Wanted to Know   
+[ <a href="https://medium.com/@andreacolangelo/strings-unicode-and-bytes-in-python-3-everything-you-always-wanted-to-know-27dc02ff2686" target="_blank">read more</a> ] 
+  Understanding the significant new features of Python 3 9 min read 
+
+
+
+
+## Data Visualization with Bokeh in Python, Part III: Making a Complete Dashboard   
+[ <a href="https://medium.com/@williamkoehrsen/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23" target="_blank">read more</a> ] 
+  Creating an interactive visualization application in Bokeh 10 min read 
+
+
+
+
+## Designing Well-Structured REST APIs with Flask-RestPlus: Part 1   
+[ <a href="https://medium.com/@preslavrachev/designing-well-structured-rest-apis-with-flask-restplus-part-1-7e96f2da8850" target="_blank">read more</a> ] 
+  This is the first part of a two-part series. In this post, I will introduce Flask-RestPlus and demonstrate… 7 min read 
+
+
+
+
+## Deploying a Text Classification Model using Flask and Vue.js   
+[ <a href="https://medium.com/@stevemutuvi/deploying-a-text-classification-model-using-flask-and-vue-js-25b9aa7ff048" target="_blank">read more</a> ] 
+  Introduction 5 min read 
+
+
+
+
+## 'Wabash Arts Corridor in Chicago, Illinois' 
+ [ <a href="https://www.atlasobscura.com/places/wabash-arts-corridor" target="_blank">read more</a> ]
+In Chicagos South Loop is a collection of murals by some of the worlds most famous and influential street artists. The Wabash Arts Corridor was started in 2013 by Columbia College Chicago, a college specializing in art and media disciplines. The Wabash Arts C… [+717 chars] 
+
+
