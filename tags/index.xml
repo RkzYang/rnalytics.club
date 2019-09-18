@@ -50,7 +50,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -221,7 +221,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -230,7 +230,7 @@
     <item>
       <title>Deep</title>
       <link>/tags/deep/</link>
-      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep/</guid>
       <description></description>
@@ -579,6 +579,15 @@
     </item>
     
     <item>
+      <title>Nlpmodel</title>
+      <link>/tags/nlpmodel/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nlpmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Numpy</title>
       <link>/tags/numpy/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
@@ -680,7 +689,7 @@
     <item>
       <title>Python</title>
       <link>/tags/python/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/python/</guid>
       <description></description>
@@ -935,6 +944,15 @@
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/week/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word</title>
+      <link>/tags/word/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/word/</guid>
       <description></description>
     </item>
     

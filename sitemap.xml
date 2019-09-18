@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/pytorch-1.2-quickstart-with-google-colab/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/strings-unicode-and-bytes-in-python-3-everything-you-always-wanted-to-know/</loc>
     <lastmod>2019-08-31T00:00:00+00:00</lastmod>
   </url>
@@ -204,7 +209,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -265,13 +270,13 @@
   
   <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ai/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -499,25 +504,25 @@
   
   <url>
     <loc>/tags/datascience/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/datascience/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/deep/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/deep/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -978,6 +983,18 @@
   </url>
   
   <url>
+    <loc>/tags/nlpmodel/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/nlpmodel/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/numpy/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1063,7 +1080,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1123,13 +1140,13 @@
   
   <url>
     <loc>/tags/python/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/python/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1472,6 +1489,18 @@
   <url>
     <loc>/categories/week/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/word/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/word/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

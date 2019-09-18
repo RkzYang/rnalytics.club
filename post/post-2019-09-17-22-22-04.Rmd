@@ -1,0 +1,56 @@
+---
+title: "PyTorch 1.2 Quickstart with Google Colab  " 
+author: 
+date: 2019-09-17
+slug: 
+categories: 
+- nlpmodel
+- word
+- python
+- deep
+- datascience
+- AI
+tags: 
+- nlpmodel
+- word
+- python
+- deep
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## PyTorch 1.2 Quickstart with Google Colab   
+[ <a href="https://medium.com/@ibelmopan/pytorch-1-2-quickstart-with-google-colab-6690a30c38d" target="_blank">read more</a> ] 
+  In this tutorial, we will learn how to quickly train a deep learning model to understand some of PyTorch's… 6 min read 
+
+
+
+
+## Beyond Word Embeddings Part 2- Word Vectors & NLP Modeling from BoW to BERT   
+[ <a href="https://medium.com/@aribornstein/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec" target="_blank">read more</a> ] 
+  A primer in the neural nlp model archticture and word representation. 10 min read 
+
+
+
+
+## 🚀 100 Times Faster Natural Language Processing in Python   
+[ <a href="https://medium.com/@Thomwolf/100-times-faster-natural-language-processing-in-python-ee32033bdced" target="_blank">read more</a> ] 
+  How to take advantage of spaCy & a bit of Cython for blazing fast NLP 10 min read 
+
+
+
+
+## Text Mining in Python: Steps and Examples   
+[ <a href="https://medium.com/@sdhilip/text-mining-in-python-steps-and-examples-78b3f8fd913b" target="_blank">read more</a> ] 
+  In today's scenario, one way of people's success identified by how they are communicating and sharing… 7 min read 
+
+
+
+
+## 'Moms Panel Monday: Tips for Making the Most of your Star Wars: Galaxy’s Edge Visit' 
+ [ <a href="https://disneyparks.disney.go.com/blog/2019/09/moms-panel-monday-tips-for-making-the-most-of-your-star-wars-galaxys-edge-visit/" target="_blank">read more</a> ]
+If you and your family are preparing for a visit to Star Wars: Galaxys Edge, the immersive new land located in Disneys Hollywood Studios, then you wont want to miss these tips from members of the Disney Parks Moms Panel.
+First, make sure you download the Pla… [+3385 chars] 
+
+
