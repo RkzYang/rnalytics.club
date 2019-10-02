@@ -50,7 +50,7 @@
     <item>
       <title>Ai</title>
       <link>/categories/ai/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -221,7 +221,7 @@
     <item>
       <title>Datascience</title>
       <link>/categories/datascience/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/datascience/</guid>
       <description></description>
@@ -489,6 +489,15 @@
     </item>
     
     <item>
+      <title>Life</title>
+      <link>/categories/life/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lot</title>
       <link>/categories/lot/</link>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
@@ -734,7 +743,7 @@
     <item>
       <title>React</title>
       <link>/categories/react/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/react/</guid>
       <description></description>
@@ -944,6 +953,24 @@
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/voiceinteractions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue</title>
+      <link>/categories/vue/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/vue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Way</title>
+      <link>/categories/way/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/way/</guid>
       <description></description>
     </item>
     

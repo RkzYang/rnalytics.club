@@ -1,0 +1,55 @@
+---
+title: "Write to Express, Not to Impress  " 
+author: 
+date: 2019-10-01
+slug: 
+categories: 
+- react
+- vue
+- way
+- life
+- datascience
+- AI
+tags: 
+- react
+- vue
+- way
+- life
+- datascience
+- AI
+isCJKLanguage: no 
+---
+
+## Write to Express, Not to Impress   
+[ <a href="https://medium.com/@meseali/write-to-express-not-to-impress-465d628f39fe" target="_blank">read more</a> ] 
+  18 quick fixes to sharpen your writing 6 min read 
+
+
+
+
+## Animations with Matplotlib   
+[ <a href="https://medium.com/@parulnith/animations-with-matplotlib-d96375c5442c" target="_blank">read more</a> ] 
+  Animations are an interesting way of demonstrating a phenomenon. We as humans are always enthralled by… 6 min read 
+
+
+
+
+## I created the exact same app in React and Vue. Here are the differences. [2019…   
+[ <a href="https://medium.com/@sunilsandhu/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56" target="_blank">read more</a> ] 
+  React vs Vue. Finally, a side-by-side code comparison between Vue and React! 🎉 [Updated for 2019: Now with… 14 min read 
+
+
+
+
+## 10 Life Quotes That (If Applied) Will Change the Way You See The World Forever   
+[ <a href="https://medium.com/@Chef_BoyarDEJI/10-life-quotes-that-if-applied-will-change-the-way-you-see-the-world-forever-d05338ae489b" target="_blank">read more</a> ] 
+  Why do we love life quotes so much? 11 min read 
+
+
+
+
+## 'Why are scientists so excited about a recently claimed quantum computing milestone?' 
+ [ <a href="https://www.rappler.com/technology/features/241243-quantum-computing-milestone-the-conversation" target="_blank">read more</a> ]
+None 
+
+
