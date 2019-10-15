@@ -50,7 +50,7 @@
     <item>
       <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -221,7 +221,7 @@
     <item>
       <title>Datascience</title>
       <link>/tags/datascience/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datascience/</guid>
       <description></description>
@@ -347,7 +347,7 @@
     <item>
       <title>Guide</title>
       <link>/tags/guide/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/guide/</guid>
       <description></description>
@@ -606,6 +606,15 @@
     </item>
     
     <item>
+      <title>Nlptask</title>
+      <link>/tags/nlptask/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nlptask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Numpy</title>
       <link>/tags/numpy/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
@@ -707,7 +716,7 @@
     <item>
       <title>Python</title>
       <link>/tags/python/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/python/</guid>
       <description></description>

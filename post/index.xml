@@ -6,10 +6,21 @@
     <description>Recent content in Posts on R&#39;nalytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hant</language>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Make your JavaScript elegant with recursions  </title>
+      <link>/posts/make-your-javascript-elegant-with-recursions/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/make-your-javascript-elegant-with-recursions/</guid>
+      <description>Make your JavaScript elegant with recursions [ read more ] A short guide 6 min read
+ Examining Gender and Race Bias in Sentiment Analysis Systems [ read more ] The study determines whether sentiment analysis systems display inappropriate human biases. 6 min read
+ The Easy Guide to Python Command Line Arguments 😎 [ read more ] One of the strengths of Python is that it comes with the ability to do just about anything.</description>
+    </item>
     
     <item>
       <title>Write to Express, Not to Impress  </title>
